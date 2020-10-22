@@ -1,12 +1,4 @@
-baseURL = "https://example.org"
-
-disableKinds = ["page", "section", "taxonomy", "term"]
-
-[module]
-  [module.hugoVersion]
-    extended = false
-    min = "0.75.0"
-
-[build]
-# Used by PurgeCSS
-writeStats = true
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme="tailwind"
