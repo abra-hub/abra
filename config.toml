@@ -6,7 +6,7 @@ theme="tailwind"
 [module]
   [module.hugoVersion]
     extended = false
-    min = "0.75.0"
+    min = "0.76.5"
 
 [build]
 # Used by PurgeCSS
