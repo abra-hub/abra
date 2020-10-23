@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on ABRA</title>
+    <link>laughing-swanson-6aff3d.netlify.app/about/</link>
+    <description>Recent content in Abouts on ABRA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2020 09:00:00 +1000</lastBuildDate><atom:link href="laughing-swanson-6aff3d.netlify.app/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About the Journal</title>
+      <link>laughing-swanson-6aff3d.netlify.app/about/journal/</link>
+      <pubDate>Sat, 18 Jul 2020 09:00:00 +1000</pubDate>
+      
+      <guid>laughing-swanson-6aff3d.netlify.app/about/journal/</guid>
+      <description>Basic information about the journal</description>
+    </item>
+    
+    <item>
+      <title>Editorial Team</title>
+      <link>laughing-swanson-6aff3d.netlify.app/about/editorial-team/</link>
+      <pubDate>Sat, 18 Jul 2020 09:00:00 +1000</pubDate>
+      
+      <guid>laughing-swanson-6aff3d.netlify.app/about/editorial-team/</guid>
+      <description>Names and details of editorial board members</description>
+    </item>
+    
+    <item>
+      <title>Submissions</title>
+      <link>laughing-swanson-6aff3d.netlify.app/about/submissions/</link>
+      <pubDate>Sat, 18 Jul 2020 09:00:00 +1000</pubDate>
+      
+      <guid>laughing-swanson-6aff3d.netlify.app/about/submissions/</guid>
+      <description>Information on submissions</description>
+    </item>
+    
+  </channel>
+</rss>

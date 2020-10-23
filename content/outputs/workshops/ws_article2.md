@@ -1,7 +1,7 @@
 ---
 title: "My Workshop Article #2"
 date: 2020-10-23T12:29:16+02:00
-draft: true
+draft: false
 ---
 
 ## Overview
