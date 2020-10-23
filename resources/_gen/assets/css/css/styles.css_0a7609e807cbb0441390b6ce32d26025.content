@@ -20021,6 +20021,9 @@ video {
   animation: bounce 1s infinite !important;
 }
 
+[x-cloak] { display: none;
+}
+
 html {
   font-size: 14px;
 }

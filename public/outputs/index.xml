@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Outputs on ABRA</title>
-    <link>laughing-swanson-6aff3d.netlify.app/outputs/</link>
+    <link>https://laughing-swanson-6aff3d.netlify.app/outputs/</link>
     <description>Recent content in Outputs on ABRA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2020 12:29:16 +0200</lastBuildDate><atom:link href="laughing-swanson-6aff3d.netlify.app/outputs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Oct 2020 12:29:16 +0200</lastBuildDate><atom:link href="https://laughing-swanson-6aff3d.netlify.app/outputs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>laughing-swanson-6aff3d.netlify.app/outputs/blog/</link>
+      <link>https://laughing-swanson-6aff3d.netlify.app/outputs/blog/</link>
       <pubDate>Thu, 22 Oct 2020 20:12:19 +0200</pubDate>
       
-      <guid>laughing-swanson-6aff3d.netlify.app/outputs/blog/</guid>
+      <guid>https://laughing-swanson-6aff3d.netlify.app/outputs/blog/</guid>
       <description>Blog</description>
     </item>
     
     <item>
       <title>Workshops</title>
-      <link>laughing-swanson-6aff3d.netlify.app/outputs/workshops/</link>
+      <link>https://laughing-swanson-6aff3d.netlify.app/outputs/workshops/</link>
       <pubDate>Thu, 22 Oct 2020 20:12:05 +0200</pubDate>
       
-      <guid>laughing-swanson-6aff3d.netlify.app/outputs/workshops/</guid>
+      <guid>https://laughing-swanson-6aff3d.netlify.app/outputs/workshops/</guid>
       <description>WS</description>
     </item>
     
     <item>
       <title>Curriculum</title>
-      <link>laughing-swanson-6aff3d.netlify.app/outputs/curriculum/</link>
+      <link>https://laughing-swanson-6aff3d.netlify.app/outputs/curriculum/</link>
       <pubDate>Thu, 22 Oct 2020 20:11:23 +0200</pubDate>
       
-      <guid>laughing-swanson-6aff3d.netlify.app/outputs/curriculum/</guid>
+      <guid>https://laughing-swanson-6aff3d.netlify.app/outputs/curriculum/</guid>
       <description>Curriculum</description>
     </item>
     

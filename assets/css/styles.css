@@ -4,12 +4,15 @@
 
 @import "components/all.css";
 
+[x-cloak] { display: none; }
+
 html {
-    font-size: 14px;
+	font-size: 14px;
 }
 
 @screen md {
     html {
-        font-size: 16px;
+		font-size: 16px;
+
     }
 }
