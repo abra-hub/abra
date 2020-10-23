@@ -1,0 +1,4 @@
+<div class="h-1 homepage-issue-identifier my-2">{{ with .Page.Params.volume }}Vol.
+	{{ . }}{{ end }}{{ with .Page.Params.issue }} No. {{ . }}{{ end }} ({{ dateFormat "2006" .Page.Params.issuedate }})
+</div>
+<div class="h6 homepage-issue-published my-8">Published {{ dateFormat "January 2, 2006" .Params.issuedate }}</div>

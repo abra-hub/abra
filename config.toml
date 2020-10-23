@@ -1,4 +1,106 @@
-baseURL = "http://example.org/"
+baseURL = "localhost"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "ABRA"
 theme="tailwind"
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.75.0"
+
+[build]
+# Used by PurgeCSS
+writeStats = true
+
+# The site's parameters
+[params]
+  home = "Home"
+  abbreviatedTitle = "ABRA"
+  description = "Artificial Biology, Robots & Art"
+  favicon = "img/favicon.png"
+
+  ## Publisher Information
+  publisher = {name = "Episteme Health Inc.", city = "Melbourne", state = "Victoria", country = "Australia"}
+  journalDOI = "10.xxxx/demo"
+  publisherjournalabbreviation = "HSJT"
+  subjects = ["Subject1", "Subject2"]
+  crossmark_enabled = false
+
+  ## Homepage image. Different sizes can be used to provide responsiveness.
+  homepageimageset = [{img = "img/homepage_480w.jpg", width = "480w", maxwidth = "800px"},
+    {img = "img/homepage_960w.jpg", width = "960w", maxwidth = "1440px"},
+    {img = "img/homepage_1920w.jpg", width = "1920w", maxwidth = ""}]
+  homepageimagefallback = "img/homepage_960w.jpg"
+  homepageimagealt = "Neurons artwork homepage image. CC0 Geralt/Pixabay id-582054"
+
+  lenslogo = "img/lens-journal-logo.png"
+
+  ## Set current issue or leave blank and the most recent issue will be used.
+  currentissuepath = ""
+
+  twittercard = "summary_large_image"
+  twitterhandle = "@epistemehealth"
+  socialimage = "img/twittercard.jpg"
+  socialimagealt = "Logo"
+  socialdescription = "Health Sciences Journal Description"
+
+  ## Set to true to load libraries from Cloudflare and Tailwind CDNs where available. Otherwise leave blank.
+  useCDN = true
+
+  ## Custom blocks for the footer
+  customblocks = [{ name = "Custom Block", content = "Website footer custom block."},
+  {name = "Erasmus+", content = "Here maybe some logo with a short description"},
+  {name = "Privacy Notice", content = "The only user information collected from this website is in the form of log files generated the site's [hosting provider](https://www.netlify.com/privacy/)."},
+  {name = "Contact Us", content = "Place to group all of the necessary contact"}]
+
+  footercontent = "Footer content."
+
+  [privacy]
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.disqus]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true
+
+  [menu]
+    [[menu.main]]
+      weight = 2
+      name = "Articles"
+      url = "article"
+    [[menu.main]]
+      weight = 3
+      name = "Events"
+      url = "events"
+    [[menu.main]]
+      weight = 4
+      name = "News"
+      url = "news"
+    [[menu.main]]
+      weight = 5
+      name = "Outputs"
+      hasChildren = true
+    [[menu.main]]
+      parent = "Outputs"
+      name = "Curriculum"
+      url = "outputs/curriculum"
+      weight = 6
+    [[menu.main]]
+      parent = "Outputs"
+      name = "Workshops"
+      url = "outputs/workshops"
+      weight = 7
+    [[menu.main]]
+      parent = "Outputs"
+      name = "Blog"
+      url = "blog"
+      weight = 8
+
+[taxonomies]
+  keyword = "keywords"
