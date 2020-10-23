@@ -95,7 +95,6 @@
       "h-4",
       "h-6",
       "h-64",
-      "h-full",
       "hidden",
       "highlight",
       "hover:bg-gray-200",
@@ -215,7 +214,6 @@
       "philosophy",
       "span-elements",
       "test",
-      "test-header",
       "this-is-a-header",
       "this-is-test-heading"
     ]

@@ -1,4 +1,4 @@
-baseURL = "localhost"
+baseURL = "laughing-swanson-6aff3d.netlify.app"
 languageCode = "en-us"
 title = "ABRA"
 theme="tailwind"
