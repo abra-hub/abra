@@ -1,7 +1,8 @@
 ---
-title: "Topic #2"
+title: "Topic #2 - Changed from CMS"
 date: 2020-10-23T12:29:16+02:00
 draft: false
+thumbnail: /img/uploads/screenshot-2020-10-26-at-20.22.21.png
 ---
 
 ## Overview
