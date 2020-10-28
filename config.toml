@@ -19,13 +19,6 @@ writeStats = true
   description = "Artificial Biology, Robots & Art"
   favicon = "img/favicon.png"
 
-  ## Publisher Information
-  publisher = {name = "Episteme Health Inc.", city = "Melbourne", state = "Victoria", country = "Australia"}
-  journalDOI = "10.xxxx/demo"
-  publisherjournalabbreviation = "HSJT"
-  subjects = ["Subject1", "Subject2"]
-  crossmark_enabled = false
-
   ## Homepage image. Different sizes can be used to provide responsiveness.
   homepageimageset = [{img = "img/homepage_480w.jpg", width = "480w", maxwidth = "800px"},
     {img = "img/homepage_960w.jpg", width = "960w", maxwidth = "1440px"},
@@ -34,9 +27,6 @@ writeStats = true
   homepageimagealt = "Neurons artwork homepage image. CC0 Geralt/Pixabay id-582054"
 
   lenslogo = "img/lens-journal-logo.png"
-
-  ## Set current issue or leave blank and the most recent issue will be used.
-  currentissuepath = ""
 
   twittercard = "summary_large_image"
   twitterhandle = "@epistemehealth"
@@ -104,3 +94,17 @@ writeStats = true
 
 [taxonomies]
   keyword = "keywords"
+
+[languages]
+  [[en]]
+	languageName= "English"
+	weight= 1
+  [[hu]]
+	languageName= "Hungarian"
+	weight= 2
+	[[it]]
+	languageName= "Italian"
+	weight= 3
+  [[fi]]
+	languageName= "Finnish"
+	weight= 4

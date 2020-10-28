@@ -3,3 +3,14 @@
 <script src="{{ "js/main.js" | absURL }}"></script>
 <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js"></script>
 <script src="{{ "js/main.js" | absURL }}"></script>{{ end }}
+<script>
+	if (window.netlifyIdentity) {
+		window.netlifyIdentity.on("init", user => {
+			if (!user) {
+				window.netlifyIdentity.on("login", () => {
+					document.location.href = "/admin/";
+				});
+			}
+		});
+	}
+</script>
