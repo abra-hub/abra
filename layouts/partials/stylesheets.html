@@ -7,6 +7,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" />
 {{ end }} -->
 <!-- Main Stylesheet -->
+{{/* styles */}}
 {{ $options := dict "inlineImports" true }}
 {{ $styles := resources.Get "css/styles.css" }}
 {{ $styles = $styles | resources.PostCSS $options }}
@@ -14,4 +15,4 @@
 {{ $styles = $styles | minify | fingerprint | resources.PostProcess }}
 {{ end }}
 <link href="{{ $styles.RelPermalink }}" rel="stylesheet" />
-<link rel="stylesheet" href="{{ "css/default.css" | absURL }}" />
+{{/*  <link rel="stylesheet" href="{{ "css/default.css" | absURL }}" /> */}}

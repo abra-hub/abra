@@ -10,6 +10,13 @@ const em = (px, base) => `${round(px / base)}em`;
 const px = (px) => `${px}px`;
 
 module.exports = {
+	theme: {
+		extend: {
+			margin: {
+			'-72': '-18rem',
+			}
+		}
+	},
 	important: true, // See https://tailwindcss.com/docs/configuration#important
 	experimental: {
 		// See https://github.com/tailwindlabs/tailwindcss/pull/2159
