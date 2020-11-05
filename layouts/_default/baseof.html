@@ -2,16 +2,12 @@
 <html lang="en">
 
 <head>
-	<meta charset="utf-8">
-	<title>
-		{{ .Title }}
-	</title>
-	<meta name="description" content="{{ .Description }}">
-
-	{{ partial "stylesheets.html" . }}
-	{{ partial "head.html" . }}{{ with .Site.Params.mirrorfor }}
+	{{ partial "head.html" . }}
+	{{ with .Site.Params.mirrorfor }}
 	<link rel="canonical" href="{{ . }}" />
-	{{ end }}{{ partial "social-meta.html" . }}{{ partial "stylesheets.html" . }}
+	{{ end }}
+	{{ partial "social-meta.html" . }}
+	{{ partial "stylesheets.html" . }}
 </head>
 
 <body class="flex flex-col min-h-screen">

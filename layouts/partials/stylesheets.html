@@ -15,4 +15,3 @@
 {{ $styles = $styles | minify | fingerprint | resources.PostProcess }}
 {{ end }}
 <link href="{{ $styles.RelPermalink }}" rel="stylesheet" />
-{{/*  <link rel="stylesheet" href="{{ "css/default.css" | absURL }}" /> */}}

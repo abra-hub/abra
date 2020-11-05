@@ -119,3 +119,14 @@ dist
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+Thumbs.db
+.DS_Store
+.dist
+.tmp
+.sass-cache
+npm-debug.log
+node_modules
+builds
+package-lock.json
+public

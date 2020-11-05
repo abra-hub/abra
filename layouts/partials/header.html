@@ -5,9 +5,8 @@
 		sizes="{{range $elem_index, $elem_val := $.Site.Params.homepageimageset }}{{ with .maxwidth }}(maxwidth: {{ . }}){{ end }}{{ .width }}{{ if lt $elem_index $homepagesrcset }}, {{ end }}{{ end }}"
 		{{ end }}{{ with .Site.Params.homepageimagefallback }} src="{{ . | absURL }}"
 		{{ end }}{{ with .Site.Params.homepageimagealt }} alt="{{ . }}" {{ end }}> -->
-	<div class="container flex flex-col items-start justify-center h-64 mx-auto px-2">
+	<div class="container flex flex-col items-start justify-center h-64 mx-auto ">
 		<h1 class="text-5xl">{{ .Site.Params.description }} </h1>
-		<h2 class="">{{ .Site.Params.description }} </h1>
 	</div>
 
 </div>

@@ -1,6 +1,7 @@
 baseURL = "https://laughing-swanson-6aff3d.netlify.app/"
 languageCode = "en-us"
 title = "ABRA"
+theme = ["hugo-social-metadata"]
 
 [module]
   [module.hugoVersion]
@@ -13,36 +14,41 @@ writeStats = true
 
 # The site's parameters
 [params]
+description = "Artificial Biology, Robots & Art"
+keywords = "robotics, artificial, biology, education, transdisciplinary, content" # TODO SEO
+twitterUsername = "@your_twitter_username" #TODO
+socialImage = "path/to/the/twitter/card/image" # TODO
 home = "Home"
 abbreviatedTitle = "ABRA"
-description = "Artificial Biology, Robots & Art"
-favicon = "img/favicon.png"
+# googleAnalytics = "UA-111111111111-1"
+canonifyURLs = true
+# copyright = "Author"
+enableRobotsTXT = true
+favicon = "/img/favicon.png"
+logo = "/img/logo_a.png"
 
 ## Homepage image. Different sizes can be used to provide responsiveness.
-homepageimageset = [{img = "img/homepage_480w.jpg", width = "480w", maxwidth = "800px"},
-	{img = "img/homepage_960w.jpg", width = "960w", maxwidth = "1440px"},
-	{img = "img/homepage_1920w.jpg", width = "1920w", maxwidth = ""}]
+homepageimageset = [{img = "/img/homepage_480w.jpg", width = "480w", maxwidth = "800px"},
+	{img = "/img/homepage_960w.jpg", width = "960w", maxwidth = "1440px"},
+	{img = "/img/homepage_1920w.jpg", width = "1920w", maxwidth = ""}]
 homepageimagefallback = "img/homepage_960w.jpg"
 homepageimagealt = "Neurons artwork homepage image. CC0 Geralt/Pixabay id-582054"
 
-lenslogo = "img/lens-journal-logo.png"
-
-twittercard = "summary_large_image"
-twitterhandle = "@epistemehealth"
-socialimage = "img/twittercard.jpg"
-socialimagealt = "Logo"
-socialdescription = "Health Sciences Journal Description"
-
+## TODO: Social Media
+# twittercard = "summary_large_image"
+# twitterhandle = "@epistemehealth"
+# socialimage = "img/twittercard.jpg"
+# socialimagealt = "Logo"
+# socialdescription = "Health Sciences Journal Description"
 ## Set to true to load libraries from Cloudflare and Tailwind CDNs where available. Otherwise leave blank.
 useCDN = true
-
 ## Custom blocks for the footer
 customblocks = [{ name = "Custom Block", content = "Website footer custom block."},
 {name = "Erasmus+", content = "Here maybe some logo with a short description"},
 {name = "Privacy Notice", content = "The only user information collected from this website is in the form of log files generated the site's [hosting provider](https://www.netlify.com/privacy/)."},
 {name = "Contact Us", content = "Place to group all of the necessary contact"}]
-
 footercontent = "Footer content."
+
 
 [privacy]
 [privacy.googleAnalytics]
@@ -60,131 +66,47 @@ footercontent = "Footer content."
 
 [[Languages.en.menu.main]]
 	weight = 2
-	name = "Articles"
-	url = "article"
-[[Languages.en.menu.main]]
-	weight = 3
-	name = "Events"
-	url = "events"
-[[Languages.en.menu.main]]
-	weight = 4
-	name = "News"
-	url = "news"
-[[Languages.en.menu.main]]
-	weight = 5
-	name = "Outputs"
-	hasChildren = true
-[[Languages.en.menu.main]]
-	parent = "Outputs"
-	name = "Curriculum"
-	url = "outputs/curriculum"
-	weight = 6
-[[Languages.en.menu.main]]
-	parent = "Outputs"
-	name = "Workshops"
-	url = "outputs/workshops"
-	weight = 7
-[[Languages.en.menu.main]]
-	parent = "Outputs"
 	name = "Blog"
 	url = "blog"
-	weight = 8
+[[Languages.en.menu.main]]
+	weight = 3
+	name = "Team"
+	url = "team"
+[[Languages.en.menu.main]]
+	weight = 4
+	name = "Events"
+	url = "events"
+
+
 # ITALIAN NAVIGATION --------------------
 [[Languages.it.menu.main]]
-	weight = 2
-	name = "[IT] Articles"
-	url = "article"
-[[Languages.it.menu.main]]
-	weight = 3
-	name = "[IT] Events"
-	url = "events"
-[[Languages.it.menu.main]]
-	weight = 4
-	name = "[IT] News"
-	url = "news"
-[[Languages.it.menu.main]]
-	weight = 5
-	name = "[IT] Outputs"
-	hasChildren = true
-[[Languages.it.menu.main]]
-	parent = "Outputs"
-	name = "[IT] Curriculum"
-	url = "outputs/curriculum"
-	weight = 6
-[[Languages.it.menu.main]]
-	parent = "Outputs"
-	name = "[IT] Workshops"
-	url = "outputs/workshops"
-	weight = 7
-[[Languages.it.menu.main]]
-	parent = "Outputs"
+	weight = 1
 	name = "[IT] Blog"
 	url = "blog"
-	weight = 8
+[[Languages.it.menu.main]]
+	weight = 2
+	name = "[IT] Events"
+	url = "events"
+
 # HUNGARIAN NAVIGATION
 [[Languages.hu.menu.main]]
 	weight = 2
-	name = "[HU] Articles"
-	url = "article"
+	name = "[HU] Blog"
+	url = "blog"
 [[Languages.hu.menu.main]]
 	weight = 3
 	name = "[HU] Events"
 	url = "events"
-[[Languages.hu.menu.main]]
-	weight = 4
-	name = "[HU] News"
-	url = "news"
-[[Languages.hu.menu.main]]
-	weight = 5
-	name = "[HU] Outputs"
-	hasChildren = true
-[[Languages.hu.menu.main]]
-	parent = "Outputs"
-	name = "[HU] Curriculum"
-	url = "outputs/curriculum"
-	weight = 6
-[[Languages.hu.menu.main]]
-	parent = "Outputs"
-	name = "[HU] Workshops"
-	url = "outputs/workshops"
-	weight = 7
-[[Languages.hu.menu.main]]
-	parent = "Outputs"
-	name = "[HU] Blog"
-	url = "blog"
-	weight = 8
+
 # FINNISH NAVIGATION
 [[Languages.fi.menu.main]]
 	weight = 2
-	name = "[fi] Articles"
-	url = "article"
+	name = "[fi] Blog"
+	url = "blog"
 [[Languages.fi.menu.main]]
 	weight = 3
 	name = "[fi] Events"
 	url = "events"
-[[Languages.fi.menu.main]]
-	weight = 4
-	name = "[fi] News"
-	url = "news"
-[[Languages.fi.menu.main]]
-	weight = 5
-	name = "[fi] Outputs"
-	hasChildren = true
-[[Languages.fi.menu.main]]
-	parent = "Outputs"
-	name = "[fi] Curriculum"
-	url = "outputs/curriculum"
-	weight = 6
-[[Languages.fi.menu.main]]
-	parent = "Outputs"
-	name = "[fi] Workshops"
-	url = "outputs/workshops"
-	weight = 7
-[[Languages.fi.menu.main]]
-	parent = "Outputs"
-	name = "[fi] Blog"
-	url = "blog"
-	weight = 8
 
 [taxonomies]
   keyword = "keywords"

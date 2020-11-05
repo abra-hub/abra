@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="{{ if $.Params.language }}{{ slicestr $.Params.language  0 2 }}{{ else }}{{ $.Site.Language }}{{ end }}">
+
+<head>
+	{{ partial "head.html" . }}
+	{{ partial "social-meta.html" . }}
+	{{ partial "stylesheets.html" . }}
+</head>
+
+<body>
+	{{ partial "navigation.html" . }}
+	<div class="article__top bg-center bg-gray-700" {{ with .Params.thumbnail }}
+		style="background-image: url({{ . | absURL }})" {{ end }}>
+		{{/*  {{ if .Params.thumbnail }}<img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" />{{ end }} */}}
+	</div>
+	<article class="container mx-auto row">
+		<div class="justify-content-center -mt-72 bg-white md:shadow relative">
+			<div class="text-center pt-8">
+				<h1>{{ .Title }}</h1>
+			</div>
+			<div class="flex">
+				<div class="px-16">
+					<div class="prose">
+						{{ .Content }}
+					</div>
+				</div>
+			</div>
+		</div>
+		<section>
+			{{ range .Site.AllPages }}
+			<h1>{{ .Title }}</h1>
+			{{end}}
+		</section>
+	</article>
+
+	{{ partial "footer.html" . }}
+	{{ partial "javascript-libraries.html" . }}
+</body>
+
+</html>
