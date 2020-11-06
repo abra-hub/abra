@@ -74,8 +74,8 @@ footercontent = "Footer content."
 	url = "team"
 [[Languages.en.menu.main]]
 	weight = 4
-	name = "Events"
-	url = "events"
+	name = "Calendar"
+	url = "calendar"
 
 
 # ITALIAN NAVIGATION --------------------

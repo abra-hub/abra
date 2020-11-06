@@ -1,7 +1,10 @@
 ---
-title: "My Workshop Article #2"
+title: "Karina"
 date: 2020-10-23T12:29:16+02:00
 draft: false
+thumbnail: ""
+role: "Project coordinator"
+
 ---
 
 ## Overview

@@ -12,6 +12,8 @@ html {
 
 body {
 	background-color: RGBA(255,255,255,1);
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 h1,
@@ -23,7 +25,32 @@ h6,
 a,
 p {
 	color: theme('colors.text');
+	/* #262626 */
 }
+@layer base {
+	h1 {
+		font-size: calc(32px + 10 * ((100vw - 320px) / 1280));
+		line-height: calc(36px + 13 * ((100vw - 320px) / 1280))
+	}
+	h2 {
+		font-size: calc(18px + 6 * ((100vw - 320px) / 1280));
+		line-height: calc(25px + 7 * ((100vw - 320px) / 1280));
+		/* font-size: 24px;
+		line-height: 36px; */
+	}
+	h3 {
+		font-size: calc(24px + 8 * ((100vw - 320px) / 1280));
+		line-height: calc(30px + 12 * ((100vw - 320px) / 1280));
+	}
+
+}
+
+/* h1 {
+	font-size: calc(38px + 12 * ((100vw - 320px) / 1280));
+}
+p {
+	font-size: 24px;
+} */
 
 .post__image {
 	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16);
@@ -33,12 +60,20 @@ p {
     transform: translate(0, -4px);
 	box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.12);
 }
+
 .article__top {
 	position: relative;
 	min-height: 580px;
 	height: auto;
 	background-size: cover;
 }
+#defaultCanvas0 {
+	vertical-align: top;
+	z-index: -1;
+	position: absolute;
+	top: 0;
+}
+
 @screen md {
     html {
 		font-size: 16px;
