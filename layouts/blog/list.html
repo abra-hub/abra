@@ -1,7 +1,7 @@
 {{- define "main" -}}
 <div id="blog" x-data="{ tab: 'all' }">
 	<!-- Categories -->
-	<div class='sticky top-0 bg-white pt-1 {{if eq .Page.Title "Blog"}}border-b{{end}} z-30'>
+	<div class='sticky top-0 bg-white pt-2 {{if eq .Page.Title "Blog"}}border-b{{end}} z-30'>
 		<div class="container mx-auto my-4">
 			<!-- TODO: Add translation -->
 			<button :class="{ 'font-bold': tab === 'all' }" @click="tab = 'all'">All articles</button>

@@ -42,9 +42,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
 	var sketch = function(p) {
 		var agents = [];
-		var agentCount = 500;
-		var noiseScale = 50;
-		var noiseStrength = 10;
+		var agentCount = 1500;
+		var noiseScale = 150;
+		var noiseStrength = 110;
 		var noiseZRange = 0.4;
 		var noiseZVelocity = 0.01;
 		var overlayAlpha = 10;
@@ -75,6 +75,10 @@ document.addEventListener("DOMContentLoaded", function () {
 		  }
 		};
 
+		p.windowResized = function(e) {
+			p.resizeCanvas(p.windowWidth, p.windowHeight);
+		}
+
 		p.keyReleased = function() {
 		  if (p.key == 's' || p.key == 'S') p.saveCanvas(gd.timestamp(), 'png');
 		  if (p.key == '1') drawMode = 1;
@@ -88,7 +92,7 @@ document.addEventListener("DOMContentLoaded", function () {
 		};
 
 		p.mouseWheel = function(e) {
-			// console.log(e)
+			// console.log(e)window.innerWidth
 			var y = e.screenY
 			strokeWidth = y / 100
 			// strokeWidth(x);
