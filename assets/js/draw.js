@@ -42,8 +42,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
 	var sketch = function(p) {
 		var agents = [];
-		var agentCount = 1500;
-		var noiseScale = 150;
+		var agentCount = 1000;
+		var noiseScale = 100;
 		var noiseStrength = 110;
 		var noiseZRange = 0.4;
 		var noiseZVelocity = 0.01;
@@ -65,7 +65,7 @@ document.addEventListener("DOMContentLoaded", function () {
 		  p.noStroke();
 		  p.rect(0, 0, p.width, p.height);
 		  // Draw agents
-		  p.stroke(0, agentAlpha);
+		  p.stroke(100, agentAlpha);
 		  for (var i = 0; i < agentCount; i++) {
 			if (drawMode == 1) {
 			  agents[i].update1(strokeWidth, noiseScale, noiseStrength, noiseZVelocity);
@@ -94,7 +94,7 @@ document.addEventListener("DOMContentLoaded", function () {
 		p.mouseWheel = function(e) {
 			// console.log(e)window.innerWidth
 			var y = e.screenY
-			strokeWidth = y / 100
+			// strokeWidth = y / 100
 			// strokeWidth(x);
 		}
 
@@ -107,7 +107,7 @@ document.addEventListener("DOMContentLoaded", function () {
 		// console.log(this.oldScroll > this.scrollY);
 		this.oldScroll = this.scrollY;
 		// console.log(this.oldScroll)
-		myp5.noiseScale = this.oldScroll
+		// myp5.noiseScale = this.oldScroll
 	  }
 });
 

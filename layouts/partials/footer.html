@@ -1,11 +1,45 @@
 <footer class="bg-gray-200 inset-x-0.bottom-0">
-	<div class="container mx-auto flex flex-col md:flex-row py-8">
-		{{ range $elem_index, $elem_val := .Site.Params.customblocks }}
-		<div class="pkp_block block_custom" id="customblock-Publisher-{{ add $elem_index 1 }}">
-			<div class="content">
-				<p><span class="title">{{ .name }}</span></p>
-				<p>{{ .content | markdownify }}</p>
+	<div class="container mx-auto">
+		<div class="flex flex-row py-8 justify-between">
+			<div class="w-1/3 grid grid-cols-1 gap-3 ">
+				<div>
+					<img src="svg/eu-logo.svg" alt="">
+				</div>
+				<div>
+					AAU Logo
+				</div>
+				<div>
+					Trento Logo
+				</div>
 			</div>
-		</div>{{ end }}
+			<div class="w-1/3 grid grid-cols-1 gap-3">
+				<div>
+					Any other logo?
+				</div>
+				<div>
+					ADES logo
+				</div>
+				<div>
+					ALTO
+				</div>
+			</div>
+			<div class="flex flex-col">
+				{{ range .Site.Menus.main }}
+				<a class="" href="{{ .URL | absLangURL }}/">{{ .Name }}</a>
+				{{end}}
+			</div>
+			<div class="flex flex-col">
+				<div>
+					Instagram
+				</div>
+				<div>
+					Facebook
+				</div>
+				<div>
+					Twitter
+				</div>
+			</div>
+		</div>
+		<div class="mb-6">This project has been funded by the Erasmus+ Programme of the European Union.</div>
 	</div>
 </footer>
