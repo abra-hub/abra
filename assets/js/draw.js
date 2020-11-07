@@ -81,14 +81,14 @@ document.addEventListener("DOMContentLoaded", function () {
 		  if (p.key == '2') drawMode = 2;
 		  if (p.key == ' ') {
 			var newNoiseSeed = p.floor(p.random(10000));
-			console.log('newNoiseSeed', newNoiseSeed);
+			// console.log('newNoiseSeed', newNoiseSeed);
 			p.noiseSeed(newNoiseSeed);
 		  }
 		  if (p.keyCode == p.DELETE || p.keyCode == p.BACKSPACE) p.background(255);
 		};
 
 		p.mouseWheel = function(e) {
-			console.log(e)
+			// console.log(e)
 			var y = e.screenY
 			strokeWidth = y / 100
 			// strokeWidth(x);
