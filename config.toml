@@ -1,4 +1,5 @@
 baseURL = "https://laughing-swanson-6aff3d.netlify.app/"
+# baseURL = "localhost:1313"
 languageCode = "en-us"
 title = "ABRA"
 theme = ["hugo-social-metadata"]

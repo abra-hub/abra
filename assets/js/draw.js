@@ -1,10 +1,14 @@
 document.addEventListener("DOMContentLoaded", function () {
 	'use strict';
 
-	var Agent = function(noiseZRange) {
-		this.vector = myp5.createVector(myp5.random(myp5.width), myp5.random(myp5.height));
+	var Agent = function(noiseZRange, index) {
+		var isEven = false
+		if(index % 2 == 0) {
+			isEven = true
+		}
+		this.vector = myp5.createVector(isEven ? 0 : myp5.width, myp5.random(myp5.height));
 		this.vectorOld = this.vector.copy();
-		this.stepSize = myp5.random(1, 0.3);
+		this.stepSize = myp5.random(1, 1.5);
 		this.angle;
 		this.noiseZ = myp5.random(noiseZRange);
 	  };
@@ -46,9 +50,9 @@ document.addEventListener("DOMContentLoaded", function () {
 		var noiseScale = 100;
 		var noiseStrength = 110;
 		var noiseZRange = 0.4;
-		var noiseZVelocity = 0.01;
+		var noiseZVelocity = 0.001;
 		var overlayAlpha = 10;
-		var agentAlpha = 90;
+		var agentAlpha = 255;
 		var strokeWidth = 1;
 		var drawMode = 1;
 
@@ -56,12 +60,13 @@ document.addEventListener("DOMContentLoaded", function () {
 		  p.createCanvas(p.windowWidth, p.windowHeight);
 
 		  for (var i = 0; i < agentCount; i++) {
-			agents[i] = new Agent(noiseZRange);
+			agents[i] = new Agent(noiseZRange, i);
 		  }
 		};
 
 		p.draw = function() {
-		  p.fill(255, overlayAlpha);
+		//   p.fill(255, overlayAlpha);
+		  p.fill(209, 217, 214, 7);
 		  p.noStroke();
 		  p.rect(0, 0, p.width, p.height);
 		  // Draw agents

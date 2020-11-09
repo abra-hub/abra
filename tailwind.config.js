@@ -46,6 +46,9 @@ module.exports = {
 			colors: {
 				text: "#16141A",
 			},
+			zIndex: {
+				'-10': '-10',
+			}
 		},
 	},
 	plugins: [ typography ]

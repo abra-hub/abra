@@ -8,26 +8,30 @@
 
 html {
 	font-size: 14px;
+	font-family: "Hero New Regular";
+	/*  */
 }
 
-body {
-	background-color: RGBA(255,255,255,1);
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-a,
-p {
-	color: theme('colors.text');
-	/* #262626 */
-}
 @layer base {
+
+	body {
+		/* background-color: #d1d9d6; */
+		background-color: #fff;
+	   -webkit-font-smoothing: antialiased;
+	   -moz-osx-font-smoothing: grayscale;
+	}
+
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6,
+	a,
+	p {
+		color: theme('colors.text');
+		/* #262626 */
+	}
 	h1 {
 		font-size: calc(32px + 10 * ((100vw - 320px) / 1280));
 		line-height: calc(36px + 13 * ((100vw - 320px) / 1280))
@@ -67,10 +71,13 @@ p {
 	height: auto;
 	background-size: cover;
 }
+#canvas_draw {
+	z-index: -10;
+}
 #defaultCanvas0 {
 	vertical-align: top;
 	z-index: -1;
-	position: absolute;
+	position: fixed;
 	top: 0;
 }
 
