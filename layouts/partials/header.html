@@ -1,5 +1,4 @@
-{{ $script := resources.Get "js/draw.js" | minify | js.Build}}
-<script src="{{ $script.Permalink }}"></script>
+{{ partial "draw.html" . }}
 <!-- <div class="h-64 z-0 bg-cover bg-center" {{ with .Site.Params.homepageimagefallback }}
 	style="background-image: url({{ . | absURL }})" {{ end }}> -->
 <div class="min-h-screen container flex flex-col justify-center">
