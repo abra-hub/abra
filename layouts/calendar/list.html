@@ -1,0 +1,14 @@
+{{- define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end -}}
+{{- define "main" -}}
+<div class="bg-white">
+	<div class="container">
+		<div class="flex flex-col md:flex-row mb-20 pt-8">
+			<h1 class="md:w-1/4 pr-8">{{ .Title }}</h1>
+			<h2 class="md:w-2/4 mt-3 md:mt-0">
+			</h2>
+		</div>
+		{{ partial "calendar.html" (dict "dot" . "limit" "99")}}
+
+	</div>
+</div>
+{{end}}

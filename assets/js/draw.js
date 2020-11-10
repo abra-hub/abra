@@ -53,7 +53,7 @@ document.addEventListener("DOMContentLoaded", function () {
 		var noiseZVelocity = 0.001;
 		var overlayAlpha = 10;
 		var agentAlpha = 255;
-		var strokeWidth = 1;
+		var strokeWidth = 4;
 		var drawMode = 1;
 
 		p.setup = function() {
@@ -65,14 +65,14 @@ document.addEventListener("DOMContentLoaded", function () {
 		};
 
 		p.draw = function() {
-		//   p.fill(255, overlayAlpha);
-		  p.fill(209, 217, 214, 7);
+		  p.fill(30, overlayAlpha);
+		//   p.fill(209, 217, 214, 7);
 		  p.noStroke();
 		  p.rect(0, 0, p.width, p.height);
 		  // Draw agents
-		  p.stroke(100, agentAlpha);
 		  for (var i = 0; i < agentCount; i++) {
 			if (drawMode == 1) {
+			  p.stroke(p.random(200,217), p.random(200,217), p.random(200,217), p.random(1,20));
 			  agents[i].update1(strokeWidth, noiseScale, noiseStrength, noiseZVelocity);
 			} else {
 			  agents[i].update2(strokeWidth, noiseScale, noiseStrength, noiseZVelocity);

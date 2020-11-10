@@ -2,16 +2,12 @@
 <!-- <div class="h-64 z-0 bg-cover bg-center" {{ with .Site.Params.homepageimagefallback }}
 	style="background-image: url({{ . | absURL }})" {{ end }}> -->
 <div class="min-h-screen container flex flex-col justify-center">
-	<h1 class="md:w-1/3 text-white bg-black opacity-25 px-5 pt-5 z-30">ABRA</h1>
-	<h2 class="md:w-1/3 text-white text-transparent bg-black opacity-25 px-5 pb-5 z-30 ">Artificail
-		Biology,
-		Robots
-		and
-		Arts
+	<h1 class="md:w-2/3 text-white px-5 pt-5 mt-5 z-30 text-6xl">ABRA</h1>
+	<h2 id="demo" class="md:w-2/3 text-white p-5 mb-5 z-30 text-2xl">
+		Artificial Biology, Robots & Arts
 	</h2>
 </div>
 <div id="canvas_draw" class="-z-10 h-screen w-screen fixed top-0 left-0">
-
 	<!-- <img class=" object-cover h-64 w-full z-0"
 		{{ with $.Site.Params.homepageimageset }}{{ $homepagesrcset := sub (len $.Site.Params.homepageimageset) 1}}srcset="{{range $elem_index, $elem_val := $.Site.Params.homepageimageset }}{{ .img | absURL }} {{ .width }}{{ if lt $elem_index $homepagesrcset }}, {{ end }}{{ end }}"
 		sizes="{{range $elem_index, $elem_val := $.Site.Params.homepageimageset }}{{ with .maxwidth }}(maxwidth: {{ . }}){{ end }}{{ .width }}{{ if lt $elem_index $homepagesrcset }}, {{ end }}{{ end }}"

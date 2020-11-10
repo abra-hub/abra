@@ -1,10 +1,11 @@
 ---
 title: "Elizabeth Jochum"
 draft: false
-summary: "Summary start here: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris. Nam arcu libero, nonummy eget, consectetuer id, vulputate a, magna. Donec vehicula augue eu neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris ut leo. Cras viverra metus rhoncus sem. Nulla et lectus vestibulum urna fringilla ultrices. Phasellus eu tellus sit amet tortor gravida placerat. Integer sapien est, iaculis in, pretium quis, viverra ac, nunc. Praesent eget sem vel leo ultrices bibendum. Aenean faucibus."
-thumbnail: "/img/uploads/national-cancer-institute-l7en7lb-ovc-unsplash.jpg"
-socialImage: "/img/uploads/national-cancer-institute-l7en7lb-ovc-unsplash.jpg"
+summary: "Elizabeth Jochum (associate professor) leads the [RELATE Research Laboratory for Art and Technology at Aalborg University. Her research bridges the visual and performing arts with engineering and human-robot interaction. Dr. Jochum is a guest editor for Frontiers In Robotics and AI for a forthcoming issue on The Art of Human Robot Interaction: Creative Perspectives from Design and the Arts."
+thumbnail: "/img/uploads/profiles/jochum.jpeg"
+socialImage: "/img/uploads/profiles/jochum.jpeg"
 role: "Project Coordinator"
+links: ["https://www.communication.aau.dk/research/knowledge_groups/relate/"]
 ---
 
 

@@ -1,31 +1,16 @@
-<!DOCTYPE html>
-<html lang="{{ if $.Params.language }}{{ slicestr $.Params.language  0 2 }}{{ else }}{{ $.Site.Language }}{{ end }}">
-
-<head>
-
-	{{ partial "head.html" . }}
-	{{ partial "social-meta.html" . }}
-	{{ partial "stylesheets.html" . }}
-</head>
-
-<body>
-	{{ partial "navigation.html" . }}
-	<div class="container page-custom">
-		<div class="row page-header justify-content-md-center">
-			<div class="col-md-8">
-				<h1>{{ .Title }}</h1>
-			</div>
+{{define "main"}}
+<div class="container page-custom">
+	<div class="row page-header justify-content-md-center">
+		<div class="col-md-8">
+			<h1>{{ .Title }}</h1>
 		</div>
-		<div class="row justify-content-md-center">
-			<div class="col-md-8">
-				<div class="page-content">
-					{{ .Content }}
-				</div>
+	</div>
+	<div class="row justify-content-md-center">
+		<div class="col-md-8">
+			<div class="page-content">
+				{{ .Content }}
 			</div>
 		</div>
 	</div>
-	{{ partial "footer.html" . }}
-	{{ partial "javascript-libraries.html" . }}
-</body>
-
-</html>
+</div>
+{{end}}

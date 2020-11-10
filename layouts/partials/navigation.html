@@ -3,10 +3,10 @@
 	<!-- component -->
 	<div x-data="{ open: false }" x-cloak>
 		<div class=" antialiased">
-			<div class='top-0 w-full text-gray-700 bg-white {{ if .IsHome }}absolute top-0 bg-opacity-25{{else}}sticky{{end}} {{if eq .Page.Title "Blog"}}{{else}}border-b{{end}} z-50'
+			<div class='top-0 w-full text-gray-700 bg-white {{ if .IsHome }}absolute top-0{{else}}sticky{{end}} {{if eq .Page.Title "Blog"}}{{else}}border-b{{end}} z-50'
 				:class="{'bg-opacity-100': open}">
 				<div class="container mx-auto flex flex-col md:items-center md:justify-between md:flex-row">
-					<div class="flex flex-row items-center py-4">
+					<div class="flex flex-row items-center py-4 justify-between">
 						<a href="{{ .Site.BaseURL | absLangURL}}"
 							class="text-lg font-semibold tracking-widest text-gray-900 uppercase rounded-lg dark-mode:text-white focus:outline-none focus:shadow-outline">
 							<!-- {{ .Site.Title }} -->
@@ -14,9 +14,10 @@
 							<!-- LG - FULL LOGO -->
 							<img src="{{ .Site.Params.Logo}}" alt="ABRA" class="w-32" />
 						</a>
-						<button class="rounded-lg md:hidden focus:outline-none ml-3 focus:shadow-outline"
+						<button
+							class="rounded-lg md:hidden focus:outline-none ml-3 focus:shadow-outline flex flex-row mt-2 align-text-top"
 							@click="open = !open">
-							<span class="text-bold">{{.Title}}</span>
+							<div class="text-bold">Menu</div>
 							<svg fill="currentColor" viewBox="0 0 20 20"
 								:class="{'rotate-180': open, 'rotate-0': !open}"
 								class="inline w-4 h-4 mt-1 ml-1 transition-transform duration-200 transform md:-mt-1">

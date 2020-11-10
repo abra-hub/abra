@@ -1,19 +1,49 @@
 backend:
-  name: git-gateway
-  branch: production # Branch to update (optional; defaults to master)
+ name: git-gateway
+ branch: production # Branch to update (optional; defaults to master)
+
 publish_mode: editorial_workflow
 media_folder: "static/img/uploads" # Media files will be stored in the repo under static/img/uploads
 public_folder: "/img/uploads" # The src attribute for uploaded media will begin with /img/uploads
 collections:
-  - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Blog" # Used in the UI
-    folder: "content/blog" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {label: "Body", name: "body", widget: "markdown"}
+ - name: "blog" # Used in routes, e.g., /admin/collections/blog
+   label: "Blog" # Used in the UI
+   folder: "content/blog" # The path to the folder where the documents are stored
+   create: true # Allow users to create new documents in this collection
+   slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+   fields: # The fields for each document, usually in front matter
+    - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+    - {label: "Title", name: "title", widget: "string"}
+    - {label: "Author", name: "author", widget: "string"}
+    - {label: "Publish Date", name: "date", widget: "datetime"}
+    - {label: "Featured Image", name: "thumbnail", widget: "image"}
+    # - {label: "Author", name: "author", widget: "relation", collection: "team", valueField: "title", searchFields: ["title"], displayFields: "{{slug}}"}
+    - {label: "Body", name: "body", widget: "markdown"}
 
+ - name: "event" # Used in routes, e.g., /admin/collections/blog
+   label: "Event" # Used in the UI
+   folder: "content/calendar" # The path to the folder where the documents are stored
+   create: true # Allow users to create new documents in this collection
+   slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+   fields: # The fields for each document, usually in front matter
+   - {label: "Layout", name: "layout", widget: "hidden", default: "event"}
+   - {label: "Title", name: "title", widget: "string"}
+   - {label: "Author", name: "author", widget: "string"}
+   - {label: "Publish Date", name: "date", widget: "datetime"}
+   - {label: "Event Start Date", name: "startDate", widget: "datetime"}
+   - {label: "Event End Date", name: "endDate", widget: "datetime"}
+   - {label: "City", name: "city", widget: "string"}
+   - {label: "Featured Image", name: "thumbnail", widget: "image"}
+   - {label: "Body", name: "body", widget: "markdown"}
+
+ - name: "team" # Used in routes, e.g., /admin/collections/blog
+   label: "Team" # Used in the UI
+   folder: "content/team" # The path to the folder where the documents are stored
+   create: true # Allow users to create new documents in this collection
+   slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+   fields: # The fields for each document, usually in front matter
+   - {label: "Layout", name: "layout", widget: "hidden", default: "team"}
+   - {label: "Title", name: "title", widget: "string"}
+   - {label: "Publish Date", name: "date", widget: "datetime"}
+   - {label: "Featured Image", name: "thumbnail", widget: "image"}
+   - {label: "Body", name: "body", widget: "markdown"}
