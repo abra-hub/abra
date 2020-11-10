@@ -9,10 +9,6 @@
 <script src="{{ .link | absURL }}"></script>
 {{ end }}
 
-<!-- Main Script -->
-{{ $script := resources.Get "js/script.js" | minify}}
-<script src="{{ $script.Permalink }}"></script>
-
 <script>
 	if (window.netlifyIdentity) {
 		window.netlifyIdentity.on("init", user => {
