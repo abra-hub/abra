@@ -1,7 +1,6 @@
 [build]
 publish = "public"
-command = "hugo --gc --minify -d public;"
-
+command = "hugo --gc --minify"
 
 [context.production.environment]
 HUGO_VERSION = "0.78.1"
@@ -30,35 +29,3 @@ HUGO_VERSION = "0.78.1"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
-[[headers]]
-for = "/*.jpg"
-
-[headers.values]
-Cache-Control = "public, max-age=604800"
-
-[[headers]]
-for = "/*.png"
-
-[headers.values]
-Cache-Control = "public, max-age=604800"
-
-[[headers]]
-for = "/*.css"
-
-[headers.values]
-Cache-Control = "public, max-age=604800"
-
-[[headers]]
-for = "/*.js"
-
-[headers.values]
-Cache-Control = "public, max-age=604800"
-
-[[headers]]
-for = "/webfonts/*"
-
-[headers.values]
-Cache-Control = "public, max-age=604800"
-
-[[headers]]
-for = "/*"
