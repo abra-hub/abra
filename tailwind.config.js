@@ -33,6 +33,7 @@ module.exports = {
 			center: true,
 			padding: '2rem'
 		},
+
 		extend: {
 			borderWidth: {
 				default: '1px',
@@ -45,6 +46,9 @@ module.exports = {
 			},
 			colors: {
 				text: "#16141A",
+				header: "#181818",
+				primary: "#181818"
+
 			},
 			zIndex: {
 				'-10': '-10',

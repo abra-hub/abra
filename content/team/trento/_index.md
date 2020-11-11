@@ -1,3 +1,3 @@
 ---
-title: "UniTrento"
+title: "Trento University"
 ---

@@ -1,6 +1,7 @@
 baseURL = "https://friendly-shannon-4cf547.netlify.app"
 # baseURL = "localhost:1313"
 languageCode = "en-us"
+DefaultContentLanguage = "en"
 title = "ABRA"
 theme = ["hugo-social-metadata"]
 
@@ -65,6 +66,10 @@ footercontent = "Footer content."
 [privacy.youtube]
 	disable = true
 
+[[Languages.en.menu.main]]
+	weight = 1
+	name = "About"
+	url = "about"
 [[Languages.en.menu.main]]
 	weight = 2
 	name = "Blog"

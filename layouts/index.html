@@ -2,23 +2,111 @@
 {{ partial "header.html" . }}
 <!-- {{ partial "timeline.svg" }} -->
 <div class="flex flex-col mx-auto">
+	<section class="md:h-screen bg-white w-full flex flex-col md:flex-row">
+		<header class="md:w-1/2 bg-white items-center flex container">
+			<div>
+				<h1 class="text-header mb-8">Entangling knowledge fields</h1>
+				<div class="content md:w-4/5">
+					<p>Artificial Biology, Robotics and Art (ABRA) is about creating knowledge across artificial
+						biology,
+						robotics, art and design in the context of sustainability.</p>
+					<p>The project cultivates transdisciplinary knowledge and capacity building in higher education.
+						Through
+						hands-on workshops and training, educators and learners work on tackling the skills gaps and
+						mismatches
+						in students and educators while addressing environmental and climate goals. In this
+						entanglement,
+						new
+						questions, new ideas, new solutions are generated.</p>
+					<footer>
+						*Image based on Neri Oxman’s Age of Entanglementsource: https://doi.org/10.21428/7e0583ad
+					</footer>
+				</div>
+			</div>
+		</header>
+		<div class="flex w-full mx-auto md:h-full md:w-1/2 items-center bg-primary">
+			<img class="w-full" src="/svg/landing-01-illustration.svg" alt="">
+		</div>
+	</section>
+	<section class="md:h-screen bg-white w-full flex flex-col-reverse md:flex-row">
+		<div class="flex md:w-1/2 items-center bg-primary justify-center">
+			<img class="w-1/3" src="/svg/team.svg" alt="">
+		</div>
+		<header class="md:w-1/2 bg-white items-center flex container">
+			<div>
+				<h1 class="text-header mb-8">Artificial biology, robots & art</h1>
+				<div class="content md:w-4/5">
+					<p>Through transdisciplinary teaching and training, ABRA facilitates the exchange of sustainable
+						best
+						practices that foster creativity and innovation while developing a shared language that prepares
+						students and teachers to tackle complex problems and solutions relevant for the twenty-first
+						century.</p>
+				</div>
+			</div>
+		</header>
+	</section>
+	<section class="md:h-screen bg-white w-full flex flex-col md:flex-row">
+		<header class="md:w-1/2 bg-white items-center flex container">
+			<div>
+				<h1 class="text-header mb-8">ABRA’s Objectives</h1>
+				<div class="content md:w-4/5">
+					<p> - create new pathways for art + science + engineering-driven creativity and innovation for
+						increased sustainability</p>
+					<p> - tackle skills gaps and mismatches in students, educators & researchers by promoting
+						transdisciplinary knowledge exchange</p>
+					<p> - address environmental and climate change by establishing an ongoing, multi-sector dialogue
+						about
+						concrete sustainable actions</p>
+					<p> - empower students & researchers to develop new processes, technologies, and methods of applying
+						existing technology towards sustainable solutions.</p>
+
+				</div>
+			</div>
+		</header>
+		<div class="flex md:w-1/2 items-center bg-primary justify-center">
+			<img class="w-2/3" src="/img/objectives.png" alt="">
+		</div>
+	</section>
+	<section class="md:h-screen bg-white w-full flex flex-col md:flex-row">
+		<div class="flex md:w-1/2 items-center bg-primary justify-center">
+			<img class="w-2/3" src="/img/team2.png" alt="">
+		</div>
+		<header class="md:w-1/2 bg-white items-center flex container">
+			<div>
+				<h1 class="text-header mb-8">ABRA: Team</h1>
+				<div class="content md:w-4/5">
+					<p> - Aalborg University’s (AAU) Research Laboratory for Art and Technology (RELATE) and Human-Robot
+						Interaction Lab focus on human-centered approaches and solutions for robots across industry,
+						health and the arts.</p>
+					<p> - The Department CIBIO at University of Trento (CIBIO) integrates classical cellular and
+						molecular biology approaches with the new powerful tools of systems and synthetic biology.</p>
+					<p> - Aalto University (AALTO) Art Department offers students access to emerging knowledge and
+						practices at the intersection of multiple fields through an arts-driven engagement withsocietal,
+						political, ecological and philosophical concerns and artistic approaches to
+						art-science-technology practices.</p>
+					<p> - The Institute of Advanced Design Studies (ADES) in Hungary, a non-profit, independent
+						educational organisation, offers studies in design for sustainability to students from
+						allbackgrounds, designed specifically to complement existing education programmes to increase
+						educational diversity for sustainability across disciplines.</p>
+
+				</div>
+			</div>
+		</header>
+	</section>
+
 	<section class="bg-white">
 		<div class="container">
-			{{ partial "site-header" (dict "title" "Events")}}
-
+			{{ partial "site-header" (dict "title" "Events" "subtitle" `Upcoming activities to create new pathways for art + science + engineering-driven creativity and innovation for
+			increased sustainability`)}}
 			<div class="mt-5">
-				{{ partial "calendar.html" (dict "dot" . "limit" "3")}}
+				{{ partial "calendar.html" (dict "dot" . "limit" "3" "upcomingOnly" true)}}
 			</div>
-			<button>More activities</button>
+			<button><a href="{{ .Site.BaseURL | absLangURL}}/calendar">More activities</a></button>
 		</div>
 	</section>
 	<section class="bg-white">
 		<div class="container">
-			{{ partial "site-header" (dict "title" "News")}}
-			<!-- <header class="flex flex-column justify-between mb-5">
-					<h1>News</h1>
-					<h2><a href="{{ .Site.BaseURL | absLangURL}}/blog">More articles</a></h2>
-				</header> -->
+			{{ partial "site-header" (dict "title" "News" "subtitle" ` Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis iusto totam ab rem deserunt dignissimos architecto cupiditate temporibus fuga, vitae quas corrupti odit repellendus porro esse facere placeat ipsam. Quas?`)}}
 			<div class="grid md:grid-cols-2 sm:grid-cols-1 lg:grid-cols-3 gap-8 mb-10">
 				{{ range where .Data.Pages "Section" "blog" }}
 				{{ $paginator := .Paginate (where .Pages ".Params.category" "article") 3 }}
@@ -33,7 +121,7 @@
 					</header>
 					<div class="m-2 text-justify text-sm">
 						<div class="flex flex-row">
-							<p class="text-left mr-2 text-grey">{{ dateFormat "January 2, 2006" .Date }}</p>
+							<div class="text-left mr-2 text-grey">{{ dateFormat "January 2, 2006" .Date }}</div>
 							<button class="text-gray-600">{{upper .Params.Category}}</button>
 						</div>
 						<h2 class="font-bold text-lg h-2 mb-8 hover:underline">

@@ -9,6 +9,7 @@
 html {
 	font-size: 14px;
 	/*  */
+	font-family: "Hero New Regular";
 }
 
 @layer base {
@@ -19,7 +20,6 @@ html {
 	   -webkit-font-smoothing: antialiased;
 	   -moz-osx-font-smoothing: grayscale;
 	}
-
 	h1,
 	h2,
 	h3,
@@ -45,9 +45,10 @@ html {
 		font-size: calc(24px + 8 * ((100vw - 320px) / 1280));
 		line-height: calc(30px + 12 * ((100vw - 320px) / 1280));
 	}
-
 }
-
+.content p {
+	padding-bottom: 2em;
+}
 /* h1 {
 	font-size: calc(38px + 12 * ((100vw - 320px) / 1280));
 }

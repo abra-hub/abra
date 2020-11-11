@@ -7,7 +7,8 @@ thumbnail: "/img/uploads/national-cancer-institute-l7en7lb-ovc-unsplash.jpg"
 socialImage: "/img/uploads/national-cancer-institute-l7en7lb-ovc-unsplash.jpg"
 tags: ["test", "tag", "social-tag"]
 category: "guide"
-authors: ["Elizabeth Jochum"]
+crosspost: true
+authors: ["Elizabeth Jochum", "Anca Horvath"]
 ---
 
 # This is test heading

@@ -4,23 +4,28 @@
 	{{/*  {{ if .Params.thumbnail }}<img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" />{{ end }} */}}
 </div>
 <article class="md:container mx-auto row">
-	<div class="justify-content-center -mt-72 bg-white md:shadow relative">
+	<div class="justify-content-center -mt-40 pb-32 bg-white relative">
 		<header class="text-center pt-8">
 			<h1>{{ .Title }}</h1>
 		</header>
 		<!-- TODO: Add reading time -->
 		<div class="post-meta-line">
 		</div>
-		<div class="flex">
-			<div class="px-8 md:px-16">
+	</div>
+</article>
+<div class="">
+	<div class="px-8">
+		<div class="md:w-1/2 mx-auto">
+			<div class="flex flex-row italic">
+				<div>By {{range .Params.authors}} | <span class="mr-1">{{.}}</span> {{end}}</div>
 				{{- with .Site.Params.dateformat | default "2006-01-02" | .PublishDate.Format -}}
-				<i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="{{ . }}">{{ . }}</time>&nbsp;
+				<time class="text" datetime="{{ . }}">| {{ . }}</time>
 				{{- end -}}
-				<div>
-					{{ .Content }}
-				</div>
+			</div>
+			<div class="content">
+				{{ .Content }}
 			</div>
 		</div>
 	</div>
-</article>
+</div>
 {{end}}
