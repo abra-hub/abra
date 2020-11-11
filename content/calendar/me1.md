@@ -2,7 +2,7 @@
 type: blog
 title: "ME1: Frontiers of HE: Transdisciplinary knowledge and sustainable profiles in research and teaching"
 author: Maros Pekarik
-category: "Multiplier Events"
+category: "multiplier-events"
 date: 2020-11-09T20:47:01.700Z
 startDate: 2021-08-30
 withoutTime: true

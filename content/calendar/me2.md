@@ -2,7 +2,8 @@
 type: blog
 title: "ME2: The Future of holistic perspectives and transdisciplinary knowledge in HE"
 author: Maros Pekarik
-category: "Multiplier Events"
+category: "multiplier-events"
+
 date: 2020-11-09T20:47:01.700Z
 startDate: 2022-06-01
 withoutTime: true

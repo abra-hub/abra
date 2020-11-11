@@ -1,6 +1,20 @@
 {{- define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end -}}
 {{- define "main" -}}
-<div class="bg-white">
+<div class="bg-white" x-data="{ tab: 'all' }">
+	<div class='sticky top-0 bg-white pt-2 {{if eq .Page.Title "Calendar"}}border-b{{end}} z-30'>
+		<div class="container mx-auto my-4">
+			<!-- TODO: Add translation -->
+			<button :class="{ 'font-bold': tab === 'all' }" @click="tab = 'all'">All</button>
+			{{ $categories := slice }}
+			{{ range .Data.Pages }}
+			{{ $categories = $categories | append .Params.Category }}
+			{{ end }}
+			{{ range ( $categories | uniq ) }}
+			<button class="px-2" :class="{ 'font-bold': tab ===  '{{ . | urlize }}'}"
+				@click="tab = '{{ . | urlize}}'">{{ . | humanize }}</button>
+			{{ end }}
+		</div>
+	</div>
 	<div class="container">
 		<div class="flex flex-col md:flex-row mb-20 pt-8">
 			<h1 class="md:w-1/4 pr-8">{{ .Title }}</h1>
@@ -8,7 +22,6 @@
 			</h2>
 		</div>
 		{{ partial "calendar.html" (dict "dot" . "limit" "99")}}
-
 	</div>
 </div>
 {{end}}

@@ -1,4 +1,4 @@
-<div class="flex pb-5">
+<div class="flex pb-5 text-sm">
 	<div class="w-2/4 pr-8">Event</div>
 	<div class="">City</div>
 	<div class="flex-auto text-right">Date</div>
@@ -11,7 +11,7 @@
 
 	{{ $paginator := .dot.Paginate (sort $pages ".Params.startDate") .limit  }}
 	{{ range $paginator.Pages }}
-	<li class="cursor-pointer hover:bg-gray-300">
+	<li x-show="tab === '{{.Params.Category}}' || tab === 'all' " class="cursor-pointer hover:bg-gray-300">
 		<a href="{{ .Permalink }}" class="py-3 border-b flex">
 			<div class="w-2/4 pr-8">{{.Title}}
 			</div>
