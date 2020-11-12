@@ -11,7 +11,7 @@
 
 	{{ $paginator := .dot.Paginate (sort $pages ".Params.startDate") .limit  }}
 	{{ range $paginator.Pages }}
-	<li x-show="tab === '{{.Params.Category}}' || tab === 'all' " class="cursor-pointer hover:bg-gray-300">
+	<li x-show="tab === '{{.Params.Category}}' || tab === 'all' " class="cursor-pointer hover:bg-primary-100">
 		<a href="{{ .Permalink }}" class="py-3 border-b flex">
 			<div class="w-2/4 pr-8">{{.Title}}
 			</div>

@@ -46,18 +46,24 @@ document.addEventListener("DOMContentLoaded", function () {
 
 	var sketch = function(p) {
 		var agents = [];
-		var agentCount = 1000;
+		var agentCount = 1500;
 		var noiseScale = 100;
 		var noiseStrength = 110;
 		var noiseZRange = 0.4;
 		var noiseZVelocity = 0.001;
 		var overlayAlpha = 10;
 		var agentAlpha = 255;
-		var strokeWidth = 4;
+		var strokeWidth = 1;
 		var drawMode = 1;
-
+		var a = 0.05
+		var bgColor = p.unhex(['d1', 'd9', 'd6']);
+		console.log(bgColor)
+		var r = bgColor[0] * a + 255 * (1 - a)
+		var g = bgColor[1] * a + 255 * (1 - a)
+		var b = bgColor[2] * a + 255 * (1 - a)
 		p.setup = function() {
 		  p.createCanvas(p.windowWidth, p.windowHeight);
+		  p.colorMode(p.RGB, 255, 255, 255, 1);
 
 		  for (var i = 0; i < agentCount; i++) {
 			agents[i] = new Agent(noiseZRange, i);
@@ -65,14 +71,16 @@ document.addEventListener("DOMContentLoaded", function () {
 		};
 
 		p.draw = function() {
-		  p.fill(30, overlayAlpha);
-		//   p.fill(209, 217, 214, 7);
+
+		//   p.fill(p.color("#d1d9d605"));
+		//   p.fill(r,g,b,a);
+		  p.fill('rgba(255, 255, 255, 0.025)');
 		  p.noStroke();
 		  p.rect(0, 0, p.width, p.height);
 		  // Draw agents
 		  for (var i = 0; i < agentCount; i++) {
 			if (drawMode == 1) {
-			  p.stroke(p.random(200,217), p.random(200,217), p.random(200,217), p.random(1,20));
+			  p.stroke(102, 116, 124, p.random(0.1,1));
 			  agents[i].update1(strokeWidth, noiseScale, noiseStrength, noiseZVelocity);
 			} else {
 			  agents[i].update2(strokeWidth, noiseScale, noiseStrength, noiseZVelocity);

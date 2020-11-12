@@ -46,8 +46,13 @@ module.exports = {
 			},
 			colors: {
 				text: "#16141A",
-				header: "#181818",
-				primary: "#181818"
+				header: "#414042",
+				accent: "#414042",
+				primary: {
+					"100": "#41404210",
+					"900": "#414042",
+				},
+				secondary: "#66747c"
 
 			},
 			zIndex: {

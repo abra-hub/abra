@@ -5,7 +5,7 @@
 </div>
 <article class="md:container mx-auto row">
 	<div class="justify-content-center -mt-40 pb-32 bg-white relative">
-		<header class="text-center pt-8">
+		<header class="text-center pt-8 px-10">
 			<h1>{{ .Title }}</h1>
 		</header>
 		<!-- TODO: Add reading time -->
@@ -18,7 +18,7 @@
 		<div class="md:w-1/2 mx-auto">
 			<div class="flex flex-row italic">
 				<div>By {{range .Params.authors}} | <span class="mr-1">{{.}}</span> {{end}}</div>
-				{{- with .Site.Params.dateformat | default "2006-01-02" | .PublishDate.Format -}}
+				{{- with .Site.Params.dateformat | default "02-01-2006" | .PublishDate.Format -}}
 				<time class="text" datetime="{{ . }}">| {{ . }}</time>
 				{{- end -}}
 			</div>

@@ -5,7 +5,7 @@
 	<div class='sticky top-0 bg-white pt-2 {{if eq .Page.Title "Blog"}}border-b{{end}} z-30'>
 		<div class="container mx-auto my-4">
 			<!-- TODO: Add translation -->
-			<button :class="{ 'font-bold': tab === 'all' }" @click="tab = 'all'">All articles</button>
+			<button :class="{ 'font-bold': tab === 'all' }" @click="tab = 'all'">All</button>
 			{{ $categories := slice }}
 			{{ range .Data.Pages }}
 			{{ $categories = $categories | append .Params.Category }}

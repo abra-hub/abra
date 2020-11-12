@@ -19,7 +19,8 @@
 
 <body class="flex flex-col min-h-screen">
 	{{ partial "navigation.html" . }}
-	<main class="flex-grow">
+	{{ if .IsHome }} {{ partial "header" . }} {{else}} {{end}}
+	<main class="flex-grow bg-white pb-24">
 		{{- block "main" . }}{{ end -}}
 	</main>
 </body>

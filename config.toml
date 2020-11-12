@@ -28,6 +28,7 @@ canonifyURLs = true
 enableRobotsTXT = true
 favicon = "/img/favicon.png"
 logo = "/img/logo_a.png"
+logoInverted = "/img/logo_b.png"
 
 ## Homepage image. Different sizes can be used to provide responsiveness.
 homepageimageset = [{img = "/img/homepage_480w.jpg", width = "480w", maxwidth = "800px"},

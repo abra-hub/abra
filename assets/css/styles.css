@@ -16,7 +16,7 @@ html {
 
 	body {
 		/* background-color: #d1d9d6; */
-		background-color: #fff;
+		background-color: #ffff;
 	   -webkit-font-smoothing: antialiased;
 	   -moz-osx-font-smoothing: grayscale;
 	}
@@ -28,7 +28,6 @@ html {
 	h6,
 	a,
 	p {
-		color: theme('colors.text');
 		/* #262626 */
 	}
 	h1 {
@@ -45,17 +44,14 @@ html {
 		font-size: calc(24px + 8 * ((100vw - 320px) / 1280));
 		line-height: calc(30px + 12 * ((100vw - 320px) / 1280));
 	}
+	.content {
+		@apply prose
+	}
 }
-.content p {
-	padding-bottom: 2em;
-}
-/* h1 {
-	font-size: calc(38px + 12 * ((100vw - 320px) / 1280));
-}
-p {
-	font-size: 24px;
-} */
 
+#page-landing section h1 {
+	line-height: 1.7em;
+}
 .post__image {
 	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16);
 	transition: transform 250ms ease, box-shadow 250ms ease;
