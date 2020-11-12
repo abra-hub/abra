@@ -1,5 +1,4 @@
-baseURL = "https://friendly-shannon-4cf547.netlify.app"
-# baseURL = "localhost:1313"
+baseURL = "https://abra-hub.net"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "ABRA"

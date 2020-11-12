@@ -113,7 +113,7 @@
 				<div class="post bg-white overflow-hidde">
 					<header>
 						<a class="image" href="{{ .Permalink }}">
-							<div class='post__image w-full bg-cover bg-center pb-60 mb-6 rounded-xl {{if eq (.Params.thumbnail | relURL) "/"}} bg-gradient-to-r from-secondary to-primary{{end}}'
+							<div class='post__image w-full bg-cover bg-center pb-60 mb-6 rounded-xl {{if eq (.Params.thumbnail | relURL) "/"}} bg-gradient-to-r from-primary-100 to-secondary{{end}}'
 								style='{{if eq (.Params.thumbnail | relURL) "/"}}{{else}} background-image: url(" {{ .Params.thumbnail | relURL }}"){{end}}'>
 							</div>
 						</a>

@@ -23,20 +23,22 @@
 					<img class="w-20" src="/svg/alto-logo.svg" alt="ALTO">
 				</div>
 			</div>
-			<div class="flex flex-col">
-				{{ range .Site.Menus.main }}
-				<a class="" href="{{ .URL | absLangURL }}/">{{ .Name }}</a>
-				{{end}}
-			</div>
-			<div class="flex flex-col">
-				<div>
-					Instagram
+			<div class="flex flex-row">
+				<div class="flex flex-col bg-white bg-opacity-50 p-8">
+					{{ range .Site.Menus.main }}
+					<a class="" href="{{ .URL | absLangURL }}/">{{ .Name }}</a>
+					{{end}}
 				</div>
-				<div>
-					Facebook
-				</div>
-				<div>
-					Twitter
+				<div class="flex flex-col bg-white bg-opacity-50 p-8">
+					<div>
+						Instagram
+					</div>
+					<div>
+						Facebook
+					</div>
+					<div>
+						Twitter
+					</div>
 				</div>
 			</div>
 		</div>
