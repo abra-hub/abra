@@ -4,23 +4,20 @@
 	<div class='sticky top-0 bg-white pt-2 {{if eq .Page.Title "Calendar"}}border-b{{end}} z-30'>
 		<div class="container mx-auto my-4">
 			<!-- TODO: Add translation -->
-			<button :class="{ 'font-bold': tab === 'all' }" @click="tab = 'all'">All</button>
+			<button :class="{ 'font-bold': tab === 'all' }" class="text-sm md:text-base"
+				@click="tab = 'all'">All</button>
 			{{ $categories := slice }}
 			{{ range .Data.Pages }}
 			{{ $categories = $categories | append .Params.Category }}
 			{{ end }}
 			{{ range ( $categories | uniq ) }}
-			<button class="px-2" :class="{ 'font-bold': tab ===  '{{ . | urlize }}'}"
+			<button class="px-2 text-sm md:text-base" :class="{ 'font-bold': tab ===  '{{ . | urlize }}'}"
 				@click="tab = '{{ . | urlize}}'">{{ . | humanize }}</button>
 			{{ end }}
 		</div>
 	</div>
 	<div class="container">
-		<div class="flex flex-col md:flex-row mb-20 pt-8">
-			<h1 class="md:w-1/4 pr-8">{{ .Title }}</h1>
-			<h2 class="md:w-2/4 mt-3 md:mt-0">
-			</h2>
-		</div>
+		{{ partial "site-header" (dict "title" .Title)}}
 		{{ partial "calendar.html" (dict "dot" . "limit" "99")}}
 	</div>
 </div>

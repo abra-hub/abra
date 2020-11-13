@@ -87,32 +87,56 @@ footercontent = "Footer content."
 # ITALIAN NAVIGATION --------------------
 [[Languages.it.menu.main]]
 	weight = 1
-	name = "[IT] Blog"
-	url = "blog"
+	name = "About"
+	url = "about"
 [[Languages.it.menu.main]]
 	weight = 2
-	name = "[IT] Events"
-	url = "events"
+	name = "Blog"
+	url = "blog"
+[[Languages.it.menu.main]]
+	weight = 3
+	name = "Team"
+	url = "team"
+[[Languages.it.menu.main]]
+	weight = 4
+	name = "Calendar"
+	url = "calendar"
 
 # HUNGARIAN NAVIGATION
 [[Languages.hu.menu.main]]
+	weight = 1
+	name = "About"
+	url = "about"
+[[Languages.hu.menu.main]]
 	weight = 2
-	name = "[HU] Blog"
+	name = "Blog"
 	url = "blog"
 [[Languages.hu.menu.main]]
 	weight = 3
-	name = "[HU] Events"
-	url = "events"
+	name = "Team"
+	url = "team"
+[[Languages.hu.menu.main]]
+	weight = 4
+	name = "Calendar"
+	url = "calendar"
 
 # FINNISH NAVIGATION
 [[Languages.fi.menu.main]]
+	weight = 1
+	name = "About"
+	url = "about"
+[[Languages.fi.menu.main]]
 	weight = 2
-	name = "[fi] Blog"
+	name = "Blog"
 	url = "blog"
 [[Languages.fi.menu.main]]
 	weight = 3
-	name = "[fi] Events"
-	url = "events"
+	name = "Team"
+	url = "team"
+[[Languages.fi.menu.main]]
+	weight = 4
+	name = "Calendar"
+	url = "calendar"
 
 [taxonomies]
   keyword = "keywords"
@@ -125,21 +149,9 @@ footercontent = "Footer content."
   [[hu]]
 	languageName= "Hungarian"
 	weight= 2
-	customblocks = [{ name = "[HU] Custom Block", content = "[HU] Website footer custom block."},
-  {name = "[HU] Erasmus+", content = "[HU] Here maybe some logo with a short description"},
-  {name = "[HU] Privacy Notice", content = "[HU] The only user information collected from this website is in the form of log files generated the site's [hosting provider](https://www.netlify.com/privacy/)."},
-  {name = "[HU] Contact Us", content = "[HU] Place to group all of the necessary contact"}]
 	[[it]]
 	languageName= "Italian"
 	weight= 3
-	customblocks = [{ name = "[IT] Custom Block", content = "[IT] Website footer custom block."},
-  {name = "[IT] Erasmus+", content = "[IT] Here maybe some logo with a short description"},
-  {name = "[IT] Privacy Notice", content = "[IT] The only user information collected from this website is in the form of log files generated the site's [hosting provider](https://www.netlify.com/privacy/)."},
-  {name = "[IT] Contact Us", content = "[IT] Place to group all of the necessary contact"}]
   [[fi]]
 	languageName= "Finnish"
 	weight= 4
-	customblocks = [{ name = "[FI] Custom Block", content = "[FI] Website footer custom block."},
-  {name = "[FI] Erasmus+", content = "[FI] Here maybe some logo with a short description"},
-  {name = "[FI] Privacy Notice", content = "[FI] The only user information collected from this website is in the form of log files generated the site's [hosting provider](https://www.netlify.com/privacy/)."},
-  {name = "[FI] Contact Us", content = "[FI] Place to group all of the necessary contact"}]

@@ -1,6 +1,7 @@
 {{- define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end -}}
 {{- define "main" -}}
 <div class="container page-contact">
+	{{ partial "site-header" (dict "title" .Title)}}
 	<div class="content">
 		{{.Content}}
 	</div>
