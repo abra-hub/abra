@@ -3,17 +3,19 @@
 	style="background-image: url({{ . | absURL }})" {{ end }}>
 	{{/*  {{ if .Params.thumbnail }}<img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" />{{ end }} */}}
 </div>
-<article class="md:container mx-auto row">
-	<div class="justify-content-center -mt-40 pb-20 bg-white relative">
-		<header class="text-center pt-16 px-10 content max-w-full">
-			<h1>{{ .Title }}</h1>
-		</header>
-		<!-- TODO: Add reading time -->
-		<div class="post-meta-line">
+
+<article>
+	<header class="md:container mx-auto row">
+		<div class="justify-content-center -mt-40 pb-20 bg-white relative">
+			<div class="text-center pt-16 px-10 content max-w-full">
+				<h1>{{ .Title }}</h1>
+			</div>
+			<!-- TODO: Add reading time -->
+			<div class="post-meta-line">
+			</div>
 		</div>
-	</div>
-</article>
-<div class="">
+	</header>
+
 	<div class="px-8">
 		<div class="md:w-1/2 mx-auto">
 			<div class="flex flex-row italic">
@@ -28,5 +30,5 @@
 			</div>
 		</div>
 	</div>
-</div>
+</article>
 {{end}}

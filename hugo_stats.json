@@ -7,6 +7,7 @@
       "a\n\t\t\t\t\t\t\t\t\tclass=\"cursor-not-allowed",
       "a\n\t\t\t\t\t\t\thref=\"mailto:contact@example.com\"",
       "article",
+      "aside",
       "blockquote",
       "body",
       "br",
@@ -38,7 +39,6 @@
       "section",
       "span",
       "span\n\t\t\t\t\t\t\t\tclass=\"",
-      "span\n\t\t\t\t\t\tclass=\"mr-1\"",
       "strong",
       "sup",
       "svg",
@@ -275,6 +275,7 @@
       "z-50"
     ],
     "ids": [
+      "TableOfContents",
       "abras-main-project-activities",
       "blog",
       "canvas_draw",
