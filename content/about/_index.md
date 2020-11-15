@@ -4,29 +4,16 @@ date: 2020-10-23T12:03:29+02:00
 draft: false
 ---
 
-ABRA project activities aim at developing, testing, and evaluating a new transdisciplinary curriculum that
-bridges artificial biology, robotics and art through the framework of sustainability. The iterative development
-and testing, together with teacher training and preparation of course materials, are focused activities that
-enable the consortium to identify the needs, challenges, and potentials of transdisciplinary education and
-advanced degrees in HEIs. Project activities culminate in an approved transdisciplinary curriculum for an
-innovative MA/MSc degree in close dialogue with relevant stakeholders that will address the main project
-objectives, which are
+**ABRA (Artificial Biology, Robotics and Art)** is a project aimed to address innovation and renewal of education by developing transdisciplinary higher education methods that bridge the arts and sciences, specialising in the fields of artificial biology, robotics, and art.
 
-1. to tackle the skills gaps and mismatches in students, educators, specialists/researchers
-2. to promote and reward excellence in teaching and skills development through the exchange of sustainable best practices that foster creativity and innovation for addressing complex problems and solutions
-3. to address environmental and climate goals
+**The project explicitly promotes transdisciplinary knowledge** and capacity building in higher education in order to tackle the skills gaps in addressing environmental problems and climate change, and promoting excellence in teaching and skills development for students and educators.
 
-The specific transdisciplinary teaching and learning methodologies developed in IO2-3 and evaluated and reported
-in IO-4, make clear the connections between the project aims and the intellectual outcomes. IO-5 and E3 and E4
-make clear the potential and possibilities from transdisciplinary knowledge and education practices to wider
-community of scholars, researchers, and other stakeholders. The completed application materials and approved
-curriculum for the joint MA/MSc Erasmus Mundus Joint Masters Degree Application (IO-6) forms the natural
-culmination of the individual project activities, and is effectively the capstone for the entire project. Thus,
-ABRA aims to promote innovation and sustainable changes in HE, including teacher training practices at for the
-member institutions while also allowing for more systematic and strategic integration with the development of a
-new European joint masters degree.
+**ABRA's partners strongly believe that the multilayered environmental challenges** we are facing can be solved increasingly successfully by employing transdisciplinary approaches, equipping higher education with tools and methods. The starting point for ABRA is the recognition of the need to develop a transdisciplinary curriculum and training that keeps pace with scientific research and emerging technologies (artificial biology, robotics, artificial intelligence, material sciences, etc.). The most pressing problems facing human societies will require creative and innovative solutions from experts working jointly across the fields of science, technology, art, design and culture.
 
-## ABRA project activities:
+**ABRA is a 3 year project** where the partners will research and co-create student learning and teacher training programmes with a strong focus on sustainability.
+The project offers an exciting opportunity for students and teachers of the consortium partners. The students and the teachers will be invited to participate and to co-create the ABRA programmes in workshops hosted at the partnering universities. The project will complete in 2023 with a public exhibition of the collaborative works.
+
+## ABRA's main project activities:
 
 ### IO1 – ABRA_Hub:
 

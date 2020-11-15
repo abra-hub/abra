@@ -100,12 +100,13 @@
 			<div class="mt-5">
 				{{ partial "calendar.html" (dict "dot" . "limit" "3" "upcomingOnly" true)}}
 			</div>
-			<button class="underline"><a href="{{ .Site.BaseURL | absLangURL}}/calendar">Go to Calendar -></a></button>
+			<button class="underline"><a href="{{ .Site.BaseURL | absLangURL}}/calendar">See more
+					-></a></button>
 		</div>
 	</section>
 	<section class="bg-white pt-10">
 		<div class="container">
-			{{ partial "site-header" (dict "title" "News" "subtitle" ` Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis iusto totam ab rem deserunt.`)}}
+			{{ partial "site-header" (dict "title" "News" "subtitle" ` Here are our latest news:`)}}
 			<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-10">
 				{{ range where .Data.Pages "Section" "blog" }}
 				{{ $paginator := .Paginate (where .Pages ".Params.category" "article") 3 }}
@@ -118,7 +119,7 @@
 							</div>
 						</a>
 					</header>
-					<div class="m-2 text-justify text-sm">
+					<div class="m-2 text-sm">
 						<div class="flex flex-row">
 							<div class="text-left mr-2 text-grey">{{ dateFormat "January 2, 2006" .Date }}</div>
 							<button class="text-gray-600">{{upper .Params.Category}}</button>
@@ -133,7 +134,7 @@
 				{{end}}
 				{{end}}
 			</div>
-			<button class="button underline"><a href="{{ .Site.BaseURL | absLangURL}}/blog">Go to Blog
+			<button class="button underline"><a href="{{ .Site.BaseURL | absLangURL}}/blog">See more
 					-></a></button>
 		</div>
 	</section>

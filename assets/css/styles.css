@@ -7,8 +7,6 @@
 [x-cloak] { display: none; }
 
 html {
-	font-size: 14px;
-	/*  */
 	font-family: "Hero New Regular";
 }
 
@@ -17,6 +15,7 @@ html {
 	body {
 		/* background-color: #d1d9d6; */
 		background-color: #ffff;
+		text-rendering: geometricPrecision;
 	   -webkit-font-smoothing: antialiased;
 	   -moz-osx-font-smoothing: grayscale;
 	}
@@ -53,6 +52,15 @@ html {
 	line-height: 1.7em;
 }
 .post__image {
+	padding-bottom: 61%;
+	background-size: 100% auto;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16);
+	transition: transform 250ms ease, box-shadow 250ms ease;
+}
+
+.team__image {
+	padding-bottom: 100%;
+	background-size: 100% auto;
 	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16);
 	transition: transform 250ms ease, box-shadow 250ms ease;
 }
@@ -79,7 +87,7 @@ html {
 
 @screen md {
     html {
-		font-size: 16px;
+		/* font-size: 16px; */
 
     }
 }

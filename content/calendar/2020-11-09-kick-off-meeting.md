@@ -8,7 +8,7 @@ endDate: 2020-11-17T14:00:00.000Z
 withoutTime: false
 city: Online
 category: "transnational-meetings"
-thumbnail: /img/uploads/national-cancer-institute-l7en7lb-ovc-unsplash.jpg
+thumbnail:
 ---
 
 Introduction to the online platform, planning the preparation of the teaching and training materials for the first year of workshop.

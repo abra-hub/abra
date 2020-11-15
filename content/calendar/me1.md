@@ -7,6 +7,14 @@ date: 2020-11-09T20:47:01.700Z
 startDate: 2021-08-30
 withoutTime: true
 city: Aalborg
-thumbnail: /img/uploads/national-cancer-institute-l7en7lb-ovc-unsplash.jpg
+thumbnail:
 ---
-This is test text
+
+The Multiplier Event in Aalborg hosted by AAU will be organized and co-located in collaboration with Nordic Summer School (NSU) as part of their annual meetings. The subject is transdisciplinary knowledge and sustainable profiles in research and teaching.
+The target groups are 1) teachers and researchers from other HEIs in Europe and the Baltic region currently or are looking to be engaged with transdisciplinary programs that span art, engineering, and natural sciences, and social sciences. NSU Summer is an independent academic institution, which organises annual symposia that attract international participants across disciplines in the Nordic and Baltic regions. NSU is structured around transdisciplinary, topic-specific study circles that explore diverse topics within the arts and humanities, natural and social sciences. ABRA will collaborate with the Cybiosis Study Circle, which focuses on Shaping Human-Technology Futures.
+The Multiplier Event will be attended by 30 local participants and 25 foreign participants from NSU.
+The objective of this first Multiplier Event is to facilitate a cross-disciplinary forum for debating topics that are not already established in universities, thereby contributing to the initiation of new research agendas and alternative perspectives. An important dynamic of the study circles is to follow a process of research that allows for works-in-progress and experimentation. The outcome will be knowledge exchange between ABRA curriculum and project. It will also be an opportunity for networking and building alliance for the EMJMD application, building a wider and more integrate network of experts and practitioners in transdisciplinary research and teaching.
+ABRA will participate and contribute to the event by disseminating the project, its current findings and presentation of the results for the intellectual outputs (1 and 2), and advertise and recruit participation for the IO-5 (Exhibition: What Trans Knowledge Looks Like) and Multiplier Event 4 : the public exhibition to be held in June 2023.
+
+### Outputs
+1. ABRA\_Hub

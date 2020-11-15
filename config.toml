@@ -138,20 +138,41 @@ footercontent = "Footer content."
 	name = "Calendar"
 	url = "calendar"
 
+# Danish NAVIGATION
+[[Languages.dk.menu.main]]
+	weight = 1
+	name = "About"
+	url = "about"
+[[Languages.dk.menu.main]]
+	weight = 2
+	name = "Blog"
+	url = "blog"
+[[Languages.dk.menu.main]]
+	weight = 3
+	name = "Team"
+	url = "team"
+[[Languages.dk.menu.main]]
+	weight = 4
+	name = "Calendar"
+	url = "calendar"
+
 [taxonomies]
   keyword = "keywords"
 
 [languages]
-  [[en]]
+	[[en]]
 	languageName= "English"
 	languageCode = "en-us"
 	weight= 1
-  [[hu]]
+	[[hu]]
 	languageName= "Hungarian"
 	weight= 2
 	[[it]]
 	languageName= "Italian"
 	weight= 3
-  [[fi]]
+	[[fi]]
 	languageName= "Finnish"
 	weight= 4
+	[[dk]]
+	languageName= "Danish"
+	weight= 5

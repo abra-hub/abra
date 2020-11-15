@@ -4,8 +4,8 @@
 	{{/*  {{ if .Params.thumbnail }}<img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" />{{ end }} */}}
 </div>
 <article class="md:container mx-auto row">
-	<div class="justify-content-center -mt-40 pb-32 bg-white relative">
-		<header class="text-center pt-8 px-10">
+	<div class="justify-content-center -mt-40 pb-20 bg-white relative">
+		<header class="text-center pt-16 px-10 content max-w-full">
 			<h1>{{ .Title }}</h1>
 		</header>
 		<!-- TODO: Add reading time -->
@@ -17,9 +17,10 @@
 	<div class="px-8">
 		<div class="md:w-1/2 mx-auto">
 			<div class="flex flex-row italic">
-				<div>By {{range .Params.authors}} | <span class="mr-1">{{.}}</span> {{end}}</div>
+				<div>{{if isset .Params "authors"}}By {{range .Params.authors}} | <span class="mr-1">{{.}}</span>
+					{{end}}{{end}}</div>
 				{{- with .Site.Params.dateformat | default "02-01-2006" | .PublishDate.Format -}}
-				<time class="text" datetime="{{ . }}">| {{ . }}</time>
+				<time class="text" datetime="{{ . }}">{{if isset $.Params "authors"}}|{{end}} {{ . }}</time>
 				{{- end -}}
 			</div>
 			<div class="content py-8">
