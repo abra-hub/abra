@@ -8,8 +8,9 @@
 				@click="tab = 'all'">All</button>
 			{{ $categories := slice }}
 			{{ range .Data.Pages }}
-			{{ $categories = $categories | append .Params.Category }}
+			{{ $categories = $categories | append .Params.category }}
 			{{ end }}
+			{{ $categories = $categories | append "activity" }}
 			{{ range ( $categories | uniq ) }}
 			<button class="px-2 text-sm md:text-base" :class="{ 'font-bold': tab ===  '{{ . | urlize }}'}"
 				@click="tab = '{{ . | urlize}}'">{{ . | humanize }}</button>

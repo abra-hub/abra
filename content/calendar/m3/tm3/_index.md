@@ -1,7 +1,6 @@
 ---
 type: blog
-title: "TM3: Assessing the Joint Curriculum"
-author: Maros Pekarik
+title: "Assessing the Joint Curriculum (TM3)"
 category: "transnational-meetings"
 date: 2020-11-09T20:47:01.700Z
 startDate: 2022-09-01

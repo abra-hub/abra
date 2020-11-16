@@ -1,6 +1,6 @@
 ---
 type: blog
-title: "TM1: Transdisciplinarity and Sustainability: Materials, Practices & Pedagogy "
+title: "Transdisciplinarity and Sustainability: Materials, Practices & Pedagogy (TM1)"
 author: Maros Pekarik
 category: "transnational-meetings"
 date: 2020-11-09T20:47:01.700Z

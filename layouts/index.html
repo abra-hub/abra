@@ -33,7 +33,7 @@
 		</div>
 		<header class="py-8 md:w-1/2 bg-white items-center flex container">
 			<div class="mx-auto lg:w-3/4">
-				<h1 class="text-header mb-8 font-bold">Artificial biology, robots & art</h1>
+				<h1 class="text-header mb-8 font-bold">Artificial biology, robotics & art</h1>
 				<div class="content md:w-4/5">
 					<p>Through transdisciplinary teaching and training, ABRA facilitates the exchange of sustainable
 						best
@@ -98,7 +98,7 @@
 			{{ partial "site-header" (dict "title" "Events" "subtitle" `Upcoming activities to create new pathways for art + science + engineering-driven creativity and innovation for
 			increased sustainability`)}}
 			<div class="mt-5">
-				{{ partial "calendar.html" (dict "dot" . "limit" "3" "upcomingOnly" true)}}
+				{{ partial "calendar.html" (dict "dot" . "limit" "1" "upcomingOnly" true)}}
 			</div>
 			<button class="underline"><a href="{{ .Site.BaseURL | absLangURL}}/calendar">See more
 					-></a></button>

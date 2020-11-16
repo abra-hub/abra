@@ -1,6 +1,6 @@
 ---
 type: blog
-title: "TM4: Project Summary and Presentation and Finalization of Transdiscplinary (MA/MSc) Join Masters Degree & Curriculum"
+title: "Project Summary and Presentation and Finalization of Transdiscplinary (MA/MSc) Join Masters Degree & Curriculum (TM4)"
 author: Maros Pekarik
 category: "transnational-meetings"
 date: 2020-11-09T20:47:01.700Z

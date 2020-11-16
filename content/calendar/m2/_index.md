@@ -1,6 +1,6 @@
 ---
 type: blog
-title: "ME2: The Future of holistic perspectives and transdisciplinary knowledge in HE"
+title: "The Future of holistic perspectives and transdisciplinary knowledge in HE (ME2)"
 author: Maros Pekarik
 category: "multiplier-events"
 

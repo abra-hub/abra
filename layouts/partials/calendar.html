@@ -1,19 +1,15 @@
 <div class="flex pb-5 text-sm">
-	<div class="w-2/4 pr-8">Event</div>
+	<div class="w-3/5 pr-8">Event</div>
 	<div class="">City</div>
 	<div class="flex-auto text-right">Date</div>
 </div>
 <ul class="border-t pb-8">
-	{{ $pages := slice }}
-	{{ range where .dot.Site.RegularPages "Section" "calendar" }}
-	{{ $pages = $pages | append . }}
-	{{ end }}
-
-	{{ $paginator := .dot.Paginate (sort $pages ".Params.startDate") .limit  }}
-	{{ range $paginator.Pages }}
-	<li x-show="tab === '{{.Params.Category}}' || tab === 'all' " class="cursor-pointer hover:bg-primary-100">
+	{{ with .dot.Site.GetPage "Section" "calendar" }}
+	{{ range first $.limit .Sections }}
+	<li x-show="tab === '{{.Params.Category}}' || tab === 'all' "
+		class="cursor-pointer hover:bg-primary-100 text-gray-900">
 		<a href="{{ .Permalink }}" class="py-3 border-b flex">
-			<div class="w-2/4 pr-8">{{.Title}}
+			<div class="w-3/5 pr-8">{{.Title}}
 			</div>
 			<div class="flex flex-col md:flex-row">
 				<div>{{.Params.city}}</div>
@@ -30,5 +26,48 @@
 			</div>
 		</a>
 	</li>
+	{{range .Pages}}
+	<li x-show="tab === '{{.Params.Category}}' || tab === 'all' " class="ursor-pointer hover:bg-primary-100 ">
+		<a href="{{ .Permalink }}" class="py-3 border-b flex">
+			<div class="w-3/5 pr-8 pl-8 text-base text-gray-800">{{.Title}}
+			</div>
+			<div class="flex flex-col md:flex-row">
+				<div>{{.Params.city}}</div>
+				<div class="md:pl-10">
+					{{ if eq .Params.withoutTime false }}
+					{{ dateFormat "15" .Params.startDate  }}:{{ dateFormat "04" .Params.startDate }} -
+					{{ dateFormat "15" .Params.endDate }}:{{ dateFormat "04" .Params.endDate }}
+					{{end}}
+				</div>
+			</div>
+			<div class="flex-auto text-right">
+				{{ dateFormat "02.01.06" .Params.startDate }}{{ if .Params.endDate }} -
+				{{ dateFormat "02.01.06" .Params.endDate}} {{end}}
+			</div>
+		</a>
+	</li>
+	{{range sort .Pages ".Params.startDate"}}
+	<li x-show="tab === '{{.Params.Category}}' || tab === 'all' " class="cursor-pointer hover:bg-primary-100 ">
+		<a href="{{ .Permalink }}" class="py-3 border-b flex">
+			<div class="w-3/5 pr-8 pl-12 text-sm text-gray-700">{{.Title}}
+			</div>
+			<div class="flex flex-col md:flex-row">
+				<div>{{.Params.city}}</div>
+				<div class="md:pl-10">
+					{{ if eq .Params.withoutTime false }}
+					{{ dateFormat "15" .Params.startDate  }}:{{ dateFormat "04" .Params.startDate }} -
+					{{ dateFormat "15" .Params.endDate }}:{{ dateFormat "04" .Params.endDate }}
+					{{end}}
+				</div>
+			</div>
+			<div class="flex-auto text-right">
+				{{ dateFormat "02.01.06" .Params.startDate }}{{ if .Params.endDate }} -
+				{{ dateFormat "02.01.06" .Params.endDate}} {{end}}
+			</div>
+		</a>
+	</li>
+	{{end}}
+	{{end}}
+	{{end}}
 	{{end}}
 </ul>

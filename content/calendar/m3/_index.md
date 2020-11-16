@@ -1,16 +1,13 @@
 ---
 type: blog
-title: "ME3: The future of holistic perspectives and transdisciplinary knowledge in HE"
-author: Maros Pekarik
+title: "The future of holistic perspectives and transdisciplinary knowledge in HE (ME3)"
 category: "multiplier-events"
-
 date: 2020-11-09T20:47:01.700Z
 startDate: 2022-09-01
 withoutTime: true
 city: Trento
 thumbnail:
 ---
-
 
 This Multiplier Event in Trento will take place during the European event of The Researchers Night, in September 2022. The researchers night highlights the impact of research on our daily lives while aiming as well to motivate young people to embark on research careers. The events promote how researchers contribute to our society by displaying their work in an interactive and engaging forum. Within this context, ABRA will organize its multiplier event, under the form of a seminar, aimed at dialoguing with a broad audience about the challenges that our society faces and how interdisciplinary and sustainability merge in order to respond to our most pressing social and scientific challenges. Its target audience will be thus mixed: young researchers, the teaching community and the general public will be encouraged to participate, debate and share ideas about the different problematics surrounding new interdisciplinary profiles of higher education curricula.
 The seminar will address the potential of interdisciplinary research across sciences and humanities and will address the questions: what type of educational and training initiatives are involved in the creation of new educational profiles and which are the main challenges in it? Which are the technological, ecological and social challenges these new profiles respond to? How can new interdisciplinary profiles of HE be promoted? The day will include specialist lectures by the members of the project partners, and invited speakers.
