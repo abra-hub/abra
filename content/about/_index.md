@@ -13,44 +13,25 @@ draft: false
 **ABRA is a 3 year project** where the partners will research and co-create student learning and teacher training programmes with a strong focus on sustainability.
 The project offers an exciting opportunity for students and teachers of the consortium partners. The students and the teachers will be invited to participate and to co-create the ABRA programmes in workshops hosted at the partnering universities. The project will complete in 2023 with a public exhibition of the collaborative works.
 
-## ABRA's main project activities:
+## ABRA's main project results:
 
-### IO1 – ABRA_Hub:
+### Result 1 – ABRA_Hub:
 
 Aims to develop robust framework for developing and promoting the convergence of objectives and
-activities between project partners. The online ABRA_Hub facilitates cooperation and networking, including an
-Open Information Repository (OIR) that will be made available to other interested HEIs.
+activities between project partners. The online ABRA_Hub facilitates cooperation and networking, including an Open Information Repository (OIR) that will be made available to other interested HEIs.
 
-### IO2 – Course guide on transdisciplinary teaching and learning (Volume 1)
+### Result 2– Course guide on transdisciplinary teaching and learning (Volume 1)
 
-Offers practical guides and novel perspectives to transdisciplinary education and its potentialities within ABRA target fields; Artificial
-Biology, Robotics, Art and Design in the context of sustainability. The EU action for Higher Education
-recommends the development of teaching methods for creativity and innovation in higher education, which supports
-the concretization of IO2. Designing and testing of effective and innovative study programs for higher education
-is the basis of IO2.
+Offers practical guides and novel perspectives to transdisciplinary education and its potentialities within ABRA target fields; Artificial Biology, Robotics, Art and Design in the context of sustainability. The EU action for Higher Education recommends the development of teaching methods for creativity and innovation in higher education, which supports the concretization of the **Result 2**. Designing and testing of effective and innovative study programs for higher education is the basis of the **Result 2**.
 
-### IO3 - Course guide on transdisciplinary teaching and learning (Volume 2)
-Will follow-up on O2, and profits from the many activities planned in the second half of the project. This intellectual output will therefore benefit
-from teaching and training exercises C5-8 and multiplier events E2-3 and preparations for E4. Primarily this
-output is meant to be useful for teachers, educators and researchers to plan transdisciplinary HE courses in
-general, and specifically the rather challenging task of cross-educational programs that combine arts,
-engineering and sciences.
+### Result 3 - Course guide on transdisciplinary teaching and learning (Volume 2)
+Will follow-up on **Result 2**, and profits from the many activities planned in the second half of the project. This intellectual output will therefore benefit from teaching and training exercises A5-8 and multiplier events ME2-3 and preparations for E4. Primarily this output is meant to be useful for teachers, educators and researchers to plan transdisciplinary HE courses in general, and specifically the rather challenging task of cross-educational programs that combine arts, engineering and sciences.
 
-### IO4 – Special Journal Issue on Transdisciplinarity in Higher Education
-Collects the contributions and outcome of the ABRA Curriculum Development process and Teaching and Learning Activities and making these results available
-to the entire PBL research community. IO-4 looks outward to include other examples of transdisciplinary
-education and curriculum across other HEIs with special consideration given to activities that relate to
-sustainability.
+### Result 4 – Special Journal Issue on Transdisciplinarity in Higher Education
+Collects the contributions and outcome of the ABRA Curriculum Development process and Teaching and Learning Activities and making these results available to the wider community. **The Result 4** looks outward to include other examples of transdisciplinary education and curricula across other HEIs with special consideration given to activities that relate to sustainability.
 
-### IO5- What Transdisciplinary Knowledge Looks Like (Exhibition and Symposium)
-Is a public-facing exhibition of works produced by the transdisciplinary students of the partnering organisations as the result of the knowledge
-generated within the aims and framework of the ABRA project.
+### Result 5- What Transdisciplinary Knowledge Looks Like (Exhibition and Symposium)
+Is a public-facing exhibition of works produced by the transdisciplinary students of the partnering organisations as the result of the knowledge generated within the aims and framework of the ABRA project.
 
-### IO6 – Approved Joint Master Degree Curriculum and Erasmus Mundus Joint Master Degree (EMJMD) application
-A joint master degree Curriculum that allows for an EMJMD application is one of the main ends of ABRA. A new dual
-masters (MA/MSc) in artificial biology, robotics an arts is expected to impact the traditional curriculum of
-these single fields, contributing to creating new work profiles of high employability. The ecological impact of
-this new curriculum is also to be highlighted, since the EMJMD curriculum will be framed by sustainability
-principles, creating a fundamental and intrinsic interaction between technological innovation and ecological
-sustainability that it is expected to radically change the traditional interaction of these fields.
-
+### Result 6 – Approved Joint Master Degree Curriculum and Erasmus Mundus Joint Master Degree (EMJM) application
+A joint master degree Curriculum that allows for an EMJM application is one of the main ends of ABRA. A new dual masters (MA/MSc) in artificial biology, robotics and arts is expected to impact the traditional curriculum of these single fields, contributing to creating new work profiles of high employability. The ecological impact of this new curriculum is also to be highlighted, since the EMJM curriculum will be framed by sustainability principles.
