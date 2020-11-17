@@ -1,20 +1,39 @@
 {{- define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end -}}
 {{- define "main" -}}
-<div class="bg-white" x-data="{ tab: 'all' }">
+{{ $categories := slice }}
+{{ range .Data.Pages }}
+{{ $categories = $categories | append .Params.category }}
+{{ end }}
+{{ $categories = $categories | append "activity" }}
+<div class="bg-white" x-data="{ tab: 'all', open: false  }" x-cloak>
 	<div class='sticky top-0 bg-white pt-2 {{if eq .Page.Title "Calendar"}}border-b{{end}} z-30'>
 		<div class="container mx-auto my-4">
 			<!-- TODO: Add translation -->
-			<button :class="{ 'font-bold': tab === 'all' }" class="text-sm md:text-base"
-				@click="tab = 'all'">All</button>
-			{{ $categories := slice }}
-			{{ range .Data.Pages }}
-			{{ $categories = $categories | append .Params.category }}
-			{{ end }}
-			{{ $categories = $categories | append "activity" }}
-			{{ range ( $categories | uniq ) }}
-			<button class="px-2 text-sm md:text-base" :class="{ 'font-bold': tab ===  '{{ . | urlize }}'}"
-				@click="tab = '{{ . | urlize}}'">{{ . | humanize }}</button>
-			{{ end }}
+			<button
+				class="rounded-lg sm:hidden focus:outline-none ml-3 focus:shadow-outline flex flex-row mt-2 align-text-top"
+				@click="open = !open">
+				Filter
+				{{ range ( $categories | uniq ) }}
+				<div class="hidden text-bold text-primary" :class="{ 'flex': tab ===  '{{ . | urlize }}'}">
+					{{. | urlize}}
+				</div>
+				{{end}}
+				<svg fill="text-primary" viewBox="0 0 20 20" :class="{'rotate-180': open, 'rotate-0': !open}"
+					class="inline w-4 h-4 mt-1 ml-1 transition-transform duration-200 transform md:-mt-1">
+					<path fill-rule="evenodd"
+						d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+						clip-rule="evenodd"></path>
+				</svg>
+			</button>
+			<div :class="{'flex': open, 'hidden': !open, 'bg-white': open}"
+				class="flex-col flex-grow hidden pb-4 md:pb-0 sm:flex sm:flex-row">
+				<button :class="{ 'font-bold': tab === 'all' }" class="text-sm sm:text-base"
+					@click="tab = 'all'">All</button>
+				{{ range ( $categories | uniq ) }}
+				<button class="px-2 text-sm sm:text-base" :class="{ 'font-bold': tab ===  '{{ . | urlize }}'}"
+					@click="tab = '{{ . | urlize}}'">{{ . | humanize }}</button>
+				{{ end }}
+			</div>
 		</div>
 	</div>
 	<div class="container">

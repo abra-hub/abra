@@ -1,22 +1,27 @@
 <div class="flex pb-5 text-sm">
-	<div class="w-3/5 pr-8">Event</div>
+	<div class="w-3/6 pr-16">Event</div>
 	<div class="">City</div>
 	<div class="flex-auto text-right">Date</div>
 </div>
 <ul class="border-t pb-8">
 	{{ with .dot.Site.GetPage "Section" "calendar" }}
-	{{ range first $.limit .Sections }}
+	{{ range sort (first $.limit .Pages) ".Params.startDate" }}
 	<li x-show="tab === '{{.Params.Category}}' || tab === 'all' "
 		class="cursor-pointer hover:bg-primary-100 text-gray-900">
 		<a href="{{ .Permalink }}" class="py-3 border-b flex">
-			<div class="w-3/5 pr-8">{{.Title}}
+			<div class="w-3/6 pr-16">
+				{{.Title}}
 			</div>
-			<div class="flex flex-col md:flex-row">
+			<div class="flex flex-col md:flex-row lg:w-1/6">
 				<div>{{.Params.city}}</div>
-				<div class="md:pl-10">
-					{{ if eq .Params.withoutTime false }}
-					{{ dateFormat "15" .Params.startDate  }}:{{ dateFormat "04" .Params.startDate }} -
-					{{ dateFormat "15" .Params.endDate }}:{{ dateFormat "04" .Params.endDate }}
+			</div>
+			<div class="hidden lg:flex w-1/6 justify-left content-center">
+				<div class="flex flex-row">
+					{{ range $index, $value := .Params.tags}}
+					<div>
+						<span
+							class="flex rounded-full bg-indigo-500 uppercase px-2 py-1 text-xs md:font-bold mr-2 mx-auto">{{.}}</span>
+					</div>
 					{{end}}
 				</div>
 			</div>
@@ -26,48 +31,6 @@
 			</div>
 		</a>
 	</li>
-	{{range .Pages}}
-	<li x-show="tab === '{{.Params.Category}}' || tab === 'all' " class="ursor-pointer hover:bg-primary-100 ">
-		<a href="{{ .Permalink }}" class="py-3 border-b flex">
-			<div class="w-3/5 pr-8 pl-8 text-base text-gray-800">{{.Title}}
-			</div>
-			<div class="flex flex-col md:flex-row">
-				<div>{{.Params.city}}</div>
-				<div class="md:pl-10">
-					{{ if eq .Params.withoutTime false }}
-					{{ dateFormat "15" .Params.startDate  }}:{{ dateFormat "04" .Params.startDate }} -
-					{{ dateFormat "15" .Params.endDate }}:{{ dateFormat "04" .Params.endDate }}
-					{{end}}
-				</div>
-			</div>
-			<div class="flex-auto text-right">
-				{{ dateFormat "02.01.06" .Params.startDate }}{{ if .Params.endDate }} -
-				{{ dateFormat "02.01.06" .Params.endDate}} {{end}}
-			</div>
-		</a>
-	</li>
-	{{range sort .Pages ".Params.startDate"}}
-	<li x-show="tab === '{{.Params.Category}}' || tab === 'all' " class="cursor-pointer hover:bg-primary-100 ">
-		<a href="{{ .Permalink }}" class="py-3 border-b flex">
-			<div class="w-3/5 pr-8 pl-12 text-sm text-gray-700">{{.Title}}
-			</div>
-			<div class="flex flex-col md:flex-row">
-				<div>{{.Params.city}}</div>
-				<div class="md:pl-10">
-					{{ if eq .Params.withoutTime false }}
-					{{ dateFormat "15" .Params.startDate  }}:{{ dateFormat "04" .Params.startDate }} -
-					{{ dateFormat "15" .Params.endDate }}:{{ dateFormat "04" .Params.endDate }}
-					{{end}}
-				</div>
-			</div>
-			<div class="flex-auto text-right">
-				{{ dateFormat "02.01.06" .Params.startDate }}{{ if .Params.endDate }} -
-				{{ dateFormat "02.01.06" .Params.endDate}} {{end}}
-			</div>
-		</a>
-	</li>
-	{{end}}
-	{{end}}
 	{{end}}
 	{{end}}
 </ul>
