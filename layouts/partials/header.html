@@ -1,6 +1,6 @@
 <!-- <div class="h-64 z-0 bg-cover bg-center" {{ with .Site.Params.homepageimagefallback }}
 	style="background-image: url({{ . | absURL }})" {{ end }}> -->
-<div class="min-h-screen container flex flex-col justify-center">
+<div class="min-h-screen container flex flex-wrap content-center">
 	<!-- <h1 class="md:w-2/3 text-white pb-5 mt-5 z-30 text-6xl">ABRA</h1>
 	<h2 class="md:w-2/4 text-white mb-5 z-30 text-2xl">
 		<span class="text-gray-400">A</span>RTIFICIAL
@@ -11,10 +11,19 @@
 	<div class="bg-white bg-opacity-50 p-8 md:w-2/4">
 		<img class="" src="/img/logo_full.png" alt="">
 	</div>
+	<div class="bg-white bg-opacity-50 p-8 md:w-2/4 flex flex-wrap content-center">
+		<h3 class="mb-2">Latest articles:</h3>
+		{{ with .Site.GetPage "Section" "blog" }}
+		{{ range sort (first 3 .Pages) ".Date" }}
+		<a href="{{.Permalink}}" class="underline">‣ {{.Title}}</a>
+		{{end}}
+		{{end}}
+	</div>
+
 
 
 </div>
-<div id="canvas_draw" class="-z-10 h-screen w-screen fixed top-0 left-0">
+<div id=" canvas_draw" class="-z-10 h-screen w-screen fixed top-0 left-0">
 	<!-- <img class=" object-cover h-64 w-full z-0"
 		{{ with $.Site.Params.homepageimageset }}{{ $homepagesrcset := sub (len $.Site.Params.homepageimageset) 1}}srcset="{{range $elem_index, $elem_val := $.Site.Params.homepageimageset }}{{ .img | absURL }} {{ .width }}{{ if lt $elem_index $homepagesrcset }}, {{ end }}{{ end }}"
 		sizes="{{range $elem_index, $elem_val := $.Site.Params.homepageimageset }}{{ with .maxwidth }}(maxwidth: {{ . }}){{ end }}{{ .width }}{{ if lt $elem_index $homepagesrcset }}, {{ end }}{{ end }}"

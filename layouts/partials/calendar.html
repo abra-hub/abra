@@ -6,8 +6,9 @@
 <ul class="border-t pb-8">
 	{{ with .dot.Site.GetPage "Section" "calendar" }}
 	{{ range sort (first $.limit .Pages) ".Params.startDate" }}
+
 	<li x-show="tab === '{{.Params.Category}}' || tab === 'all' "
-		class="cursor-pointer hover:bg-primary-100 text-gray-900">
+		class="cursor-pointer hover:bg-primary-100{{ if gt now.Unix (time .Params.startDate).Unix }} text-gray-500 line-through {{else}} text-gray-900  {{end}}">
 		<a href="{{ .Permalink }}" class="py-3 border-b flex">
 			<div class="w-3/6 pr-16">
 				{{.Title}}
