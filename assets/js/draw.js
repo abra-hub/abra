@@ -57,7 +57,6 @@ document.addEventListener("DOMContentLoaded", function () {
 		var drawMode = 1;
 		var a = 0.05
 		var bgColor = p.unhex(['d1', 'd9', 'd6']);
-		console.log(bgColor)
 		var r = bgColor[0] * a + 255 * (1 - a)
 		var g = bgColor[1] * a + 255 * (1 - a)
 		var b = bgColor[2] * a + 255 * (1 - a)
