@@ -14,7 +14,7 @@
 				</h3>
 				<div class="border-t border-black w-full flex-none sm:visible hidden"></div>
 			</div>
-			<a class="text-xs underline" href="https://{{.Params.url}}">{{.Params.url}}</a>
+			<a class="text-xs underline" href="https://{{.Params.url}}" rel="nofollow">{{.Params.url}}</a>
 		</header>
 		<section class="md:w-3/4 grid md:grid-cols-2 sm:grid-cols-2 lg:grid-cols-3 gap-3 mb-10 flex-auto">
 			{{range .Pages}}
@@ -35,11 +35,11 @@
 					<div class="flex flex-row mt-2">
 						{{range .Params.links}}
 						{{if len (findRE `(https?:\/\/)?(www\.)?youtu((\.be)|(be\..{2,5}))\/((user)|(channel))` .)}}
-						<a href="{{.}}"><i class="fab fa-youtube mr-2"></i></a>
+						<a href="{{.}}" rel="nofollow"><i class="fab fa-youtube mr-2"></i></a>
 						{{else if (len (findRE `(snd\.sc|soundcloud\.com)` .))}}
-						<a href="{{.}}"><i class="fab fa-soundcloud mr-2"></i></a>
+						<a href="{{.}}" rel="nofollow"><i class="fab fa-soundcloud mr-2"></i></a>
 						{{else}}
-						<a href="{{.}}"><i class="fas fa-external-link-alt mr-2"></i></a>
+						<a href="{{.}}" rel="nofollow"><i class="fas fa-external-link-alt mr-2"></i></a>
 						{{end}}
 						{{end}}
 					</div>

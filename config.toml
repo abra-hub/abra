@@ -1,7 +1,7 @@
 baseURL = "https://abra-hub.net"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "ABRA"
+title = "ABRA Hub"
 theme = ["hugo-social-metadata"]
 
 [module]
@@ -15,10 +15,10 @@ writeStats = true
 
 # The site's parameters
 [params]
-description = "Artificial Biology, Robots & Art"
-keywords = "robotics, artificial, biology, education, transdisciplinary, content" # TODO SEO
-twitterUsername = "@your_twitter_username" #TODO
-socialImage = "path/to/the/twitter/card/image" # TODO
+description = "Artificial Biology, Robotics & Art"
+keywords = "abra hub, abra, robotics, artificial, biology, education, transdisciplinary, content, university, erasmus" # TODO SEO
+twitterUsername = "@abra_hub" #TODO
+socialImage = "/img/logo_a.png" # TODO
 home = "Home"
 abbreviatedTitle = "ABRA"
 # googleAnalytics = "UA-111111111111-1"
@@ -26,6 +26,7 @@ canonifyURLs = true
 # copyright = "Author"
 enableRobotsTXT = true
 favicon = "/img/favicon.png"
+faviconIco = "/img/favicon.ico"
 logo = "/img/logo_a.png"
 logoInverted = "/img/logo_b.png"
 

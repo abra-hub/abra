@@ -2,7 +2,8 @@
 title: "The Age of Entanglement: (Higher) Education in a New Key"
 date: 2020-11-13T12:29:12+02:00
 draft: false
-summary: "Summary start here: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris. Nam arcu libero, nonummy eget, consectetuer id, vulputate a, magna. Donec vehicula augue eu neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris ut leo. Cras viverra metus rhoncus sem. Nulla et lectus vestibulum urna fringilla ultrices. Phasellus eu tellus sit amet tortor gravida placerat. Integer sapien est, iaculis in, pretium quis, viverra ac, nunc. Praesent eget sem vel leo ultrices bibendum. Aenean faucibus."
+summary: "We are living in an unprecedented time of creativity and discovery. We are also living in a time of troubling unpredictability and uncertainty."
+description: "We are living in an unprecedented time of creativity and discovery. We are also living in a time of troubling unpredictability and uncertainty."
 thumbnail: "/img/uploads/ifthen-cover.jpg"
 socialImage: "/img/uploads/ifthen-cover.jpg"
 tags: ["test", "tag", "social-tag"]

@@ -2,9 +2,8 @@
 publish = "public"
 command = "hugo --gc --minify -d public;"
 
-
 [context.production.environment]
-HUGO_VERSION = "0.76.5"
+HUGO_VERSION = "0.78.1"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
@@ -12,53 +11,63 @@ HUGO_ENABLEGITINFO = "true"
 command = "hugo --gc --minify --enableGitInfo"
 
 [context.split1.environment]
-HUGO_VERSION = "0.76.5"
+HUGO_VERSION = "0.78.1"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
 command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.76.5"
+HUGO_VERSION = "0.78.1"
 
 [context.branch-deploy]
 command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
-HUGO_VERSION = "0.76.5"
+HUGO_VERSION = "0.78.1"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+[[plugins]]
+package = "netlify-plugin-hugo-cache-resources"
 
 [[headers]]
 for = "/*.jpg"
 
 [headers.values]
-Cache-Control = "public, max-age=0"
+Cache-Control = "public, max-age=604800"
 
 [[headers]]
 for = "/*.png"
 
 [headers.values]
-Cache-Control = "public, max-age=0"
+Cache-Control = "public, max-age=604800"
 
 [[headers]]
 for = "/*.css"
 
 [headers.values]
-Cache-Control = "public, max-age=0"
+Cache-Control = "public, max-age=604800"
 
 [[headers]]
 for = "/*.js"
 
 [headers.values]
-Cache-Control = "public, max-age=0"
+Cache-Control = "public, max-age=604800"
 
 [[headers]]
 for = "/webfonts/*"
 
 [headers.values]
-Cache-Control = "public, max-age=0"
+Cache-Control = "public, max-age=604800"
 
 [[headers]]
 for = "/*"
+
+[headers.values]
+X-Frame-Options = "DENY"
+X-XSS-Protection = "1; mode=block"
+X-Content-Type-Options = "nosniff"
+Referrer-Policy = "no-referrer"
+Content-Security-Policy = "script-src 'self' 'unsafe-inline'"
