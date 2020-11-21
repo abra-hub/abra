@@ -1,16 +1,20 @@
 document.addEventListener("DOMContentLoaded", function () {
 	'use strict';
 
+	function getRandomArbitrary(min, max) {
+		return Math.random() * (max - min) + min;
+	  }
+
 	var Agent = function(noiseZRange, index) {
 		var isEven = false
 		if(index % 2 == 0) {
 			isEven = true
 		}
-		this.vector = myp5.createVector(isEven ? 0 : myp5.width, myp5.random(myp5.height));
+		this.vector = myp5.createVector(isEven ? 0 : myp5.width, getRandomArbitrary(0, myp5.height));
 		this.vectorOld = this.vector.copy();
-		this.stepSize = myp5.random(1, 1.5);
+		this.stepSize = getRandomArbitrary(1, 1.5);
 		this.angle;
-		this.noiseZ = myp5.random(noiseZRange);
+		this.noiseZ = getRandomArbitrary(0, noiseZRange);
 	  };
 
 	  Agent.prototype.update = function(strokeWidth, noiseZVelocity) {
@@ -44,7 +48,9 @@ document.addEventListener("DOMContentLoaded", function () {
 	  };
 
 
+
 	var sketch = function(p) {
+		p.disableFriendlyErrors = true; // disables FES
 		var agents = [];
 		var agentCount = 1500;
 		var noiseScale = 100;
@@ -70,7 +76,6 @@ document.addEventListener("DOMContentLoaded", function () {
 		};
 
 		p.draw = function() {
-
 		//   p.fill(p.color("#d1d9d605"));
 		//   p.fill(r,g,b,a);
 		  p.fill('rgba(255, 255, 255, 0.025)');
@@ -79,7 +84,7 @@ document.addEventListener("DOMContentLoaded", function () {
 		  // Draw agents
 		  for (var i = 0; i < agentCount; i++) {
 			if (drawMode == 1) {
-			  p.stroke(102, 116, 124, p.random(0.1,1));
+			  p.stroke(102, 116, 124, getRandomArbitrary(0.1,1));
 			  agents[i].update1(strokeWidth, noiseScale, noiseStrength, noiseZVelocity);
 			} else {
 			  agents[i].update2(strokeWidth, noiseScale, noiseStrength, noiseZVelocity);
@@ -90,18 +95,6 @@ document.addEventListener("DOMContentLoaded", function () {
 		p.windowResized = function(e) {
 			p.resizeCanvas(p.windowWidth, p.windowHeight);
 		}
-
-		p.keyReleased = function() {
-		  if (p.key == 's' || p.key == 'S') p.saveCanvas(gd.timestamp(), 'png');
-		  if (p.key == '1') drawMode = 1;
-		  if (p.key == '2') drawMode = 2;
-		  if (p.key == ' ') {
-			var newNoiseSeed = p.floor(p.random(10000));
-			// console.log('newNoiseSeed', newNoiseSeed);
-			p.noiseSeed(newNoiseSeed);
-		  }
-		  if (p.keyCode == p.DELETE || p.keyCode == p.BACKSPACE) p.background(255);
-		};
 
 		p.mouseWheel = function(e) {
 			// console.log(e)window.innerWidth
