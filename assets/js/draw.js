@@ -18,8 +18,8 @@ document.addEventListener("DOMContentLoaded", function () {
 	  };
 
 	  Agent.prototype.update = function(strokeWidth, noiseZVelocity) {
-		this.vector.x += myp5.cos(this.angle) * this.stepSize;
-		this.vector.y += myp5.sin(this.angle) * this.stepSize;
+		this.vector.x += Math.cos(this.angle) * this.stepSize;
+		this.vector.y += Math.sin(this.angle) * this.stepSize;
 
 		if (this.vector.x < -10) this.vector.x = this.vectorOld.x = myp5.width + 10;
 		if (this.vector.x > myp5.width + 10) this.vector.x = this.vectorOld.x = -10;
@@ -36,18 +36,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
 	  Agent.prototype.update1 = function(strokeWidth, noiseScale, noiseStrength, noiseZVelocity) {
 		this.angle = myp5.noise(this.vector.x / noiseScale, this.vector.y / noiseScale, this.noiseZ) * noiseStrength;
-
 		this.update(strokeWidth, noiseZVelocity);
 	  };
-
-	  Agent.prototype.update2 = function(strokeWidth, noiseScale, noiseStrength, noiseZVelocity) {
-		this.angle = myp5.noise(this.vector.x / noiseScale, this.vector.y / noiseScale, this.noiseZ) * 24;
-		this.angle = (this.angle - myp5.floor(this.angle)) * noiseStrength;
-
-		this.update(strokeWidth, noiseZVelocity);
-	  };
-
-
 
 	var sketch = function(p) {
 		p.disableFriendlyErrors = true; // disables FES
@@ -83,12 +73,8 @@ document.addEventListener("DOMContentLoaded", function () {
 		  p.rect(0, 0, p.width, p.height);
 		  // Draw agents
 		  for (var i = 0; i < agentCount; i++) {
-			if (drawMode == 1) {
-			  p.stroke(102, 116, 124, getRandomArbitrary(0.1,1));
-			  agents[i].update1(strokeWidth, noiseScale, noiseStrength, noiseZVelocity);
-			} else {
-			  agents[i].update2(strokeWidth, noiseScale, noiseStrength, noiseZVelocity);
-			}
+			p.stroke(102, 116, 124, getRandomArbitrary(0.1,1));
+			agents[i].update1(strokeWidth, noiseScale, noiseStrength, noiseZVelocity);
 		  }
 		};
 
