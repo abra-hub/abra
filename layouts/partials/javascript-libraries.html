@@ -11,7 +11,7 @@
 <script src="{{ $script.Permalink }}"></script>
 {{end}}
 
-
+{{ if eq .Page.Title "Content Manager"}}
 <script>
 	if (window.netlifyIdentity) {
 		window.netlifyIdentity.on("init", user => {
@@ -23,3 +23,4 @@
 		});
 	}
 </script>
+{{end}}

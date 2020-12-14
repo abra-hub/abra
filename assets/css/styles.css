@@ -68,6 +68,9 @@ html {
     transform: translate(0, -4px);
 	box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.12);
 }
+.font-bold {
+	font-family: "Hero new bold";
+}
 
 .article__top {
 	position: relative;
@@ -83,6 +86,12 @@ html {
 	z-index: -1;
 	position: fixed;
 	top: 0;
+}
+h1,
+h2,
+h3,
+strong {
+	font-family: "Hero new bold";
 }
 
 .grayscale {
