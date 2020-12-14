@@ -23,13 +23,13 @@
 					<img class="w-20" src="/svg/alto-logo.svg" alt="ALTO">
 				</div>
 			</div>
-			<div class="flex flex-row">
-				<div class="flex flex-col bg-white bg-opacity-50 md:p-8 py-8 pl-8">
+			<div class="flex flex-col lg:flex-row">
+				<div class="flex flex-col bg-white bg-opacity-50 md:p-6 py-8 pl-8">
 					{{ range .Site.Menus.main }}
 					<a class="pointer" href="{{ .URL | absLangURL }}/">{{ .Name }}</a>
 					{{end}}
 				</div>
-				<div class="flex flex-col bg-white bg-opacity-50 p-8">
+				<div class="flex flex-col bg-white bg-opacity-50 p-6">
 					<a class="flex flex-row" href="https://www.instagram.com/abra_education/">
 						<i class="fa fa-instagram" aria-hidden="true">
 
@@ -41,12 +41,23 @@
 						<i class="fa fa-facebook-square" aria-hidden="true"></i>
 						<span class="text-xs ml-1">@abraeducation</span>
 					</a>
+					<a class="flex flex-row" href="mailto:abra@abra-hub.net">
+						<i class="far fa-envelope"></i>
+						<span class="text-xs ml-1">abra@abra-hub.net</span>
+					</a>
 				</div>
 			</div>
 		</div>
 	</div>
 	<div class="border-t-2 bg-accent">
-		<div class="container py-4 text-white">This project has been funded by the Erasmus+ Programme of the European
-			Union.</div>
+		<div class="text-sm container py-4 text-white flex flex-row place-content-between">
+			<div class="text-xs">This project has been funded by the Erasmus+ Programme of the
+				European
+				Union.
+			</div>
+			<div>abra-hub.net © 2020</div>
+		</div>
+
+
 	</div>
 </footer>
