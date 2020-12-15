@@ -61,6 +61,10 @@ for = "/webfonts/*"
 
 [headers.values]
 Cache-Control = "public, max-age=604800"
+Access-Control-Allow-Origin= "*"
+
 
 [[headers]]
 for = "/*"
+[headers.values]
+Access-Control-Allow-Origin= "*"
