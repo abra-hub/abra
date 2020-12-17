@@ -71,6 +71,9 @@ html {
 .font-bold {
 	font-family: "Hero new bold";
 }
+.font-normal {
+	font-family: "Hero new Regular";
+}
 
 .article__top {
 	position: relative;
