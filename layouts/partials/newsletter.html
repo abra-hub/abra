@@ -34,7 +34,7 @@
 
 <script>
 	var AUTOHIDE = Boolean(0);
-	var address = "https://9db6e0e9.sibforms.com/serve/MUIEAJmJNqSsyZPUM0hlB_dFYKaFE8ULnReQy1JzNyhul5dgJ40AvclwkAlIf0eWFTGpppA53pmErTw9Vt_xLzr29fBkcwYqXnvxYwKbZdDSh0kXPR4Dyvj7OMRh3ateaTYxQ-55RTOAfedWZ38osSogsHcMMEE7Dm9O8fikAeYRYhB35Yy5OipXW1aTQZtFPj79uYOIZDA9CxGD?isAjax=1"
+	var address = "https://9db6e0e9.sibforms.com/serve/MUIEABDZWPvReMQWHuMBX8OUHK86FbCXREi5DQv6sbUCFsQGmu2eEyN2E6FmIQzecIntVegaPLLAscIyA4mI7F41sY6Rns8AcvdwI6XqDC-WlUAt7cUtM0x3WtPaZnLEospft2PxHk_lZ3QisPtoZmlomdHRhqXBtkse-S0KIJPLND597LOn5GbS0aDzgp61PidLkkLrrpTq0oSM?isAjax=1"
 
 	function contactForm() {
 		return {
@@ -56,7 +56,7 @@
 				formData.append('EMAIL', this.formData.EMAIL);
 				formData.append('email_address_check', this.formData.email_address_check);
 				formData.append('locale', this.formData.locale);
-				formData.append('OPT_IN', this.formData.locale);
+				formData.append('OPT_IN', 1);
 				fetch(address, {
 					method: 'post',
 					mode: 'cors',
