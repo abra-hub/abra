@@ -1,9 +1,10 @@
 ---
-title: "Michele Gasparoli"
+title: "Judit Boros"
+afi: "ades"
 draft: false
 summary: ""
 thumbnail: ""
 socialImage: ""
-role: "Budget Officer"
+role: "Course Coordinator"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Markus Löchtefeld"
+afi: "aau"
 draft: false
 summary: "Markus Löchtefeld is an Associate Professor at Aalborg Universities Department for Architecture, Design and Media Technology. His research is on the intersection of Human Computer Interaction and Ubiquitous Computing. Specifically, he focuses on wearable and tangible computing as well as novel prototyping techniques."
 thumbnail: "/img/uploads/profiles/markus.jpg"

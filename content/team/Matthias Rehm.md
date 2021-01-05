@@ -1,9 +1,10 @@
 ---
-title: "Karkku Hanna"
+title: "Matthias Rehm"
+afi: "aau"
 draft: false
 summary: ""
 thumbnail: ""
 socialImage: ""
-role: "Project Management"
+role: "Professor"
 ---
 

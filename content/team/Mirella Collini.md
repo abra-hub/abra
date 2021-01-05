@@ -1,9 +1,10 @@
 ---
-title: "Judit Boros"
+title: "Mirella Collini"
+afi: "trento"
 draft: false
 summary: ""
 thumbnail: ""
 socialImage: ""
-role: "Course Coordinator"
+role: "Budget Officer"
 ---
 

@@ -1,9 +1,11 @@
 ---
-title: "Mirella Collini"
+title: "Karkku Hanna"
 draft: false
+afi: "alto"
+
 summary: ""
 thumbnail: ""
 socialImage: ""
-role: "Budget Officer"
+role: "Project Management"
 ---
 

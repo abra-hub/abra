@@ -1,9 +1,10 @@
 ---
-title: "Matthias Rehm"
+title: "Michele Gasparoli"
+afi: "trento"
 draft: false
 summary: ""
 thumbnail: ""
 socialImage: ""
-role: "Professor"
+role: "Budget Officer"
 ---
 
