@@ -2,7 +2,6 @@
 title: "Karkku Hanna"
 draft: false
 afi: "alto"
-
 summary: ""
 thumbnail: ""
 socialImage: ""
