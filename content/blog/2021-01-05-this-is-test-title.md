@@ -6,6 +6,8 @@ thumbnail: /img/uploads/ifthen-cover.jpg
 authors:
   - Judit Boros
   - Maros Pekarik
+category:
+  - article
 ---
 This is test 
 
