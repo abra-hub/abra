@@ -23,10 +23,6 @@ Let's see [www.google.com](www.google.com)
 
 1. another list type
 
-   test
-
 **BOOLD**
 
-{{< youtube v=r44WriSG-2M&ab_channel=PuraVidaVibes >}}
-
-{{< instagram CJospjyBfUEhtAXsCNOLLPEahFdn3c4y >}}
+{{< youtube r44WriSG-2M >}}
