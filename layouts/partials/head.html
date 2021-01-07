@@ -1,7 +1,9 @@
-{{ hugo.Generator }}{{ partial "favicon.html" . }}
+{{ hugo.Generator }}
+{{ partial "favicon.html" . }}
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-{{/*  Title tags  */}}
+{{/* Title tags */}}
 <title>{{if .IsHome}}{{ .Site.Title }}{{else}}{{ .Title }} | {{ .Site.Title }}{{end}}</title>
 <meta property="og:title" content="{{if .IsHome}}{{ .Site.Title }}{{else}}{{ .Title }} | {{ .Site.Title }}{{end}}" />
 <meta name="twitter:title" content="{{if .IsHome}}{{ .Site.Title }}{{else}}{{ .Title }} | {{ .Site.Title }}{{end}}" />
@@ -10,7 +12,7 @@
 	content="{{if .IsHome}}{{ .Site.Title }}{{else}}{{ .Title }} | {{ .Site.Title }}{{end}}" />
 <meta property="og:site_name" content="{{ .Site.Params.sitename }}" />
 
-{{/*  Description tags  */}}
+{{/* Description tags */}}
 {{ if .Page.Params.description }}
 <meta name="description" content="{{ .Page.Params.description | truncate 250 }}">{{ else if .Page.Params.abstract }}
 <meta name="description" content="{{ .Page.Params.abstract | truncate 250 }}">{{ else if .Site.Params.description }}
@@ -19,14 +21,14 @@
 <meta property="og:description" content="{{ .Site.Params.description | truncate 250 }}" />
 <meta name="twitter:description" content="{{ .Site.Params.description | truncate 250 }}" />{{ end }}
 
-{{/*  Link tags  */}}
+{{/* Link tags */}}
 <base href="{{ .Permalink }}">
 <link rel="canonical" href="{{ .Permalink }}" itemprop="url" />
 <meta name="url" content="{{ .Permalink }}" />
 <meta name="twitter:url" content="{{ .Permalink }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 
-{{/*  Image tags  */}}
+{{/* Image tags */}}
 {{ with .Params.image }}
 <meta itemprop="image" content="{{ . | absURL }}" />
 <meta property="og:image" content="{{ . | absURL }}" />
@@ -39,7 +41,7 @@
 <meta name="twitter:image:src" content="{{ .Site.Params.logo | absURL }}" />
 {{ end }}
 
-{{/*  Date tags  */}}
+{{/* Date tags */}}
 <meta property="og:updated_time" content={{ .Lastmod.Format "2006-01-02T15:04:05Z0700" | safeHTML }} />
 <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ .Site.BaseURL }}sitemap.xml" />
 {{ with .OutputFormats.Get "RSS" }}
@@ -47,7 +49,7 @@
 <link href="{{ .Permalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
 {{ end }}
 
-{{/*  Article tags  */}}
+{{/* Article tags */}}
 <!-- To make sure this renders only in the article page, we check the section -->
 {{ if eq .Section "blog" }}
 <!-- Pagination meta tags for list pages only -->
@@ -109,7 +111,7 @@
   </script>
 {{ end }}
 
-{{/*  WEBSITE TAGS  */}}
+{{/* WEBSITE TAGS */}}
 <meta property="og:type" content="website" />
 <meta name="author" content="{{ .Site.Params.author }}" />
 <script defer type="application/ld+json">
@@ -126,22 +128,10 @@
   }
 </script>
 
-{{/*  FAVICON TAGS  */}}
-<link rel="shortcut icon" href="{{ .Site.Params.faviconIco | absURL }}" />
-<link rel="icon" type="image/x-icon" sizes="16x16 32x32" href="{{ .Site.Params.faviconIco | absURL }}" />
-{{/*  TODO: Add precompressed images  */}}
-<link rel="apple-touch-icon" sizes="152x152" href="{{ .Site.Params.favicon | absURL }}" />
-<link rel="apple-touch-icon" sizes="144x144" href="{{ .Site.Params.favicon | absURL }}" />
-<link rel="apple-touch-icon" sizes="120x120" href="{{ .Site.Params.favicon | absURL }}" />
-<link rel="apple-touch-icon" sizes="114x114" href="{{ .Site.Params.favicon | absURL }}" />
-<link rel="apple-touch-icon" sizes="180x180" href="{{ .Site.Params.favicon | absURL }}" />
-<link rel="apple-touch-icon" sizes="72x72" href="{{ .Site.Params.favicon | absURL }}" />
-<link rel="apple-touch-icon" href="{{ .Site.Params.favicon | absURL }}" />
-<link rel="icon" href="{{ .Site.Params.favicon | absURL }}" sizes="32x32" />
-<link rel="icon" sizes="192x192" href="{{ .Site.Params.favicon | absURL }}" />
 
-{{/*  SOCIAL MEDIA TAGS  */}}
-{{/*  <meta name="twitter:site" content="{{ .Site.Params.twitter }}">
+{{/* SOCIAL MEDIA TAGS */}}
+{{/*
+<meta name="twitter:site" content="{{ .Site.Params.twitter }}">
 <meta name="twitter:creator" content="{{ .Site.Params.twitter }}" />
 <meta property="fb:app_id" content="538089519640705" />
 <meta property="fb:admins" content="100000686899395" /> */}}
