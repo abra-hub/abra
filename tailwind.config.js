@@ -33,7 +33,6 @@ module.exports = {
 			center: true,
 			padding: '2rem'
 		},
-
 		extend: {
 			borderWidth: {
 				default: '1px',

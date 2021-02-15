@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
 	'use strict';
 
-	function getRandomArbitrary(min, max) {
+	function getRandomRange(min, max) {
 		return Math.random() * (max - min) + min;
 	  }
 
@@ -10,11 +10,11 @@ document.addEventListener("DOMContentLoaded", function () {
 		if(index % 2 == 0) {
 			isEven = true
 		}
-		this.vector = myp5.createVector(isEven ? 0 : myp5.width, getRandomArbitrary(0, myp5.height));
+		this.vector = myp5.createVector(isEven ? 0 : myp5.width, getRandomRange(0, myp5.height));
 		this.vectorOld = this.vector.copy();
-		this.stepSize = getRandomArbitrary(1, 1.5);
+		this.stepSize = getRandomRange(1, 1.5);
 		this.angle;
-		this.noiseZ = getRandomArbitrary(0, noiseZRange);
+		this.noiseZ = getRandomRange(0, noiseZRange);
 	  };
 
 	  Agent.prototype.update = function(strokeWidth, noiseZVelocity) {
@@ -30,7 +30,6 @@ document.addEventListener("DOMContentLoaded", function () {
 		myp5.line(this.vectorOld.x, this.vectorOld.y, this.vector.x, this.vector.y);
 
 		this.vectorOld = this.vector.copy();
-
 		this.noiseZ += noiseZVelocity;
 	  };
 
@@ -47,10 +46,7 @@ document.addEventListener("DOMContentLoaded", function () {
 		var noiseStrength = 110;
 		var noiseZRange = 0.4;
 		var noiseZVelocity = 0.001;
-		var overlayAlpha = 10;
-		var agentAlpha = 255;
 		var strokeWidth = 1;
-		var drawMode = 1;
 		var a = 0.05
 		var bgColor = p.unhex(['d1', 'd9', 'd6']);
 		var r = bgColor[0] * a + 255 * (1 - a)
@@ -66,14 +62,11 @@ document.addEventListener("DOMContentLoaded", function () {
 		};
 
 		p.draw = function() {
-		//   p.fill(p.color("#d1d9d605"));
-		//   p.fill(r,g,b,a);
 		  p.fill('rgba(255, 255, 255, 0.025)');
 		  p.noStroke();
 		  p.rect(0, 0, p.width, p.height);
-		  // Draw agents
 		  for (var i = 0; i < agentCount; i++) {
-			p.stroke(102, 116, 124, getRandomArbitrary(0.1,1));
+			p.stroke(102, 116, 124, getRandomRange(0.1,1));
 			agents[i].update1(strokeWidth, noiseScale, noiseStrength, noiseZVelocity);
 		  }
 		};
