@@ -36,3 +36,8 @@ Is a public-facing exhibition of works produced by the transdisciplinary student
 
 ### Result 6 – Approved Joint Master Degree Curriculum and Erasmus Mundus Joint Master Degree (EMJM) application
 A joint master degree Curriculum that allows for an EMJM application is one of the main ends of ABRA. A new dual masters (MA/MSc) in artificial biology, robotics and arts is expected to impact the traditional curriculum of these single fields, contributing to creating new work profiles of high employability. The ecological impact of this new curriculum is also to be highlighted, since the EMJM curriculum will be framed by sustainability principles.
+
+{{< figure src="/img/timeline/1.png" class="ml-1 m-0-i" >}}
+{{< figure src="/img/timeline/2.png" class="m-0-i" >}}
+{{< figure src="/img/timeline/3.png" class="m-0-i" >}}
+
