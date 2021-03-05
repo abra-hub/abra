@@ -7,8 +7,8 @@
 
 {{ if .Page.IsHome}}
 {{ $script := resources.Get "js/draw.js" | minify }}
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.min.js"></script>
 <script src="{{ $script.Permalink }}"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.min.js"></script>
 {{end}}
 
 {{ if eq .Page.Title "Content Manager"}}

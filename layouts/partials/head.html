@@ -149,5 +149,5 @@
 {{ end }}
 
 <!-- Goatcounter -->
-<script data-goatcounter="https://abra.goatcounter.com/count" async
-	src="https://abra.goatcounter.com/count.js"></script>
+{{ $count := resources.Get "js/count.js" | minify }}
+<script data-goatcounter="https://abra.goatcounter.com/count" async src="{{ $count.Permalink }}"></script>
