@@ -96,12 +96,16 @@
 		</header>
 	</section>
 	<section class="bg-white pt-10">
+		{{ $pages := where .Site.RegularPages "Section" "calendar" }}
+		{{ range .Site.Home.Translations }}
+		{{ $pages = $pages | lang.Merge (where .Site.RegularPages "Section" "calendar") }}
+		{{ end }}
 		<div class="container">
 			{{ partial "site-header" (dict "title" "Events" "subtitle" `Upcoming activities to create new pathways for
 			art + science + engineering-driven creativity and innovation for
 			increased sustainability`)}}
 			<div class="mt-5">
-				{{ partial "calendar.html" (dict "dot" . "limit" "1" "upcomingOnly" true)}}
+				{{ partial "calendar.html" (dict "dot" . "limit" "1" "upcomingOnly" true "pages" $pages)}}
 			</div>
 			<button class="underline"><a href="{{ .Site.BaseURL | absLangURL}}/calendar">See more
 					-></a></button>
@@ -111,9 +115,12 @@
 		<div class="container">
 			{{ partial "site-header" (dict "title" "News" "subtitle" ` Here is the latest news from ABRA:`)}}
 			<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-10">
-				{{ range where .Data.Pages "Section" "blog" }}
-				{{ $paginator := .Paginate (where .Pages ".Params.category" "article") 3 }}
-				{{range sort $paginator.Pages ".Date"}}
+				{{ $pages := where .Site.RegularPages "Section" "blog" }}
+				{{ range .Site.Home.Translations }}
+				{{ $pages = $pages | lang.Merge (where .Site.RegularPages "Section" "blog") }}
+				{{ end }}
+
+				{{ range sort (first 3 $pages) ".Date" }}
 				<div class="post bg-white overflow-hidde">
 					<header>
 						<a class="image" href="{{ .Permalink }}">
@@ -134,7 +141,6 @@
 						</h2>
 					</div>
 				</div>
-				{{end}}
 				{{end}}
 			</div>
 			<button class="button underline pt-6"><a href="{{ .Site.BaseURL | absLangURL}}/blog">See more

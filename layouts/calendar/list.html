@@ -1,7 +1,12 @@
 {{- define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end -}}
 {{- define "main" -}}
+{{ $pages := where .Site.RegularPages "Section" "calendar" }}
+{{ range .Site.Home.Translations }}
+{{ $pages = $pages | lang.Merge (where .Site.RegularPages "Section" "calendar") }}
+{{ end }}
+
 {{ $categories := slice }}
-{{ range .Data.Pages }}
+{{ range $pages }}
 {{ $categories = $categories | append .Params.category }}
 {{ end }}
 {{ $categories = $categories | append "activity" }}
@@ -38,7 +43,7 @@
 	</div>
 	<div class="container">
 		{{ partial "site-header" (dict "title" .Title)}}
-		{{ partial "calendar.html" (dict "dot" . "limit" "99")}}
+		{{ partial "calendar.html" (dict "dot" . "limit" "99" "pages" $pages)}}
 	</div>
 </div>
 {{end}}

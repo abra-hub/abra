@@ -1,34 +1,20 @@
-<!-- <div class="h-64 z-0 bg-cover bg-center" {{ with .Site.Params.homepageimagefallback }}
-	style="background-image: url({{ . | absURL }})" {{ end }}> -->
 <div class="min-h-screen  flex flex-wrap content-center ">
 	<div class="container w-full flex flex-col md:flex-row">
-		<!-- <h1 class="md:w-2/3 text-white pb-5 mt-5 z-30 text-6xl">ABRA</h1>
-	<h2 class="md:w-2/4 text-white mb-5 z-30 text-2xl">
-		<span class="text-gray-400">A</span>RTIFICIAL
-		<br />
-		<span class="text-gray-400">B</span>IOLOGY <br /> <span class="text-gray-400">R</span>OBOTICS <br /> <span
-			class="text-gray-400">A</span>RTS
-	</h2> -->
 		<div class="p-8 md:w-2/4">
 			<img class="" src="/img/logo_full.png" alt="">
 		</div>
 		<div class="p-8 md:w-2/4 flex flex-wrap content-center">
 			<h3 class="mb-2">Latest articles:</h3>
-			{{ with .Site.GetPage "Section" "blog" }}
-			{{ range sort (first 3 .Pages) ".Date" }}
+			{{ $pages := where .Site.RegularPages "Section" "blog" }}
+			{{ range .Site.Home.Translations }}
+			{{ $pages = $pages | lang.Merge (where .Site.RegularPages "Section" "blog") }}
+			{{ end }}
+
+			{{ range sort (first 3 $pages) ".Date" }}
 			<a href="{{.Permalink}}" class="underline">‣ {{.Title}}</a>
-			{{end}}
 			{{end}}
 		</div>
 	</div>
 </div>
 <div id=" canvas_draw" class="-z-10 h-screen w-screen fixed top-0 left-0">
-	<!-- <img class=" object-cover h-64 w-full z-0"
-		{{ with $.Site.Params.homepageimageset }}{{ $homepagesrcset := sub (len $.Site.Params.homepageimageset) 1}}srcset="{{range $elem_index, $elem_val := $.Site.Params.homepageimageset }}{{ .img | absURL }} {{ .width }}{{ if lt $elem_index $homepagesrcset }}, {{ end }}{{ end }}"
-		sizes="{{range $elem_index, $elem_val := $.Site.Params.homepageimageset }}{{ with .maxwidth }}(maxwidth: {{ . }}){{ end }}{{ .width }}{{ if lt $elem_index $homepagesrcset }}, {{ end }}{{ end }}"
-		{{ end }}{{ with .Site.Params.homepageimagefallback }} src="{{ . | absURL }}"
-		{{ end }}{{ with .Site.Params.homepageimagealt }} alt="{{ . }}" {{ end }}> -->
-	<!-- <div class="container flex flex-col items-start justify-center h-64 mx-auto ">
-		<h1 class="text-5xl">{{ .Site.Params.description }} </h1>
-	</div> -->
 </div>

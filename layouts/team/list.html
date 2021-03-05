@@ -5,6 +5,11 @@
 	project, we build and facilitate research towards a new
 	transdisciplinary education` "title" .Title)}}
 
+	{{ $pages := where .Site.RegularPages "Section" "team" }}
+	{{ range .Site.Home.Translations }}
+	{{ $pages = $pages | lang.Merge (where .Site.RegularPages "Section" "team") }}
+	{{ end }}
+
 	{{range .Params.afiliations}}
 	{{ $name := .name }}
 	<div class="flex flex-col md:flex-row mb-10 ">
@@ -19,8 +24,7 @@
 		</header>
 
 		<section class="md:w-3/4 grid md:grid-cols-2 sm:grid-cols-2 lg:grid-cols-3 gap-3 mb-10 flex-auto">
-			{{ range $.Pages }}
-
+			{{ range $pages }}
 			{{ if eq .Params.afi $name }}
 
 			<div class="post bg-white">
