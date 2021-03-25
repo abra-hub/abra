@@ -10,8 +10,6 @@ socialImage: /img/uploads/green-bumble-socmedia-1080x1080-simple-inverted_bw.png
 authors:
   - Karina Vissonova
 ---
-# Green Bumble
-
 */bumble/* 
 
 *\- to make or do (something) in a clumsy or unskillful way*
