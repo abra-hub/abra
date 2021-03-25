@@ -35,10 +35,18 @@
 <meta name="twitter:image" content="{{ . | absURL }}" />
 <meta name="twitter:image:src" content="{{ . | absURL }}" />
 {{ else }}
-<meta itemprop="image" content="{{ .Site.Params.logo | absURL }}" />
-<meta property="og:image" content="{{ .Site.Params.logo | absURL }}" />
-<meta name="twitter:image" content="{{ .Site.Params.logo | absURL }}" />
-<meta name="twitter:image:src" content="{{ .Site.Params.logo | absURL }}" />
+	{{ if .Params.socialImage}}
+	<!-- Social Media Image Tags -->
+	<meta property="og:image" content="{{.Params.socialImage}}">
+	<meta property="og:image:type" content="image/png">
+	<meta property="og:image:width" content="1024">
+	<meta property="og:image:height" content="1024">
+	{{else}}
+	<meta itemprop="image" content="{{ .Site.Params.logo | absURL }}" />
+	<meta property="og:image" content="{{ .Site.Params.logo | absURL }}" />
+	<meta name="twitter:image" content="{{ .Site.Params.logo | absURL }}" />
+	<meta name="twitter:image:src" content="{{ .Site.Params.logo | absURL }}" />
+	{{end}}
 {{ end }}
 
 {{/* Date tags */}}
@@ -64,13 +72,6 @@
 <link rel="next" href="{{ $paginator.Next.URL }}">
 {{end }}
 {{end }}
-
-{{ if .Params.socialImage }}
-<meta property="og:image" content="{{.Params.socialImage}}">
-<meta property="og:image:type" content="image/png">
-<meta property="og:image:width" content="1024">
-<meta property="og:image:height" content="1024">
-{{end}}
 
 <meta property="og:type" content="article" />
 <meta property="article:publisher" content="{{ .Site.Params.facebook }}" />
@@ -145,7 +146,6 @@
 <meta property="fb:admins" content="100000686899395" /> */}}
 
 <meta name="keywords" content="{{.Site.Params.Keywords}}" />
-
 <meta name="robots" content="index,follow" />
 <meta name="googlebot" content="index,follow" />
 
