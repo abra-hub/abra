@@ -25,7 +25,6 @@
       "hr",
       "html",
       "i",
-      "iframe",
       "iframe\n\t\t\t\tsrc=\"https://abra.substack.com/embed\"",
       "img",
       "li",
@@ -42,7 +41,6 @@
       "span\n\t\t\t\t\t\t\t\tclass=\"",
       "span\n\t\t\t\t\t\t\tclass=\"flex",
       "strong",
-      "style",
       "sup",
       "svg",
       "time",
@@ -325,7 +323,6 @@
       "result-5--what-transdisciplinary-knowledge-looks-like-exhibition-and-symposium",
       "result-6--approved-joint-master-degree-curriculum-and-erasmus-mundus-joint-master-degree-emjm-application",
       "results",
-      "substack_newsletter",
       "towards-transdisciplinarity"
     ]
   }
