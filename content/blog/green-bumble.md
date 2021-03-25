@@ -2,6 +2,7 @@
 title: Green Bumble
 date: 2021-03-25T12:56:15.428Z
 draft: false
+category: "article"
 description: To resolve what matters for sustainability, we must appreciate how
   it entangles environmental and social wellbeing, and scientific discoveries
   for new ways of designing  "material wellbeing”.
