@@ -1,5 +1,6 @@
 {{- define "main" -}}
-<div class="article__top bg-center bg-gray-700" {{ with .Params.thumbnail }}
+<div class="mt-32 flex sm:hidden"></div>
+<div class="hidden sm:flex article__top bg-center bg-gray-700" {{ with .Params.thumbnail }}
 	style="background-image: url({{ . | absURL }})" {{ end }}>
 	{{/*  {{ if .Params.thumbnail }}<img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" />{{ end }} */}}
 </div>
@@ -7,7 +8,7 @@
 <article>
 	<header class="md:container mx-auto row">
 		<div class="justify-content-center -mt-40 pb-20 bg-white relative">
-			<div class="text-center pt-16 px-10 content max-w-full">
+			<div class="md:text-center pt-16 px-10 content max-w-full">
 				<h1>{{ .Title }}</h1>
 			</div>
 			<!-- TODO: Add reading time -->
@@ -24,7 +25,7 @@
 			<time class="text" datetime="{{ . }}">{{if isset $.Params "authors"}}|{{end}} {{ . }}</time>
 			{{- end -}}
 		</section>
-		<article class="prose prose-lg font-sans py-8">
+		<article class="prose lg:prose-lg font-sans py-8">
 			{{ .Content }}
 		</article>
 	</article>
