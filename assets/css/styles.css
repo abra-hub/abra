@@ -6,12 +6,11 @@
 
 [x-cloak] { display: none; }
 
-html {
+body {
 	font-family: "Hero New Regular";
 }
 
 @layer base {
-
 	body {
 		/* background-color: #d1d9d6; */
 		background-color: #ffff;
@@ -44,7 +43,7 @@ html {
 		line-height: calc(30px + 12 * ((100vw - 320px) / 1280));
 	}
 	.content {
-		@apply prose
+		@apply prose-lg;
 	}
 }
 
