@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Green Bumble
 date: 2021-03-25T12:56:15.428Z
 draft: false
 thumbnail: /img/uploads/green-bumble-socmedia-1080x1080-simple-inverted_bw.png
