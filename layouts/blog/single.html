@@ -16,19 +16,17 @@
 		</div>
 	</header>
 
-	<div class="px-8">
-		<div class="md:w-1/2 mx-auto">
-			<div class="flex flex-row italic">
-				<div>{{if isset .Params "authors"}}By {{range .Params.authors}} | <span class="mr-1">{{.}}</span>
-					{{end}}{{end}}</div>
-				{{- with .Site.Params.dateformat | default "02-01-2006" | .PublishDate.Format -}}
-				<time class="text" datetime="{{ . }}">{{if isset $.Params "authors"}}|{{end}} {{ . }}</time>
-				{{- end -}}
-			</div>
-			<div class="content py-8">
-				{{ .Content }}
-			</div>
-		</div>
-	</div>
+	<article class="px-8 md:w-1/2 mx-auto">
+		<section class="flex flex-row italic">
+			<div>{{if isset .Params "authors"}}By {{range .Params.authors}} | <span class="mr-1">{{.}}</span>
+				{{end}}{{end}}</div>
+			{{- with .Site.Params.dateformat | default "02-01-2006" | .PublishDate.Format -}}
+			<time class="text" datetime="{{ . }}">{{if isset $.Params "authors"}}|{{end}} {{ . }}</time>
+			{{- end -}}
+		</section>
+		<article class="content py-8">
+			{{ .Content }}
+		</article>
+	</article>
 </article>
 {{end}}

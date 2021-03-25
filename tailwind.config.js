@@ -58,6 +58,19 @@ module.exports = {
 				'-10': '-10',
 			}
 		},
+		typography: {
+			default: {
+			  css: {
+				color: '#1a1a1a',
+				a: {
+				  color: '#3182ce',
+				  '&:hover': {
+					color: '#2c5282',
+				  },
+				},
+			  },
+			},
+		  },
 	},
 	plugins: [ typography ]
 };
