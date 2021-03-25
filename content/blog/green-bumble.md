@@ -46,18 +46,16 @@ We flag the colour green as a metaphor for visions of nature at a height of fert
 
 By Karina Vissonova, Founder of [Institute of Advanced Design Studies](https://ades.design/), for ABRA-hub, March 25th, 2021
 
-
-
 *Green Bumble – undiscussed discussions is an anthology of works which raise questions about contemporary propositions to how our society might be built. The body of works discuss sustainability from perspectives of industry transitions (such as circular economy) and “green" consumerism. The publication offers critical reflections on the mainstream propositions of sustainability and lays out several theories for motivating human and environment-friendly behaviour of individuals as well as industries.*
 
 *The digital publication is produced by [Institute of Advanced Design Studies](https://ades.design/), non-profit and will be available free to download on the publisher’s website and websites of the contributing partners from April, 2021. The publication is done with the support of [Northern Dimension Partnership on Culture](https://www.ndpculture.org/), Latvia, and contributions from [Common Cause Foundation](https://valuesandframes.org/), UK with a report from WWF-UK, [The Futures Lab](http://futures-lab.com/home), USA and the [Center for the Advancement of Steady State Economy](https://steadystate.org/), USA as well as Prof. [Jonathan Trent](https://www.ted.com/speakers/jonathan_trent).*
 
 *The contents of this article reflect the views only of the author and do not constitute an endorsement by ABRA project, which cannot be held responsible for any use which may be made of the information contained.*\
 \
-[^1] https://www.merriam-webster.com/thesaurus/bumble
+[^1]: https://www.merriam-webster.com/thesaurus/bumble
 
-[^2] T. Crompton, “Weathercocks and Signposts”, a report originally published by WWF-UK (2008). The report can be downloaded in a complete and original version from the [WWF-UK](https://www.wwf.org.uk/) and the [Common Cause Foundation](https://valuesandframes.org/) websites.
+[^2]: T. Crompton, “Weathercocks and Signposts”, a report originally published by WWF-UK (2008). The report can be downloaded in a complete and original version from the [WWF-UK](https://www.wwf.org.uk/) and the [Common Cause Foundation](https://valuesandframes.org/) websites.
 
-[^3] Parrique T., Barth J., Briens F., C. Kerschner, Kraus-Polk A., Kuokkanen A., Spangenberg J.H., 2019. Decoupling debunked: Evidence and arguments against green growth as a sole strategy for sustainability. European Environmental Bureau. <https://eeb.org/library/decoupling-debunked/>
+[^3]: Parrique T., Barth J., Briens F., C. Kerschner, Kraus-Polk A., Kuokkanen A., Spangenberg J.H., 2019. Decoupling debunked: Evidence and arguments against green growth as a sole strategy for sustainability. European Environmental Bureau. <https://eeb.org/library/decoupling-debunked/>
 
-[^4] Also see ibid.
+[^4]: Also see ibid.
