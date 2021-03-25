@@ -65,6 +65,13 @@
 {{end }}
 {{end }}
 
+{{ if .Params.socialImage }}
+<meta property="og:image" content="{{.Params.socialImage}}">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1024">
+<meta property="og:image:height" content="1024">
+{{end}}
+
 <meta property="og:type" content="article" />
 <meta property="article:publisher" content="{{ .Site.Params.facebook }}" />
 <meta property="og:article:published_time" content={{ .Date.Format "2006-01-02T15:04:05Z0700" | safeHTML }} />
