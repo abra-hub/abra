@@ -1,15 +1,15 @@
 ---
-title: Green Bumble
-date: 2021-03-25T12:56:15.428Z
 draft: false
-category: "article"
+title: Green Bumble
 description: To resolve what matters for sustainability, we must appreciate how
   it entangles environmental and social wellbeing, and scientific discoveries
   for new ways of designing  "material wellbeing”.
+date: 2021-03-25T12:56:15.428Z
 thumbnail: /img/uploads/green-bumble-socmedia-1080x1080-simple-inverted_bw.png
 socialImage: /img/uploads/green-bumble-socmedia-1080x1080-simple-inverted_bw.png
 authors:
   - Karina Vissonova
+category: article
 ---
 */bumble/* 
 
@@ -22,7 +22,7 @@ Green is also the colour of unripened fruit and metaphorically speaking – unri
 
 Contemporary society of the global North holds a belief that “green” stands for a sustained humankind along with clean water, unpolluted air, fertile soil and a planet rich with life of all shapes and colours. We strive to preserve the environment while weaving strong the threads of industries that hold together the fabric of contemporary society. But no longer industries of black smoking chimneys and clanking giant iron arms of machineries, but wind and sun powered, material-re/up-cycling plants spilling out goods in abundance. For humankind. (Isn’t it ironic that the daylight feeding and the earth’s mineral flesh eating entities should both be named “plants”.) The way to preserve the environment is to relieve pressures caused by systematic industrial production of goods. Assessment of renewability of materials, rate of emissions and run-off pollution in production, sources of energy, water, then the transport and use cycles and the final disposal of the goods produced: these are the primary stages of goods we relate to causes of environmental pressures. Green design, in theory, is in service to a production of goods decoupled from such (and other) environmental pressures.
 
-{{< figure src="/img/uploads/embrace-a-manufacturing-process-that’s-lean-and-green-1_bw.png" caption="(Illustration from “Embrace a Manufacturing Process That’s Lean and Green” article by Cheryl Beebe in [https://www.fishmancorp.com/author/cheryl-beebe](https://www.fishmancorp.com/author/cheryl-beebe))">}}
+{{< figure src="/img/uploads/embrace-a-manufacturing-process-that’s-lean-and-green-1_bw.png" caption="(Illustration from “Embrace a Manufacturing Process That’s Lean and Green” article by Cheryl Beebe in <https://www.fishmancorp.com/author/cheryl-beebe>)">}}
 
 On the other hand, consumerism-driven society favouring green designs is to tip the scale towards sustainability. We are asked to vote with our wallets for the green transition. Besides, consumption of sustainably produced goods not only helps to preserve the environment, but also helps to preserve the fabric of our society. Hence, what the society needs is more green innovations, technological- and market-based solutions to climate and environmental crises, transforming our industries and thus our society into being sustainable, cumulatively.
 
@@ -32,7 +32,7 @@ But is consumerism modelled in a response to our undying desire for things, or i
 
 In consequence to the above, motivating behaviour-change by appealing to our materialistic values with green consumption is a misguided effort in a long term strategy for sustainability [^2]. In parallel, a model of economic prosperity through production of goods decoupled from the environmental pressures is contestable, for the lack of evidence of the model’s viability in a short time required to halt climate change and environmental degradation [^3]. The two leading propositions to how a sustainable society might be built – decoupling industrial activities from the environment and green consumerism, – appear to have some rather wide gaps, which are under-discussed within mainstream sustainability narratives.
 
-![]( "")
+![]("")
 {{< figure src="/img/uploads/green-bumble-socmedia-1080x1080-simple-inverted_bw.png" caption="(Illustration produced for the Green Bumble by Walter Werner https://walterwerner.design/, here made in grayscale.)">}}
 
 ### Green Bumble - undiscussed discussions
@@ -49,7 +49,9 @@ By Karina Vissonova, Founder of [Institute of Advanced Design Studies](https://a
 
 *The digital publication is produced by [Institute of Advanced Design Studies](https://ades.design/), non-profit and will be available free to download on the publisher’s website and websites of the contributing partners from April, 2021. The publication is done with the support of [Northern Dimension Partnership on Culture](https://www.ndpculture.org/), Latvia, and contributions from [Common Cause Foundation](https://valuesandframes.org/), UK with a report from WWF-UK, [The Futures Lab](http://futures-lab.com/home), USA and the [Center for the Advancement of Steady State Economy](https://steadystate.org/), USA as well as Prof. [Jonathan Trent](https://www.ted.com/speakers/jonathan_trent).*
 
-*The contents of this article reflect the views only of the author and do not constitute an endorsement by ABRA project, which cannot be held responsible for any use which may be made of the information contained.*
+*The contents of this article reflect views of the author, who is a strategic partner of the ABRA project. The views do not constitute an endorsement by the ABRA project.*
+
+
 [^1]: https://www.merriam-webster.com/thesaurus/bumble
 
 [^2]: T. Crompton, “Weathercocks and Signposts”, a report originally published by WWF-UK (2008). The report can be downloaded in a complete and original version from the [WWF-UK](https://www.wwf.org.uk/) and the [Common Cause Foundation](https://valuesandframes.org/) websites.
