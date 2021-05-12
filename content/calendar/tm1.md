@@ -5,7 +5,7 @@ author: Maros Pekarik
 category: "transnational-meetings"
 tags: ["io2", "io3"]
 date: 2020-11-09T20:47:01.700Z
-startDate: 2021-09-01
+startDate: 2022-01-09
 withoutTime: true
 city: Aalborg
 thumbnail:
