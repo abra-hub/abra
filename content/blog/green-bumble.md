@@ -53,6 +53,8 @@ Green Bumble – *undiscussed discussions* (2021) is an anthology of works which
 
 *The contents of this article reflect the views of the author, who is a strategic partner of the ABRA project. The views do not constitute an endorsement by the ABRA project.*
 
+[^1]: https://www.merriam-webster.com/thesaurus/bumble
+
 [^2]: T. Crompton, “Weathercocks and Signposts”, a report originally published by WWF-UK (2008). The report can be downloaded in a complete and original version from the [WWF-UK](https://www.wwf.org.uk/) and the [Common Cause Foundation](https://valuesandframes.org/) websites.
 
 [^3]: Parrique T., Barth J., Briens F., C. Kerschner, Kraus-Polk A., Kuokkanen A., Spangenberg J.H., 2019. Decoupling debunked: Evidence and arguments against green growth as a sole strategy for sustainability. European Environmental Bureau. <https://eeb.org/library/decoupling-debunked/>
