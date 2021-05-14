@@ -14,7 +14,7 @@ category: article
 */bumble/* 
 
 * to make or do (something) in a clumsy or unskillful way
-* to proceed or act clumsily or ineffectually* [^1]
+* to proceed or act clumsily or ineffectually[^1]
 
 Green is a positive colour. The colour of grass and leaves at the peak of Earth’s fertility. It is the colour of nature’s element which feeds solely on daylight – green light-waves are reflected by chlorophyll, contained in plants, which absorb energy from blue- and red-light waves of sunlight. Herbivores gain energy by eating plants, and carnivores obtain it by eating herbivores. This is the trophic structure of nature and it starts with daylight. Green is a colour of a start and of a cycle of continuity. Sustained continuity of nature. Sustainability.
 
