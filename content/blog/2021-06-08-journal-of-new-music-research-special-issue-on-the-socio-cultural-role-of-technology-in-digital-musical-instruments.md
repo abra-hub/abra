@@ -19,6 +19,8 @@ Considering the wide range of content and viewpoints presented in this special i
 
 ![](/img/uploads/jnmr_v50n2.png)
 
+
+
 In this special issue you will find:
 
 * Marc Leman investigates the concept of co-regulating timing in a new Bayesian listener algorithm that could function as a perception module of an artificial musician capable of interacting with human musicians. 
