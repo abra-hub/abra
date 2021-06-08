@@ -5,7 +5,7 @@ title: "Journal of New Music Research Special issue on the Socio-Cultural Role
 description: draft
 date: 2021-06-08T19:49:28.043Z
 thumbnail: /img/uploads/jnmr_v50n2-copy.png
-socialImage: /img/uploads/jnmr_v50n2.png
+socialImage: /img/uploads/jnmr_v50n2-copy.png
 authors:
   - Koray Tahiroglu
 category: article
