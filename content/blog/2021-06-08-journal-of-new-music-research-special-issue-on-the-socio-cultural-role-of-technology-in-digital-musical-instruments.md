@@ -17,6 +17,8 @@ The content of this work has been published in a special issue in the [Journal o
 
 Considering the wide range of content and viewpoints presented in this special issue, on the social aspect of technology in a particular socio-cultural activity like music, which supports a diverse range of interactions and social or individual goals, one might find some shared interests in one's own research and artistic practices. You might have access to all the articles through your institutions, and five out of the nine articles are open access publications.
 
+![](/img/uploads/jnmr_v50n2.png)
+
 In this special issue you will find:
 
 * Marc Leman investigates the concept of co-regulating timing in a new Bayesian listener algorithm that could function as a perception module of an artificial musician capable of interacting with human musicians. 
