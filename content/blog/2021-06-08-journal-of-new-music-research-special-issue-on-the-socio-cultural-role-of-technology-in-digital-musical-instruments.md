@@ -4,9 +4,9 @@ title: "Journal of New Music Research Special issue on the Socio-Cultural Role
   of Technology in Digital Musical Instruments "
 description: An introduction to the Journal of New Music's special issue arising
   from the Digital Music Interactions Symposium in Helsinki, Finland.
-date: 2021-06-09T17:56:24.903Z
+date: 2021-06-09T17:05:23.317Z
 thumbnail: /img/uploads/abrablog-3-copy.jpg
-socialImage: /img/uploads/abrablog-3-copy.jpg
+socialImage: /img/uploads/abrablog-3crop.jpg
 authors:
   - Koray Tahiroglu
 category: article
@@ -17,6 +17,8 @@ Following the symposium of Digital Music Interactions in Helsinki in 2019, I hav
 The content of this work has been published in a special issue in the [Journal of New Music Research](https://www.tandfonline.com/toc/nnmr20/50/2?nav=tocList) (Guest Editors: Koray Tahiroğlu and Thor Magnusson). This special issue is one of the outcomes of the [Academy Research Fellow project](http://dmi.aalto.fi) (no.316549).
 
 Considering the wide range of content and viewpoints presented in this special issue, on the social aspect of technology in a particular socio-cultural activity like music, which supports a diverse range of interactions and social or individual goals, one might find some shared interests in one's own research and artistic practices. You might have access to all the articles through your institutions, and five out of the nine articles are open access publications.
+
+
 
 In this special issue you will find:
 
@@ -35,4 +37,4 @@ Koray Tahiroğlu
 
 \--------------------------------------------------------------------------------------------------------------
 
-1. Marsden, A., Tahiroğlu, K., & Magnusson, T. (2021). Special Issue: Socio-Cultural Role of Technology in Digital Musical Instruments. *Journal of New Music Research*, 50(2), 117–120. https://www.tandfonline.com/toc/nnmr20/50/2
+{{< gist 1. Marsden, A., Tahiroğlu, K., & Magnusson, T. (2021). Special Issue: Socio-Cultural Role of Technology in Digital Musical Instruments. *Journal of New Music Research*, 50(2), 117–120. https://www.tandfonline.com/toc/nnmr20/50/2. undefined >}}
