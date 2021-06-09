@@ -18,8 +18,6 @@ The content of this work has been published in a special issue in the [Journal o
 
 Considering the wide range of content and viewpoints presented in this special issue, on the social aspect of technology in a particular socio-cultural activity like music, which supports a diverse range of interactions and social or individual goals, one might find some shared interests in one's own research and artistic practices. You might have access to all the articles through your institutions, and five out of the nine articles are open access publications.
 
-
-
 In this special issue you will find:
 
 * Marc Leman investigates the concept of co-regulating timing in a new Bayesian listener algorithm that could function as a perception module of an artificial musician capable of interacting with human musicians. 
@@ -35,6 +33,6 @@ I hope that you will enjoy reading this special issue, which I believe is a uniq
 
 Koray Tahiroğlu
 
-\--------------------------------------------------------------------------------------------------------------
+\----------------------------------------------------------------------------------
 
-{{< gist 1. Marsden, A., Tahiroğlu, K., & Magnusson, T. (2021). Special Issue: Socio-Cultural Role of Technology in Digital Musical Instruments. *Journal of New Music Research*, 50(2), 117–120. https://www.tandfonline.com/toc/nnmr20/50/2. undefined >}}
+1. Marsden, A., Tahiroğlu, K., & Magnusson, T. (2021). Special Issue: Socio-Cultural Role of Technology in Digital Musical Instruments. *Journal of New Music Research*, 50(2), 117–120. https://www.tandfonline.com/toc/nnmr20/50/2?nav=tocList
