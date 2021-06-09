@@ -5,7 +5,7 @@ title: "Journal of New Music Research Special issue on the Socio-Cultural Role
 description: Introduction to the Journal of New Music's special issue arising
   from the Digital Music Interactions Symposium in Helsinki, Finland.
 date: 2021-06-08T19:49:28.043Z
-thumbnail: /img/uploads/yellow2.png
+thumbnail: /img/uploads/yellow.png
 socialImage: /img/uploads/yellow2.png
 authors:
   - Koray Tahiroglu
