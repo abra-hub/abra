@@ -4,7 +4,7 @@ title: "Journal of New Music Research Special issue on the Socio-Cultural Role
   of Technology in Digital Musical Instruments "
 description: An introduction to the Journal of New Music's special issue arising
   from the Digital Music Interactions Symposium in Helsinki, Finland.
-date: 2021-06-08T19:49:28.043Z
+date: 2021-06-09T17:05:23.317Z
 thumbnail: /img/uploads/abrablog-3-copy.jpg
 socialImage: /img/uploads/abrablog-3-copy.jpg
 authors:
