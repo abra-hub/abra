@@ -37,4 +37,6 @@ Koray Tahiroğlu
 
 
 
-1. Marsden, A., Tahiroğlu, K., & Magnusson, T. (2021). Special Issue: Socio-Cultural Role of Technology in Digital Musical Instruments. *Journal of New Music Research*, 50(2), 117–120. https://www.tandfonline.com/toc/nnmr20/50/2.
+
+
+{{< gist 1. Marsden, A., Tahiroğlu, K., & Magnusson, T. (2021). Special Issue: Socio-Cultural Role of Technology in Digital Musical Instruments. *Journal of New Music Research*, 50(2), 117–120. https://www.tandfonline.com/toc/nnmr20/50/2. undefined >}}
