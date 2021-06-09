@@ -20,8 +20,6 @@ Considering the wide range of content and viewpoints presented in this special i
 
 ![](/img/uploads/jnmr_v50n2.png)
 
-
-
 In this special issue you will find:
 
 * Marc Leman investigates the concept of co-regulating timing in a new Bayesian listener algorithm that could function as a perception module of an artificial musician capable of interacting with human musicians. 
@@ -35,4 +33,6 @@ In this special issue you will find:
 
 I hope that you will enjoy reading this special issue, which I believe is a unique contribution to the research of new interfaces for musical expression. The content might be an inspiring contribution to your own research areas.
 
-{{< gist Marsden, A., Tahiroğlu, K., & Magnusson, T. (2021). Special Issue: Socio-Cultural Role of Technology in Digital Musical Instruments. Journal of New Music Research, 50(2), 117–120. https://www.tandfonline.com/toc/nnmr20/50/2 undefined >}}
+```
+Marsden, A., Tahiroğlu, K., & Magnusson, T. (2021). Special Issue: Socio-Cultural Role of Technology in Digital Musical Instruments. Journal of New Music Research, 50(2), 117–120. https://www.tandfonline.com/toc/nnmr20/50/2. 
+```
