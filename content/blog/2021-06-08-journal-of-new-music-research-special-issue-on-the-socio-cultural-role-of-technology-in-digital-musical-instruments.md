@@ -4,9 +4,9 @@ title: "Journal of New Music Research Special issue on the Socio-Cultural Role
   of Technology in Digital Musical Instruments "
 description: An introduction to the Journal of New Music's special issue arising
   from the Digital Music Interactions Symposium in Helsinki, Finland.
-date: 2021-06-09T17:56:24.903Z
-thumbnail: /img/uploads/abrablog-3-copy.jpg
-socialImage: /img/uploads/abrablog-3-copy.jpg
+date: 2021-06-09T17:05:23.317Z
+thumbnail: /img/uploads/abrablog-3crop.jpg
+socialImage: /img/uploads/abrablog-3crop.jpg
 authors:
   - Koray Tahiroglu
 category: article
@@ -32,7 +32,3 @@ In this special issue you will find:
 I hope that you will enjoy reading this special issue, which I believe is a unique contribution to the research of new interfaces for musical expression. The content might be an inspiring contribution to your own research areas.
 
 Koray Tahiroğlu
-
-\--------------------------------------------------------------------------------------------------------------
-
-1. Marsden, A., Tahiroğlu, K., & Magnusson, T. (2021). Special Issue: Socio-Cultural Role of Technology in Digital Musical Instruments. *Journal of New Music Research*, 50(2), 117–120. https://www.tandfonline.com/toc/nnmr20/50/2
