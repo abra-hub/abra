@@ -120,7 +120,7 @@
 				{{ $pages = $pages | lang.Merge (where .Site.RegularPages "Section" "blog") }}
 				{{ end }}
 
-				{{ range sort (last 3 $pages) ".Date" "desc" }}
+				{{ range sort (first 3 $pages) ".Date" "desc" }}
 				<div class="post bg-white overflow-hidde">
 					<header>
 						<a class="image" href="{{ .Permalink }}">
