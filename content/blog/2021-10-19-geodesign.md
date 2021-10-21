@@ -27,6 +27,8 @@ Augmented data-interaction is merged with the tangible sandbox environment, in o
 
 The project culminated as part of Aalto University’s Designs for a Cooler Planet for the Helsinki Design Week. The exhibition Mind Meets Machine: Immersive Data-Interaction showcased novel projects in computational design methods to creatively interact with global and local data. The exhibited projects set their focus on the exploration of immersive data-interaction design tools to enhance climate-smart solutions in the urban context. Making the abstract data visible and tangible, to enter a new level of data-informed responsive design with the public’s benefit in mind.
 
+
+
 * Project team: Prof. Dr. Pia Fricker, Kane Borg, and Tina Cerpnjak
 * Exhibition support: Loviisa Luoma
 * Students: Marek Kratochvíl, Kaie Kuldkepp, Hanna-Kaisa Koskinen, Ahti Launis, Riikka Lauri, Emilia Lemmetti, Huixu Li, Loviisa Luoma, Eetu Mykkänen, Teo Rinne, Miisa-Maari Ulmanen, Eetu Mykkänen, Yanxia Qiu, Antti Rantamäki, Shenyu Sun, Laura Tuorila, Huijia Zhuang
