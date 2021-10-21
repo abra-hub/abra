@@ -27,7 +27,12 @@ The project culminated as part of Aalto University’s Designs for a Cooler Plan
 
 ![](/img/uploads/abra-pia-blog.jpg)
 
+
+
+
+
 * Project team: Prof. Dr. Pia Fricker, Kane Borg, and Tina Cerpnjak
 * Exhibition support: Loviisa Luoma
 * Students: Marek Kratochvíl, Kaie Kuldkepp, Hanna-Kaisa Koskinen, Ahti Launis, Riikka Lauri, Emilia Lemmetti, Huixu Li, Loviisa Luoma, Eetu Mykkänen, Teo Rinne, Miisa-Maari Ulmanen, Eetu Mykkänen, Yanxia Qiu, Antti Rantamäki, Shenyu Sun, Laura Tuorila, Huijia Zhuang
 * In cooperation with: Dr. Philip Belesky (RMIT Australia), Mariusz Hermansdorfer (University of Copenhagen /Ramboll DK) and Dr. Ilmar Hurkxkens (ETH Zurich)
+* Special thanks to: Manueal Fonseca, Ilpo Kari and Pekka Salonen, workshop masters of ARTS as well as to ARTS IT team
