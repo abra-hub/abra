@@ -17,7 +17,7 @@ One of the larger challenges facing urban design today are generic and often dys
 
 There is major importance in reintegrating the creative and intuitive notion of design into computational design methods through methods which allow architects and landscape architects to interact with abstract data, as a tangible component in the designing process. This process style creates the capacity to bring designers with real lived experience in real lived space back into influence, to interact with AI and other future technology.    
 
-![](/img/uploads/screen-shot-2021-09-27-at-2.34.02-pm.png)
+![](/img/uploads/img_4424-1-.jpg)
 
 To address this global problem affecting the quality of our built environment, I (Pia Fricker) in cooperation with Prof. Dr. Hans Skov-Petersen of the University of Copenhagen developed the GeoDesign: Immersive Data Interaction Workshop which took place in Copenhagen in 2019 and at Aalto University, Finland, in 2021. The workshop addressed GeoDesign technologies as a means of recording, representing, decoding and communicating with the complex phenomena in urban and landscape planning processes. Hands-on experience in the area of agent-based modelling and augmented reality data-interaction was merged through a tangible sandbox interaction tool. The development method utilizes the robotic arm for co-designing, informed by local data and in direct exchange with the physical hands-on interaction of the designer in the tangible sandbox. This process oriented, iterative design workflow is not aiming for creating final solutions, but allows the designer to interact with real-time augmented information, in order to integrate a huge variety of information into the design process.
 
