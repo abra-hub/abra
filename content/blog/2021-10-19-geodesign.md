@@ -5,7 +5,7 @@ description: One of the larger challenges facing urban design today are generic
   and often dysfunctional designs due to over reliance on AI-informed automated
   design generators available to design buildings, cities and landscapes. It is
   time for critical reflection!
-date: 2021-10-19T15:31:24.861Z
+date: 2021-10-21T17:49:30.266Z
 thumbnail: /img/uploads/copy-of-capture2-1-1-.png
 socialImage: /img/uploads/copy-of-capture2-1-1-.png
 authors:
