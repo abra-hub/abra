@@ -23,11 +23,9 @@ To address this global problem affecting the quality of our built environment, I
 
 Augmented data-interaction is merged with the tangible sandbox environment, in order to formulate sustainable design speculations from both human and AI perspectives. The student landscape designs addressed acoustic patterns, utilization, comfort, and storm-water runoff. Some of the topics investigated during the workshop were the conditions by which human bodies are made comfortable; in which ways form can create identity; and topographical explorations in traffic flow and vegetation. The understanding of available technology was composed and rearranged in order to support the field specific discourse which led to innovative design speculations, based upon this human-robotic interaction. The developed design methodology emphasizes the importance of design iterations through computationally informed feedback loops. 
 
-The project culminated as part of Aalto University’s Designs for a Cooler Planet for the Helsinki Design Week. The exhibition Mind Meets Machine: Immersive Data-Interaction showcased novel projects in computational design methods to creatively interact with global and local data. The exhibited projects set their focus on the exploration of immersive data-interaction design tools to enhance climate-smart solutions in the urban context. Making the abstract data visible and tangible, to enter a new level of data-informed responsive design with the public’s benefit in mind.
-
 ![](/img/uploads/abra-pia-blog.jpg)
 
-
+The project culminated as part of Aalto University’s Designs for a Cooler Planet for the Helsinki Design Week. The exhibition Mind Meets Machine: Immersive Data-Interaction showcased novel projects in computational design methods to creatively interact with global and local data. The exhibited projects set their focus on the exploration of immersive data-interaction design tools to enhance climate-smart solutions in the urban context. Making the abstract data visible and tangible, to enter a new level of data-informed responsive design with the public’s benefit in mind.
 
 
 
