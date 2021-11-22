@@ -1,5 +1,5 @@
 ---
-type: blog
+type: calendar
 title: "Transdisciplinarity and Sustainability: Materials, Practices & Pedagogy #2 (TM2)"
 author: Maros Pekarik
 category: "transnational-meetings"

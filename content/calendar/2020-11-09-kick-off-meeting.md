@@ -1,5 +1,5 @@
 ---
-type: blog
+type: calendar
 title: Kick Off Meeting
 author: Maros Pekarik
 date: 2020-11-09T20:47:01.700Z

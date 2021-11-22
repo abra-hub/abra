@@ -1,5 +1,5 @@
 ---
-type: blog
+type: calendar
 title: "Project Summary and Presentation and Finalization of Transdiscplinary (MA/MSc) Join Masters Degree & Curriculum (TM4)"
 category: "transnational-meetings"
 tags: ["io4","io5", "io6"]

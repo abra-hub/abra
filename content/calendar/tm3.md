@@ -1,5 +1,5 @@
 ---
-type: blog
+type: calendar
 title: "Assessing the Joint Curriculum (TM3)"
 category: "transnational-meetings"
 tags: ["io4", "io5"]
