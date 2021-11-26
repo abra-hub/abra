@@ -1,9 +1,9 @@
-<div class="min-h-screen  flex flex-wrap content-center ">
-	<div class="container w-full flex flex-col">
+<div class="min-h-screen flex flex-col">
+	<div class="container w-full flex flex-col mt-auto">
 		<div class="p-8 md:w-2/4 mx-auto mt-16">
 			<img class="" src="/img/logo_full.png" alt="">
 		</div>
-		<div class="p-8 flex flex-col content-center mt-auto">
+		<div class="flex flex-col content-center mt-auto">
 			<h3 class="mb-2">Latest articles:</h3>
 			{{ $pages := where .Site.RegularPages "Section" "blog" }}
 			{{ range .Site.Home.Translations }}
@@ -31,6 +31,26 @@
 			</section>
 		</div>
 	</div>
+	<div class="w-full bg-secondary align-middle justify-self-end self-end place-self-end mt-auto">
+		<div class="container">
+			<div class="flex flex-col md:flex-row align-middle items-center text-white py-6">
+				<a href="/calendar/m1">
+				<div class="flex flex-row">
+					<i class="far fa-calendar fa-4x"></i>
+					<div class="flex flex-col mx-6">
+						<p class="text-lg font-bold hover:underline">Art Loves Science // Science Loves Art</p>
+						<p class="text-sm md:text-base">Kunsten Museum of Modern Art, Aalborg</p>
+						<p class="text-sm md:text-base" >12th January 2022, 15-17h</p>
+					</div>
+				</div>
+				</a>
+				<button class="bg-white hover:bg-gray-200 text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded-full ml-auto mt-5 md:mt-0">
+					<a href="https://forms.office.com/pages/responsepage.aspx?id=Sbrb9QbOb0msPgzxQ2HZNGGQF6EnzCpLmHl4vVt0SDJUN0RMS1VJUlAzRThMWVFEUFFaQlpNU1Q1TC4u&web=1&wdLOR=c1AB347BA-5791-0A49-8E80-C11F040AF3A6" target="_blank">
+						Register Here </a> </button>
+			</div>
+		</div>
+	</div>
+
 </div>
 <div id=" canvas_draw" class="-z-10 h-screen w-screen fixed top-0 left-0">
 </div>
