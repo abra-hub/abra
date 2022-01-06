@@ -10,6 +10,7 @@ endDate: 2022-01-15T20:50:01.700Z
 withoutTime: true
 city: Aalborg
 thumbnail:
+canceled: true
 ---
 The second transnational meeting is a six-day event co-located with the combined teacher and joint staff training meeting in conjunction with project planning, and student and teacher workshops and training. Project status, feedback from participants and stakeholders thus far, review of the plan for subsequent workshops. Multiplier Event [ME1] held in conjunction with Nordic Summer School (NSU).
 
