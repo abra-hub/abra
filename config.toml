@@ -59,13 +59,13 @@ footercontent = "Footer content."
 [privacy.disqus]
 	disable = true
 [privacy.instagram]
-	disable = true
+	disable = false
 [privacy.twitter]
 	disable = true
 [privacy.vimeo]
-	disable = true
+	disable = false
 [privacy.youtube]
-	disable = true
+	disable = false
 
 [[Languages.en.menu.main]]
 	weight = 1
@@ -83,7 +83,6 @@ footercontent = "Footer content."
 	weight = 4
 	name = "Calendar"
 	url = "calendar"
-
 
 # ITALIAN NAVIGATION --------------------
 [[Languages.it.menu.main]]
