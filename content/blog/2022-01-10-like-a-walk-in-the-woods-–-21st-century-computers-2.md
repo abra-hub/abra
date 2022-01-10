@@ -28,9 +28,7 @@ To create a future in which computing is calm, ubiquitous, and at the same time 
 
 So even after 30 years Weiser’s vision \[1] for the 21st century computer still holds more ideas that are worthwhile pursuing and efforts such as the ABRA project can play a key role in enabling the development of a sustainable 21st Century Computer.
 
-{{vimeo 355733805}}
-
-
+{{< vimeo 355733805 >}}
 
 1. Weiser, M. (1991). The computer for the 21st Century. Scientific American, 265(3), 75-84.
 2. Jensen, W., Colley, A., Häkkilä, J., Pinheiro, C., & Löchtefeld, M. (2019). TransPrint: A method for fabricating flexible transparent free-form displays. Advances in Human-Computer Interaction, 2019.
