@@ -33,12 +33,12 @@ When it comes to acts of straying there are those who jump to censor, restrict a
 It is important to note that these special privileges come with certain expectations and responsibilities. As transdisciplinary practitioners we have an obligation to respect the disciplines we negotiate within. Transdisciplinary work must remain attuned to the research practices of other disciplines, keeping legitimate ties and comprehensibility, while negotiating new avenues of methodology, all the while remaining an undutiful stray to all disciplines.
 
 > *\[...] research-creation challenges reigning academic cultures less by asserting a new, disciplined and disciplining, academic identity, a noun (the artist-researcher), than by offering us something verbified and vertiginous, something that queers normative university discourse, propagating uncanny academic kinship structures and unexpected disciplinary intimacies and alliances.\[...] It requires that one cultivate a robust capacity to follow curiosity and sit with anxiety. And it requires that one navigate multiple pulls across disciplinary sites, methodological approaches, and formal requirements.* 
->
-> Natalie Loveless, 2019, p.57
+
+Natalie Loveless, 2019, p.57
 
 The artist is an accepted stray within society and the transdisciplinary artist is a stray even to the standards of the “art profession” itself; the bizarre, the abstract, the ECCENTRIC!  
 
-![](/img/uploads/slattmossen-butts-2-2021.jpg "Cigarette butt fieldwork, Slåttmossen Nature Reserve, 2021.")
+![Cigarette butt fieldwork, Slåttmossen Nature Reserve, 2021.](/img/uploads/slattmossen-butts-2-2021.jpg "Cigarette butt fieldwork, Slåttmossen Nature Reserve, 2021.")
 
 The chosen images for this article are taken from the Master of Arts thesis work (ViCCA-programme, Aalto-ARTS) by Cynthia Blanchette, which investigates the concept of stray and its relation to a bog. The project focuses on a tiny nature reserve called Slåttmossen in the outskirts of Helsinki. Blanchette’s thesis consisted of theoretical work, practice-based work, documentation of hands-on experimental fieldwork, such as a weekly practice of documenting bog happenings, picking cigarette butts from the bog as evidence and collecting samples of microscopic life to be observed under a microscope. It also included experiments in transferring bog-fragments to a textile and a bog-stray rescue operation. This multifaceted project culminated in a wearable system, a kind of uniform, designed to protect the boundaries and porosities of both the human body and the bog terrain during encounters. This artifact, the uniform, delves into a complexity of concepts, such as power, control, domestication, protection, safety, care, porosity, and also environmental justice - in a comparable manner to how societal and cultural categories, defined borders, regulations and expectations are constructed. Additionally, Blanchette developed and wove the bog camouflage textile for her uniform with a pattern based on microscopic images of human macrophage cells which help eliminate foreign substances by engulfing foreign materials and initiating an immune response. 
 
@@ -49,7 +49,7 @@ In her work Blanchette often uses the term porous in multiple contexts from huma
 As no single practice has all the answers; one can claim that the value of transdisciplinary praxis is in the ability to perceive issues from more than one perspective, to create connections between disciplines and stir the ground between the fields, revealing that which ties diverse fields, perspectives and approaches together.
 
 > *And resistance is emerging in many places, in many ways. We must experiment.*
->
-> Françoise Vergès, 2020.
+
+Françoise Vergès, 2020.
 
 ![](/img/uploads/img_6546resized.jpg "Wearable System, 2021.")
