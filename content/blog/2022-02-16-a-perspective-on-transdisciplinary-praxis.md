@@ -26,7 +26,7 @@ This article investigates what transdisciplinarity means within artistic praxis.
 
 In her work on human-animal ethics in the anthropocene, Barbara Creed states of strays that “When a creature seems not to belong to a clearly definable species, she becomes a stray, a being without kin” ( Creed 2017, p.137). It is easy to consider this when looking at the position of transdisciplinary artists.
 
-![](/img/uploads/yfoi1168-1-1-.jpeg "Piece of Sphagnum moss separated from the bog carpet and rooted directly into a cigarette butt, Slåttmossen Nature Reserve, 2021.")
+![Piece of Sphagnum moss separated from the bog carpet and rooted directly into a cigarette butt, Slåttmossen Nature Reserve, 2021.](/img/uploads/yfoi1168-1-1-.jpeg "Piece of Sphagnum moss separated from the bog carpet and rooted directly into a cigarette butt, Slåttmossen Nature Reserve, 2021.")
 
 When it comes to acts of straying there are those who jump to censor, restrict and protect the boundaries of disciplines, and the current art market by thrusting up walls against trespassers of regulated professions. Yet, from our perspective the artist holds a unique position, the artist is not only allowed but expected to push against the limitations and breach the boundaries set by current ideology. The artist is given special privileges to experiment in poly-discipline-amorous modes which others are not allowed to, due to regulatory bodies or professional standards of conduct. Transdisciplinary praxis allows space for disciplinary strays to test, destabilize and denaturalize current categorical-discourse, and the positioning of the self within them. That freedom to wander that every artist is seeking is found in straying from normative systems and narratives.
 
@@ -44,7 +44,7 @@ The chosen images for this article are taken from the Master of Arts thesis work
 
 In her work Blanchette often uses the term porous in multiple contexts from human skin and human activity to wetlands being inherently porous and further in seeing her position as an artist, who leaves the narrative open to those who come across the uniform porous-boundary system to create their own stories (Blanchette 2021). Furthermore in relation to porosity and transdisciplinary artistic praxis one can ask: is it possible to rebuild relations through porous-praxis to create a context in which there are no strays, and disciplines are inclusive and merging?
 
-![](/img/uploads/slattmosen-biofilia-2-2021-1-.jpg "Microscopic images of lively water samples, bacteria, plant cells, protozoa and microscopic animals mixing and thriving off of each other, Slåttmossen Nature Reserve, 2021.")
+![Microscopic images of lively water samples, bacteria, plant cells, protozoa and microscopic animals mixing and thriving off of each other, Slåttmossen Nature Reserve, 2021.](/img/uploads/slattmosen-biofilia-2-2021-1-.jpg "Microscopic images of lively water samples, bacteria, plant cells, protozoa and microscopic animals mixing and thriving off of each other, Slåttmossen Nature Reserve, 2021.")
 
 As no single practice has all the answers; one can claim that the value of transdisciplinary praxis is in the ability to perceive issues from more than one perspective, to create connections between disciplines and stir the ground between the fields, revealing that which ties diverse fields, perspectives and approaches together.
 
@@ -52,4 +52,4 @@ As no single practice has all the answers; one can claim that the value of trans
 
 Françoise Vergès, 2020.
 
-![](/img/uploads/img_6546resized.jpg "Wearable System, 2021.")
+![Wearable System, 2021.](/img/uploads/img_6546resized.jpg "Wearable System, 2021.")
