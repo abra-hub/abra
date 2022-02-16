@@ -32,9 +32,7 @@ When it comes to acts of straying there are those who jump to censor, restrict a
 
 It is important to note that these special privileges come with certain expectations and responsibilities. As transdisciplinary practitioners we have an obligation to respect the disciplines we negotiate within. Transdisciplinary work must remain attuned to the research practices of other disciplines, keeping legitimate ties and comprehensibility, while negotiating new avenues of methodology, all the while remaining an undutiful stray to all disciplines.
 
-> *\[...] research-creation challenges reigning academic cultures less by asserting a new, disciplined and disciplining, academic identity, a noun (the artist-researcher), than by offering us something verbified and vertiginous, something that queers normative university discourse, propagating uncanny academic kinship structures and unexpected disciplinary intimacies and alliances.\[...] It requires that one cultivate a robust capacity to follow curiosity and sit with anxiety. And it requires that one navigate multiple pulls across disciplinary sites, methodological approaches, and formal requirements.* 
-
-Natalie Loveless, 2019, p.57
+> *\[...] research-creation challenges reigning academic cultures less by asserting a new, disciplined and disciplining, academic identity, a noun (the artist-researcher), than by offering us something verbified and vertiginous, something that queers normative university discourse, propagating uncanny academic kinship structures and unexpected disciplinary intimacies and alliances.\[...] It requires that one cultivate a robust capacity to follow curiosity and sit with anxiety. And it requires that one navigate multiple pulls across disciplinary sites, methodological approaches, and formal requirements.* Natalie Loveless, 2019[^4].
 
 The artist is an accepted stray within society and the transdisciplinary artist is a stray even to the standards of the “art profession” itself; the bizarre, the abstract, the ECCENTRIC!  
 
@@ -42,7 +40,7 @@ The artist is an accepted stray within society and the transdisciplinary artist 
 
 The chosen images for this article are taken from the Master of Arts thesis work (ViCCA-programme, Aalto-ARTS) by Cynthia Blanchette, which investigates the concept of stray and its relation to a bog. The project focuses on a tiny nature reserve called Slåttmossen in the outskirts of Helsinki. Blanchette’s thesis consisted of theoretical work, practice-based work, documentation of hands-on experimental fieldwork, such as a weekly practice of documenting bog happenings, picking cigarette butts from the bog as evidence and collecting samples of microscopic life to be observed under a microscope. It also included experiments in transferring bog-fragments to a textile and a bog-stray rescue operation. This multifaceted project culminated in a wearable system, a kind of uniform, designed to protect the boundaries and porosities of both the human body and the bog terrain during encounters. This artifact, the uniform, delves into a complexity of concepts, such as power, control, domestication, protection, safety, care, porosity, and also environmental justice - in a comparable manner to how societal and cultural categories, defined borders, regulations and expectations are constructed. Additionally, Blanchette developed and wove the bog camouflage textile for her uniform with a pattern based on microscopic images of human macrophage cells which help eliminate foreign substances by engulfing foreign materials and initiating an immune response. 
 
-In her work Blanchette often uses the term porous in multiple contexts from human skin and human activity to wetlands being inherently porous and further in seeing her position as an artist, who leaves the narrative open to those who come across the uniform porous-boundary system to create their own stories (Blanchette 2021). Furthermore in relation to porosity and transdisciplinary artistic praxis one can ask: is it possible to rebuild relations through porous-praxis to create a context in which there are no strays, and disciplines are inclusive and merging?
+In her work Blanchette often uses the term porous in multiple contexts from human skin and human activity to wetlands being inherently porous and further in seeing her position as an artist, who leaves the narrative open to those who come across the uniform porous-boundary system to create their own stories [^5]. Furthermore in relation to porosity and transdisciplinary artistic praxis one can ask: is it possible to rebuild relations through porous-praxis to create a context in which there are no strays, and disciplines are inclusive and merging?
 
 ![Microscopic images of lively water samples, bacteria, plant cells, protozoa and microscopic animals mixing and thriving off of each other, Slåttmossen Nature Reserve, 2021.](/img/uploads/slattmosen-biofilia-2-2021-1-.jpg "Microscopic images of lively water samples, bacteria, plant cells, protozoa and microscopic animals mixing and thriving off of each other, Slåttmossen Nature Reserve, 2021.")
 
@@ -50,7 +48,7 @@ As no single practice has all the answers; one can claim that the value of trans
 
 > *And resistance is emerging in many places, in many ways. We must experiment.*
 
-Françoise Vergès, 2020.
+Françoise Vergès, 2020[^6].
 
 ![Wearable System, 2021.](/img/uploads/img_6546resized.jpg "Wearable System, 2021.")
 
@@ -58,4 +56,12 @@ Françoise Vergès, 2020.
 
 [^2]: Piaget, J. (1972). The Epistemology of Interdisciplinary Relationships. In: L. Apostel, G. Berger, A. Briggs and G. Michaud ( eds.) Interdisciplinarity: Problems of Teaching and Research in Universities (pp.127-139). Paris: Organization for Economic Cooperation and Development.
 
+[^2]: Nicolescu, B. (ed.) (2008). Transdisciplinarity - Theory and Practice. Hampton Press, Cresskill, NJ, USA.
+
 [^3]: Creed, B. (2017). Stray: Human-Animal Ethics in the Anthropocene. Power Publications. Apple Books. p.137.
+
+[^4]: Natalie, L. (2019). How to Make Art at the End of the World: A Manifesto for Research-Creation. Duke University Press. p.57.
+
+[^5]: Blanchette, C. (2021). Strayscapes: Porous Boundary Making Through the Eye of the Bog. Aaltodoc. <http://urn.fi/URN:NBN:fi:aalto-202111019949>
+
+[^6]: Vergès, F. (2020, January). Interview by T. Gerber. A Decolonial Feminism: Timofei Gerber in conversation with Françoise Vergès. [Epoché](https://epochemagazine.org/) Magazine. 28. <https://epochemagazine.org/28/a-decolonial-feminism/>
