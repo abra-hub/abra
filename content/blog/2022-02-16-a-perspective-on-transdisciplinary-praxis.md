@@ -26,7 +26,7 @@ This article investigates what transdisciplinarity means within artistic praxis.
 
 In her work on human-animal ethics in the anthropocene, Barbara Creed states of strays that “When a creature seems not to belong to a clearly definable species, she becomes a stray, a being without kin” [^4]. It is easy to consider this when looking at the position of transdisciplinary artists.
 
-![](/img/uploads/yfoi1168-1-1-.jpeg "{{<(Sphagnum moss separated from the bog carpet and rooted directly into a cigarette butt, Slåttmossen Nature Reserve, 2021)\">}}")
+![](/img/uploads/yfoi1168-1-1-.jpeg "{{<\"Sphagnum moss separated from the bog carpet and rooted directly into a cigarette butt, Slåttmossen Nature Reserve, 2021\">}}")
 
 When it comes to acts of straying there are those who jump to censor, restrict and protect the boundaries of disciplines, and the current art market by thrusting up walls against trespassers of regulated professions. Yet, from our perspective the artist holds a unique position, the artist is not only allowed but expected to push against the limitations and breach the boundaries set by current ideology. The artist is given special privileges to experiment in poly-discipline-amorous modes which others are not allowed to, due to regulatory bodies or professional standards of conduct. Transdisciplinary praxis allows space for disciplinary strays to test, destabilize and denaturalize current categorical-discourse, and the positioning of the self within them. That freedom to wander that every artist is seeking is found in straying from normative systems and narratives.
 
