@@ -12,7 +12,7 @@ description: There have been decades of debates, especially in academia, about
   longer understand the other, communicate with the other or see the value in
   the other, we are on the verge of a great loss.
 date: 2022-02-16T18:00:53.004Z
-thumbnail: /img/uploads/img_6345resized.jpg
+thumbnail: /img/uploads/img_6345resizedcropped.jpg
 socialImage: /img/uploads/img_6345resizedcropped.jpg
 authors:
   - Cynthia Blanchette
