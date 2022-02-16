@@ -56,7 +56,7 @@ Françoise Vergès, 2020[^6].
 
 [^2]: Piaget, J. (1972). The Epistemology of Interdisciplinary Relationships. In: L. Apostel, G. Berger, A. Briggs and G. Michaud ( eds.) Interdisciplinarity: Problems of Teaching and Research in Universities (pp.127-139). Paris: Organization for Economic Cooperation and Development.
 
-[^2]: Nicolescu, B. (ed.) (2008). Transdisciplinarity - Theory and Practice. Hampton Press, Cresskill, NJ, USA.
+Nicolescu, B. (ed.) (2008). Transdisciplinarity - Theory and Practice. Hampton Press, Cresskill, NJ, USA.
 
 [^3]: Creed, B. (2017). Stray: Human-Animal Ethics in the Anthropocene. Power Publications. Apple Books. p.137.
 
