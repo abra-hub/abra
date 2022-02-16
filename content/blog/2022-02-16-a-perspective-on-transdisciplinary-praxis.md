@@ -20,7 +20,13 @@ authors:
 category: article
 crosspost: true
 ---
-There have been decades of debates, especially in academia, about the benefits and successes of disciplinary vs. non-disciplinary or transdisciplinary education and research (Darian-Smith & McCarty 2016)[^1]. Psychologist Jean Piaget, who is considered to have coined the term transdisciplinary, was envisioning a space of knowledge beyond the disciplines (Piaget 1972; Nicolescu 2008). This kind of space allotted to work with/in multiple disciplines should be seen as vital in a time when one can see categories and intersections closing in on themselves. When professionals no longer understand the other, communicate with the other or see the value in the other, we are on the verge of a great loss.
+There have been decades of debates, especially in academia, about the benefits and successes of disciplinary vs. non-disciplinary or transdisciplinary education and research (Darian-Smith & McCarty 2016)
+
+```
+[^1]
+```
+
+. Psychologist Jean Piaget, who is considered to have coined the term transdisciplinary, was envisioning a space of knowledge beyond the disciplines (Piaget 1972; Nicolescu 2008). This kind of space allotted to work with/in multiple disciplines should be seen as vital in a time when one can see categories and intersections closing in on themselves. When professionals no longer understand the other, communicate with the other or see the value in the other, we are on the verge of a great loss.
 
 This article investigates what transdisciplinarity means within artistic praxis. Obviously, there is much more to it than the initial bafflement that spreads across one’s face when first hearing the term “Transdisciplinary Artist”. Often followed by the question “But do you paint or sculpt?” Western cultures adore putting professions into their appropriate categories, clean and orderly, boxed up disciplines. The transdisciplinary artist breaches these boundaries; an outsider, a transient, a stray, which nomadically asserts space within several disciplines. 
 
