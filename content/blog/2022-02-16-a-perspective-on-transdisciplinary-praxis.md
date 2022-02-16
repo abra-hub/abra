@@ -13,7 +13,7 @@ description: There have been decades of debates, especially in academia, about
   the other, we are on the verge of a great loss.
 date: 2022-02-16T18:00:53.004Z
 thumbnail: /img/uploads/img_6345resizedcropped.jpg
-socialImage: /img/uploads/img_6345resizedcropped.jpg
+socialImage: /img/uploads/img_6345resized.jpg
 authors:
   - Cynthia Blanchette
   - Laura Beloff
@@ -53,6 +53,3 @@ As no single practice has all the answers; one can claim that the value of trans
 Françoise Vergès, 2020.
 
 ![Wearable System, 2021.](/img/uploads/img_6546resized.jpg "Wearable System, 2021.")
-
-![]("")
-{{< figure src="/img/uploads/green-bumble-socmedia-1080x1080-simple-inverted_bw.png" caption="(Illustration produced for the Green Bumble by [Walter Werner](https://walterwerner.design/) here made in grayscale.)">}}
