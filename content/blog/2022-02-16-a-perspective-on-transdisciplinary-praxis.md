@@ -32,7 +32,9 @@ When it comes to acts of straying there are those who jump to censor, restrict a
 
 It is important to note that these special privileges come with certain expectations and responsibilities. As transdisciplinary practitioners we have an obligation to respect the disciplines we negotiate within. Transdisciplinary work must remain attuned to the research practices of other disciplines, keeping legitimate ties and comprehensibility, while negotiating new avenues of methodology, all the while remaining an undutiful stray to all disciplines.
 
-> *\[...] research-creation challenges reigning academic cultures less by asserting a new, disciplined and disciplining, academic identity, a noun (the artist-researcher), than by offering us something verbified and vertiginous, something that queers normative university discourse, propagating uncanny academic kinship structures and unexpected disciplinary intimacies and alliances.\[...] It requires that one cultivate a robust capacity to follow curiosity and sit with anxiety. And it requires that one navigate multiple pulls across disciplinary sites, methodological approaches, and formal requirements.* Natalie Loveless, 2019[^5].
+> *\[...] research-creation challenges reigning academic cultures less by asserting a new, disciplined and disciplining, academic identity, a noun (the artist-researcher), than by offering us something verbified and vertiginous, something that queers normative university discourse, propagating uncanny academic kinship structures and unexpected disciplinary intimacies and alliances.\[...] It requires that one cultivate a robust capacity to follow curiosity and sit with anxiety. And it requires that one navigate multiple pulls across disciplinary sites, methodological approaches, and formal requirements.* 
+>
+> Natalie Loveless, 2019[^5].
 
 The artist is an accepted stray within society and the transdisciplinary artist is a stray even to the standards of the “art profession” itself; the bizarre, the abstract, the ECCENTRIC!  
 
@@ -47,8 +49,8 @@ In her work Blanchette often uses the term porous in multiple contexts from huma
 As no single practice has all the answers; one can claim that the value of transdisciplinary praxis is in the ability to perceive issues from more than one perspective, to create connections between disciplines and stir the ground between the fields, revealing that which ties diverse fields, perspectives and approaches together.
 
 > *And resistance is emerging in many places, in many ways. We must experiment.*
-
-Françoise Vergès, 2020[^7].
+>
+> Françoise Vergès, 2020[^7].
 
 ![Wearable System, 2021.](/img/uploads/img_6546resized.jpg "Wearable System, 2021.")
 
