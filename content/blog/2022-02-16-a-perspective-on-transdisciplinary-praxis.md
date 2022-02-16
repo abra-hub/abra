@@ -20,11 +20,11 @@ authors:
 category: article
 crosspost: true
 ---
-There have been decades of debates, especially in academia, about the benefits and successes of disciplinary vs. non-disciplinary or transdisciplinary education and research (Darian-Smith & McCarty 2016)[^1]. Psychologist Jean Piaget, who is considered to have coined the term transdisciplinary, was envisioning a space of knowledge beyond the disciplines (Piaget 1972; Nicolescu 2008). This kind of space allotted to work with/in multiple disciplines should be seen as vital in a time when one can see categories and intersections closing in on themselves. When professionals no longer understand the other, communicate with the other or see the value in the other, we are on the verge of a great loss.
+There have been decades of debates, especially in academia, about the benefits and successes of disciplinary vs. non-disciplinary or transdisciplinary education and research[^1]. Psychologist Jean Piaget, who is considered to have coined the term transdisciplinary, was envisioning a space of knowledge beyond the disciplines [^2]. This kind of space allotted to work with/in multiple disciplines should be seen as vital in a time when one can see categories and intersections closing in on themselves. When professionals no longer understand the other, communicate with the other or see the value in the other, we are on the verge of a great loss.
 
 This article investigates what transdisciplinarity means within artistic praxis. Obviously, there is much more to it than the initial bafflement that spreads across one’s face when first hearing the term “Transdisciplinary Artist”. Often followed by the question “But do you paint or sculpt?” Western cultures adore putting professions into their appropriate categories, clean and orderly, boxed up disciplines. The transdisciplinary artist breaches these boundaries; an outsider, a transient, a stray, which nomadically asserts space within several disciplines. 
 
-In her work on human-animal ethics in the anthropocene, Barbara Creed states of strays that “When a creature seems not to belong to a clearly definable species, she becomes a stray, a being without kin” ( Creed 2017, p.137). It is easy to consider this when looking at the position of transdisciplinary artists.
+In her work on human-animal ethics in the anthropocene, Barbara Creed states of strays that “When a creature seems not to belong to a clearly definable species, she becomes a stray, a being without kin” [^3]. It is easy to consider this when looking at the position of transdisciplinary artists.
 
 ![Piece of Sphagnum moss separated from the bog carpet and rooted directly into a cigarette butt, Slåttmossen Nature Reserve, 2021.](/img/uploads/yfoi1168-1-1-.jpeg "Piece of Sphagnum moss separated from the bog carpet and rooted directly into a cigarette butt, Slåttmossen Nature Reserve, 2021.")
 
@@ -54,4 +54,8 @@ Françoise Vergès, 2020.
 
 ![Wearable System, 2021.](/img/uploads/img_6546resized.jpg "Wearable System, 2021.")
 
-[^1]: Blanchette, C. (2021). Strayscapes: Porous Boundary Making Through the Eye of the Bog. Aaltodoc. <http://urn.fi/URN:NBN:fi:aalto-202111019949>
+[^1]: Darian-Smith, E. & McCarty, P. (2016). “Beyond Interdisciplinarity: Developing a Global Transdisciplinary Framework.” Transcience, 7(2): 1-26.
+
+[^2]: Piaget, J. (1972). The Epistemology of Interdisciplinary Relationships. In: L. Apostel, G. Berger, A. Briggs and G. Michaud ( eds.) Interdisciplinarity: Problems of Teaching and Research in Universities (pp.127-139). Paris: Organization for Economic Cooperation and Development.
+
+[^3]: Creed, B. (2017). Stray: Human-Animal Ethics in the Anthropocene. Power Publications. Apple Books. p.137.
