@@ -44,7 +44,7 @@ The chosen images for this article are taken from the Master of Arts thesis work
 
 In her work Blanchette often uses the term porous in multiple contexts from human skin and human activity to wetlands being inherently porous and further in seeing her position as an artist, who leaves the narrative open to those who come across the uniform porous-boundary system to create their own stories [^6]. Furthermore in relation to porosity and transdisciplinary artistic praxis one can ask: is it possible to rebuild relations through porous-praxis to create a context in which there are no strays, and disciplines are inclusive and merging?
 
-![](/img/uploads/slattmosen-biofilia-2-2021-1-.jpg "Microscopic Life in Water Samples: bacteria, plant cells, protozoa and microscopic animals mixing, procreating and thriving off of each others life and death cycles, Slåttmossen Nature Reserve, 2021.")
+![](/img/uploads/slattmosen-biofilia-2-2021-1-.jpg "Microscopic Life in Water Samples: bacteria, plant cells, protozoa and microscopic animals mixing, procreating and thriving off of each other's life and death cycles, Slåttmossen Nature Reserve, 2021.")
 
 As no single practice has all the answers; one can claim that the value of transdisciplinary praxis is in the ability to perceive issues from more than one perspective, to create connections between disciplines and stir the ground between the fields, revealing that which ties diverse fields, perspectives and approaches together.
 
