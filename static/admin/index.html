@@ -18,14 +18,19 @@
 				id: "figure2",
 				label: "Figure2",
 				fields: [{
-						name: "title",
-						label: "Figure Title",
+						name: "caption",
+						label: "Figure Caption",
 						widget: "string"
 					},
 					{
 						name: "src",
 						label: "Figure img",
 						widget: "image"
+					},
+					{
+						name: "link",
+						label: "Figure link",
+						widget: "string"
 					},
 				],
 				pattern: /{{< figure src="([a-zA-Z0-9-_ ]+)" title="([a-zA-Z0-9-_ ]+)" >}}/,
@@ -36,10 +41,10 @@
 					};
 				},
 				toBlock: function(obj) {
-					return `{{< figure src="${obj.src}" title="${obj.title}" >}}`;
+					return `{{< figure src="${obj.src}" caption="${obj.caption}" link="${obj.link}}">}}`;
 				},
 				toPreview: function(obj) {
-					return `<figure><img src=${obj.src} alt=${obj.title}><figcaption>${obj.title}</figcaption></figure>`;
+					return `<figure><img src=${obj.src} alt=${obj.caption}><figcaption>${obj.caption}</figcaption></figure>`;
 				},
 			});
 		</script>
