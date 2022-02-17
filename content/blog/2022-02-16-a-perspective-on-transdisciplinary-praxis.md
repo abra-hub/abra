@@ -56,7 +56,7 @@ Françoise Vergès, 2020[^7].
 
 
 
-![](/img/uploads/img_6546resized.jpg "(Wearable System, 2021.)")
+![](/img/uploads/img_6546resized.jpg "Wearable System, 2021.")
 
 [^1]: Darian-Smith, E. & McCarty, P. (2016). “Beyond Interdisciplinarity: Developing a Global Transdisciplinary Framework.” Transcience, 7(2): 1-26.
 
