@@ -28,8 +28,6 @@ In her work on human-animal ethics in the anthropocene, Barbara Creed states of 
 
 ![](/img/uploads/yfoi1168-1-1-.jpeg "Sphagnum moss separated from the bog carpet and rooted directly into a cigarette butt, Slåttmossen Nature Reserve, 2021.")
 
-`Sphagnum moss separated from the bog carpet and rooted directly into a cigarette butt, Slåttmossen Nature Reserve, 2021.`
-
 When it comes to acts of straying there are those who jump to censor, restrict and protect the boundaries of disciplines, and the current art market by thrusting up walls against trespassers of regulated professions. Yet, from our perspective the artist holds a unique position, the artist is not only allowed but expected to push against the limitations and breach the boundaries set by current ideology. The artist is given special privileges to experiment in poly-discipline-amorous modes which others are not allowed to, due to regulatory bodies or professional standards of conduct. Transdisciplinary praxis allows space for disciplinary strays to test, destabilize and denaturalize current categorical-discourse, and the positioning of the self within them. That freedom to wander that every artist is seeking is found in straying from normative systems and narratives.
 
 It is important to note that these special privileges come with certain expectations and responsibilities. As transdisciplinary practitioners we have an obligation to respect the disciplines we negotiate within. Transdisciplinary work must remain attuned to the research practices of other disciplines, keeping legitimate ties and comprehensibility, while negotiating new avenues of methodology, all the while remaining an undutiful stray to all disciplines. 
@@ -37,6 +35,8 @@ It is important to note that these special privileges come with certain expectat
 > *\[...] research-creation challenges reigning academic cultures less by asserting a new, disciplined and disciplining, academic identity, a noun (the artist-researcher), than by offering us something verbified and vertiginous, something that queers normative university discourse, propagating uncanny academic kinship structures and unexpected disciplinary intimacies and alliances.\[...] It requires that one cultivate a robust capacity to follow curiosity and sit with anxiety. And it requires that one navigate multiple pulls across disciplinary sites, methodological approaches, and formal requirements.* 
 
  Natalie Loveless, 2019[^5].
+
+
 
 The artist is an accepted stray within society and the transdisciplinary artist is a stray even to the standards of the “art profession” itself; the bizarre, the abstract, the ECCENTRIC!  
 
@@ -54,7 +54,9 @@ As no single practice has all the answers; one can claim that the value of trans
 
 \    Françoise Vergès, 2020[^7].
 
-![](/img/uploads/img_6546resized.jpg "Wearable System, 2021.")
+
+
+![](/img/uploads/img_6546resized.jpg "(Wearable System, 2021.)")
 
 [^1]: Darian-Smith, E. & McCarty, P. (2016). “Beyond Interdisciplinarity: Developing a Global Transdisciplinary Framework.” Transcience, 7(2): 1-26.
 
