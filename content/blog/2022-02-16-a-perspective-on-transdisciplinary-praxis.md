@@ -52,7 +52,7 @@ As no single practice has all the answers; one can claim that the value of trans
 
 > *And resistance is emerging in many places, in many ways. We must experiment.*
 
-\    Françoise Vergès, 2020[^7].
+Françoise Vergès, 2020[^7].
 
 
 
