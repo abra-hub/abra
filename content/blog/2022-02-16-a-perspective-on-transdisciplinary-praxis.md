@@ -40,6 +40,8 @@ It is important to note that these special privileges come with certain expectat
 
  Natalie Loveless, 2019[^5].
 
+
+
 The artist is an accepted stray within society and the transdisciplinary artist is a stray even to the standards of the “art profession” itself; the bizarre, the abstract, the ECCENTRIC!  
 
 
