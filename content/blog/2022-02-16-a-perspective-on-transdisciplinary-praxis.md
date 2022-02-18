@@ -26,7 +26,9 @@ This article investigates what transdisciplinarity means within artistic praxis.
 
 In her work on human-animal ethics in the anthropocene, Barbara Creed states of strays that “When a creature seems not to belong to a clearly definable species, she becomes a stray, a being without kin” [^4]. It is easy to consider this when looking at the position of transdisciplinary artists.
 
-![](/img/uploads/yfoi1168-1-1-.jpeg "Moss-Butt Specimen: a piece of sphagnum moss separated from the bog carpet and rooted directly into a cigarette butt, Slåttmossen Nature Reserve, 2021.")
+
+
+{{< figure src="/img/uploads/yfoi1168-1-1-.jpeg" caption="Moss-Butt Specimen: a piece of sphagnum moss separated from the bog carpet and rooted directly into a cigarette butt, Slåttmossen Nature Reserve, 2021." link="undefined">}}
 
 
 
@@ -38,11 +40,11 @@ It is important to note that these special privileges come with certain expectat
 
  Natalie Loveless, 2019[^5].
 
-
-
 The artist is an accepted stray within society and the transdisciplinary artist is a stray even to the standards of the “art profession” itself; the bizarre, the abstract, the ECCENTRIC!  
 
-![](/img/uploads/slattmossen-butts-2-2021.jpg "Cigarette Butt Fieldwork: butts are absorbed into the bog and regurgitated back out as the bog deflates, churns, and heaves with the seasons, Slåttmossen Nature Reserve, 2021.")
+
+
+{{< figure src="/img/uploads/slattmossen-butts-2-2021.jpg" caption="Cigarette Butt Fieldwork: butts are absorbed into the bog and regurgitated back out as the bog deflates, churns, and heaves with the seasons, Slåttmossen Nature Reserve, 2021." link="undefined">}}
 
 
 
@@ -50,7 +52,9 @@ The chosen images for this article are taken from the Master of Arts thesis work
 
 In her work Blanchette often uses the term porous in multiple contexts from human skin and human activity to wetlands being inherently porous and further in seeing her position as an artist, who leaves the narrative open to those who come across the uniform porous-boundary system to create their own stories [^6]. Furthermore in relation to porosity and transdisciplinary artistic praxis one can ask: is it possible to rebuild relations through porous-praxis to create a context in which there are no strays, and disciplines are inclusive and merging?
 
-![](/img/uploads/slattmosen-biofilia-2-2021-1-.jpg "Microscopic Life in Water Samples: bacteria, plant cells, protozoa and microscopic animals mixing, procreating and thriving off of each other's life and death cycles, Slåttmossen Nature Reserve, 2021.")
+
+
+{{< figure src="/img/uploads/slattmosen-biofilia-2-2021-1-.jpg" caption="Microscopic Life in Water Samples: bacteria, plant cells, protozoa and microscopic animals mixing, procreating and thriving off of each other's life and death cycles, Slåttmossen Nature Reserve, 2021." link="undefined">}}
 
 
 
@@ -62,7 +66,7 @@ Françoise Vergès, 2020[^7].
 
 
 
-![](/img/uploads/img_6546resized.jpg "Wearable System, Cynthia Blanchette, 2021.")
+{{< figure src="/img/uploads/img_6546resized.jpg" caption="Wearable System, Cynthia Blanchette, 2021." link="undefined">}}
 
 
 
