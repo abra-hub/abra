@@ -6,6 +6,25 @@
 
 The website is made with [Hugo](https://gohugo.io/) static site generator utilizing with [TailwindCSS starter theme](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter) (see `tailwind.config.js`). Interface for organizing content is made with [NetlifyCMS](https://www.netlifycms.org/)(see `static/admin`). The website is deployed to [Netlify CDN](https://app.netlify.com) directly from GitHub on every push to the `production` branch. 
 
+                  ┌───────────────────┐
+                  │                   │
+      ┌───────────┤    Netlify CMS    │
+      │           │                   │
+      │           └─────────┬─────────┘
+      │                     │
+┌─────▼─────┐     ┌─────────┴─────────┐
+│           │     │                   │
+│New Commit ├─────►    GitHub Repo    │
+│           │     │     *production   │
+└───────────┘     └─────────┬─────────┘
+                            │
+                            │
+                  ┌─────────▼──────────┐        ┌──────────────────┐
+                  │                    │        │                  │
+                  │   Netlify CDN      ├───────►│ WWW.abra-hub.net │
+                  │                    │        │                  │
+                  └────────────────────┘        └──────────────────┘
+
 ## Start dev server
 
 To run the application on the local dev server, you will need [Hugo](https://gohugo.io/) [Git](https://git-scm.com/) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com/)) installed on your computer. After the installation, you need to install node.js packages with npm:
@@ -37,7 +56,7 @@ Web Server will be available at `http://localhost:1313/`
 
 # Other services
 
-[Analytics](https://abra.goatcounter.com/) - to remain free, the data retention is only last 6 months, currently using their API to export data every 6 months
-[Hosting](https://app.netlify.com/) - Hosted through Netlify CDN
-[Domain](https://www.namecheap.com/) - Domain settings at Namecheap
-[Email alias](https://improvmx.com/) - email forwarding for abra@abra-hub.net, currently all email sent to this email will appear at Email Forwards - Dissemination and Communication on Basecamp and abra-hub@pm.me
+- [Analytics](https://abra.goatcounter.com/) - to remain free, the data retention is only last 6 months, currently using their API to export data every 6 months
+- [Hosting](https://app.netlify.com/) - Hosted through Netlify CDN
+- [Domain](https://www.namecheap.com/) - Domain settings at Namecheap
+- [Email alias](https://improvmx.com/) - email forwarding for abra@abra-hub.net, currently all email sent to this email will appear at Email Forwards - Dissemination and Communication on Basecamp and abra-hub@pm.me
