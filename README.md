@@ -6,6 +6,7 @@
 
 The website is made with [Hugo](https://gohugo.io/) static site generator utilizing with [TailwindCSS starter theme](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter) (see `tailwind.config.js`). Interface for organizing content is made with [NetlifyCMS](https://www.netlifycms.org/)(see `static/admin`). The website is deployed to [Netlify CDN](https://app.netlify.com) directly from GitHub on every push to the `production` branch. 
 
+```
                   ┌───────────────────┐
                   │                   │
       ┌───────────┤    Netlify CMS    │
@@ -24,6 +25,7 @@ The website is made with [Hugo](https://gohugo.io/) static site generator utiliz
                   │   Netlify CDN      ├───────►│ WWW.abra-hub.net │
                   │                    │        │                  │
                   └────────────────────┘        └──────────────────┘
+```
 
 ## Start dev server
 
