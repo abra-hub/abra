@@ -43,7 +43,7 @@ Web Server will be available at `http://localhost:1313/`
 | static | Files that get served statically |
 | assets | CSS and JS files |
 
-## Important Dependencies
+## Other Dependencies
 
 - tailwindcss
 - alpine.js (see `layouts/partials/javascript-libraries.html`)
@@ -52,6 +52,6 @@ Web Server will be available at `http://localhost:1313/`
 # Other services
 
 - [Analytics](https://abra.goatcounter.com/) - to remain free, the data retention is only last 6 months, currently using their API to export data every 6 months
-- [Hosting](https://app.netlify.com/) - Hosted through Netlify CDN
+- [Hosting](https://app.netlify.com/) - Hosted through the Netlify CDN
 - [Domain](https://www.namecheap.com/) - Domain settings at Namecheap
 - [Email alias](https://improvmx.com/) - email forwarding for abra@abra-hub.net, currently all email sent to this email will appear at Email Forwards - Dissemination and Communication on Basecamp and abra-hub@pm.me
