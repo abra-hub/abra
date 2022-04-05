@@ -34,7 +34,7 @@ collections:
    - {label: "Title", name: "title", widget: "string"}
    - {label: "Author", name: "author", widget: "string"}
    - {label: "Category", name: "category", widget: "relation", collection: "calendar", value_field: "category", search_fields: ["category"], display_fields: ["category"]}
-   - {label: "Tags", name: "tags", widget: "select", options: ["io1", "io2", "io3", "io4, "io5"], multiple: true }
+   - {label: "Tags", name: "tags", widget: "select", options: ["io1", "io2", "io3", "io4", "io5"], multiple: true }
    - {label: "Publish Date", name: "date", widget: "datetime"}
    - {label: "Event Start Date", name: "startDate", widget: "datetime"}
    - {label: "Event End Date", name: "endDate", widget: "datetime"}
