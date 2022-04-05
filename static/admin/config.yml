@@ -41,7 +41,7 @@ collections:
    - {label: "Canceled", name: "canceled", widget: "boolean", default: false}
    - {label: "Without time", name: "withoutTime", widget: "boolean", default: false}
    - {label: "City", name: "city", widget: "string"}
-   - {label: "Featured Image", name: "thumbnail", widget: "image"}
+   - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
    - {label: "Body", name: "body", widget: "markdown"}
 
  - name: "team" # Used in routes, e.g., /admin/collections/blog
