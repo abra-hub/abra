@@ -36,31 +36,31 @@ package = "netlify-plugin-hugo-cache-resources"
 for = "/*.jpg"
 
 [headers.values]
-Cache-Control = "public, must-revalidate, max-age=604800"
+Cache-Control = "must-revalidate, max-age=604800"
 
 [[headers]]
 for = "/*.png"
 
 [headers.values]
-Cache-Control = "public, must-revalidate, max-age=604800"
+Cache-Control = "must-revalidate, max-age=604800"
 
 [[headers]]
 for = "/*.css"
 
 [headers.values]
-Cache-Control = "public, must-revalidate, max-age=604800"
+Cache-Control = "must-revalidate, max-age=604800"
 
 [[headers]]
 for = "/*.js"
 
 [headers.values]
-Cache-Control = "public, must-revalidate, max-age=604800"
+Cache-Control = "must-revalidate, max-age=604800"
 
 [[headers]]
 for = "/webfonts/*"
 
 [headers.values]
-Cache-Control = "public, max-age=604800"
+Cache-Control = "max-age=604800"
 Access-Control-Allow-Origin= "*"
 
 
