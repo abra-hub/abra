@@ -15,7 +15,7 @@ The website is made with [Hugo](https://gohugo.io/) static site generator utiliz
       │                     │
 ┌─────▼─────┐     ┌─────────┴─────────┐     ┌────────────────────┐    ┌──────────────────┐
 │           │     │                   │     │                    │    │                  │
-│New Commit ├─────►    GitHub Repo    ├────►│    Netlify CDN     ├───►│ WWW.abra-hub.net │
+│New Commit ├─────►    GitHub Repo    ├────►│    Netlify CDN     ├───►│ www.abra-hub.net │
 │           │     │     *production   │     │                    │    │                  │
 └───────────┘     └───────────────────┘     └────────────────────┘    └──────────────────┘
 ```

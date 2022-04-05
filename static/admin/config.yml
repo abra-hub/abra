@@ -38,7 +38,7 @@ collections:
    - {label: "Publish Date", name: "date", widget: "datetime"}
    - {label: "Event Start Date", name: "startDate", widget: "datetime"}
    - {label: "Event End Date", name: "endDate", widget: "datetime"}
-   - {label: "Cancelled", name: "cancelled", widget: "boolean", default: false}
+   - {label: "Canceled", name: "canceled", widget: "boolean", default: false}
    - {label: "Without time", name: "withoutTime", widget: "boolean", default: false}
    - {label: "City", name: "city", widget: "string"}
    - {label: "Featured Image", name: "thumbnail", widget: "image"}
