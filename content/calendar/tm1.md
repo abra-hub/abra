@@ -1,16 +1,18 @@
 ---
-type: calendar
 title: "Transdisciplinarity and Sustainability: Materials, Practices & Pedagogy (TM1)"
 author: Maros Pekarik
-category: "transnational-meetings"
-tags: ["io2", "io3"]
+category: transnational-meetings
+tags:
+  - io2
+  - io3
 date: 2020-11-09T20:47:01.700Z
-startDate: 2022-01-09
-endDate: 2022-01-15T20:50:01.700Z
+startDate: 2022-01-14T11:00:00.000Z
+endDate: 2022-01-14T20:50:01.700Z
+canceled: false
 withoutTime: true
 city: Aalborg
-thumbnail:
-canceled: true
+thumbnail: null
+type: calendar
 ---
 The second transnational meeting is a six-day event co-located with the combined teacher and joint staff training meeting in conjunction with project planning, and student and teacher workshops and training. Project status, feedback from participants and stakeholders thus far, review of the plan for subsequent workshops. Multiplier Event [ME1] held in conjunction with Nordic Summer School (NSU).
 
