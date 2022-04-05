@@ -1,26 +1,35 @@
 {{- define "main" -}}
-<div class="article__top bg-center bg-gray-700" {{ with .Params.thumbnail }}
+<div class="mt-32 flex sm:hidden"></div>
+<div class="hidden sm:flex article__top bg-center bg-gray-700" {{ with .Params.thumbnail }}
 	style="background-image: url({{ . | absURL }})" {{ end }}>
 	{{/*  {{ if .Params.thumbnail }}<img src="{{ .Params.thumbnail }}" alt="{{ .Title }}" />{{ end }} */}}
 </div>
-<article class="md:container mx-auto row">
-	<div class="justify-content-center -mt-72 bg-white md:shadow relative">
-		<header class="text-center pt-8">
-			<h1>{{ .Title }}</h1>
-		</header>
-		<!-- TODO: Add reading time -->
-		<div class="post-meta-line">
-		</div>
-		<div class="flex">
-			<div class="px-8 md:px-16">
-				{{- with .Site.Params.dateformat | default "2006-01-02" | .PublishDate.Format -}}
-				<i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="{{ . }}">{{ . }}</time>&nbsp;
-				{{- end -}}
-				<div>
-					{{ .Content }}
-				</div>
+
+<article>
+	<header class="bg-white">
+		<div class="container mx-auto row">
+		<div class="-mx-4 px-4 justify-content-center -mt-40 pb-10 sm:pb-20 bg-white relative">
+			<div class="md:text-center pt-16 md:px-10 content max-w-full">
+				<h1>{{ .Title }}</h1>
+			</div>
+			<!-- TODO: Add reading time -->
+			<div class="post-meta-line">
 			</div>
 		</div>
 	</div>
+	</header>
+
+	<article class="container md:w-1/2 mx-auto">
+		<section class="flex flex-row italic">
+			<div>{{if isset .Params "authors"}}By {{range .Params.authors}} | <span class="mr-1">{{.}}</span>
+				{{end}}{{end}}</div>
+			{{- with .Site.Params.dateformat | default "02-01-2006" | .PublishDate.Format -}}
+			<time class="text" datetime="{{ . }}">{{if isset $.Params "authors"}}|{{end}} {{ . }}</time>
+			{{- end -}}
+		</section>
+		<article class="prose lg:prose-lg font-sans py-8">
+			{{ .Content }}
+		</article>
+	</article>
 </article>
 {{end}}

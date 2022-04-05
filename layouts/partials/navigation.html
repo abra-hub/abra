@@ -1,9 +1,9 @@
-<!-- <header class="{{ if .IsHome }}h-12{{end}}"> -->
 <header>
 	<!-- component -->
+	{{/* TODO: Add social media links */}}
 	<div x-data="{ open: false }" x-cloak>
 		<div class=" antialiased">
-			<div class='top-0 w-full text-gray-700 bg-white {{ if .IsHome }}absolute top-0{{else}}sticky{{end}} {{if eq .Page.Title "Blog"}}{{else}}border-b{{end}} z-50'
+			<div class='top-0 w-full text-gray-700 bg-white {{ if .IsHome }}bg-accent fixed top-0 text-white shadow{{else}}sticky{{end}} {{if eq .Page.Title "Blog" | or (eq .Page.Title "Calendar") }}{{else}}border-b{{end}} z-50'
 				:class="{'bg-opacity-100': open}">
 				<div class="container mx-auto flex flex-col md:items-center md:justify-between md:flex-row">
 					<div class="flex flex-row items-center py-4 justify-between">
@@ -12,13 +12,14 @@
 							<!-- {{ .Site.Title }} -->
 							<!-- MD - CIRCULAR LOGO ONLY -->
 							<!-- LG - FULL LOGO -->
-							<img src="{{ .Site.Params.Logo}}" alt="ABRA" class="w-32" />
+							<img src="{{ if .IsHome }}{{ .Site.Params.LogoInverted}}{{else}}{{ .Site.Params.Logo}}{{end}}"
+								alt="ABRA" class="w-8" />
 						</a>
 						<button
 							class="rounded-lg md:hidden focus:outline-none ml-3 focus:shadow-outline flex flex-row mt-2 align-text-top"
 							@click="open = !open">
-							<div class="text-bold">Menu</div>
-							<svg fill="currentColor" viewBox="0 0 20 20"
+							<div class="text-bold {{ if .IsHome }} text-white {{else}} text-primary{{end}}">MENU</div>
+							<svg fill="{{ if .IsHome }} white {{else}} text-primary{{end}}" viewBox="0 0 20 20"
 								:class="{'rotate-180': open, 'rotate-0': !open}"
 								class="inline w-4 h-4 mt-1 ml-1 transition-transform duration-200 transform md:-mt-1">
 								<path fill-rule="evenodd"
@@ -29,7 +30,7 @@
 
 					</div>
 
-					<nav :class="{'flex': open, 'hidden': !open, 'bg-white': open}"
+					<nav :class="{'flex': open, 'hidden': !open, '{{ if .IsHome }}bg-primary-900{{else}}bg-white{{end}}': open}"
 						class="flex-col flex-grow hidden pb-4 md:pb-0 md:flex md:justify-end md:flex-row">
 						{{ range .Site.Menus.main }}{{ if .HasChildren }}
 						<!-- <div @click.away="open=false" class="relative" x-data="{ open: false }"> -->
@@ -76,18 +77,19 @@
 						<!-- </div> -->
 				</div>
 				{{ else }}
-				{{/*  1D MENU ITEMS  */}}
-				<a class="nav-link px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
+				{{/* 1D MENU ITEMS */}}
+				<a class="{{ if $.IsHome }}text-white{{else}}sticky{{end}} px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
 					href="{{ .URL | absLangURL }}/">{{ .Name }}</a>
 				{{ end }}{{ end }}
 
-				{{/*  TRANSLATION MENU  */}}
+				{{/* TRANSLATION MENU */}}
 				<nav class="lang-navigation">
 					<div @click.away="open = false" class="relative" x-data="{ open: false }">
 						<button @click="open = !open"
 							class="flex flex-row items-center w-full px-4 py-2 mt-2 text-sm font-semibold text-left bg-transparent rounded-lg md:w-auto md:inline md:mt-0 md:ml-4 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline">
-							<span>{{.Site.Language.Lang}}</span>
-							<svg fill="currentColor" viewBox="0 0 20 20"
+							<span
+								class="{{ if .IsHome }} text-white {{else}} text-primary{{end}}">{{.Site.Language.Lang}}</span>
+							<svg fill="{{ if .IsHome }} white {{else}} text-primary{{end}}" viewBox="0 0 20 20"
 								:class="{'rotate-180': open, 'rotate-0': !open}"
 								class="inline w-4 h-4 mt-1 ml-1 transition-transform duration-200 transform md:-mt-1">
 								<path fill-rule="evenodd"
@@ -104,8 +106,9 @@
 							class="absolute right-0 w-full mt-2 origin-top-right rounded-md shadow-lg md:w-48 z-50">
 							<div class="px-2 py-2 bg-white rounded-md shadow dark-mode:bg-gray-800">
 								{{ range .Translations }}
-								<a class="block px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
-									href="{{ .Permalink }}">{{ .Language.Lang }}</a>
+								<a class="px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg dark-mode:bg-transparent dark-mode:hover:bg-gray-600 md:mt-0 hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
+									href="{{ .Permalink }}">
+									{{ .Language.Lang }}</a>
 								{{ end}}
 							</div>
 						</div>

@@ -31,7 +31,7 @@ module.exports = {
 	theme: {
 		container: {
 			center: true,
-			padding: '2rem'
+			padding: '1rem'
 		},
 		extend: {
 			borderWidth: {
@@ -45,11 +45,32 @@ module.exports = {
 			},
 			colors: {
 				text: "#16141A",
+				header: "#414042",
+				accent: "#414042",
+				primary: {
+					"100": "#41404210",
+					"900": "#414042",
+				},
+				secondary: "#66747c"
+
 			},
 			zIndex: {
 				'-10': '-10',
 			}
 		},
+		typography: {
+			default: {
+			  css: {
+				color: '#1a1a1a',
+				a: {
+				  color: '#3182ce',
+				  '&:hover': {
+					color: '#2c5282',
+				  },
+				},
+			  },
+			},
+		  },
 	},
 	plugins: [ typography ]
 };

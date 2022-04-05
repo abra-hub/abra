@@ -1,2 +1,35 @@
-{{ if .Site.Params.favicon }}
-<link rel="icon" href="{{ .Site.Params.favicon | absURL }}">{{ end }}
+{{/* FAVICON TAGS */}}
+<link rel="icon" href="{{ .Site.Params.faviconIco | absURL }}" sizes="16x16" />
+{{ $favicon32 := resources.Get "/img/favicon-32.png" }}
+{{ $favicon57 := resources.Get "/img/favicon-57.png" }}
+{{ $favicon76 := resources.Get "/img/favicon-76.png" }}
+{{ $favicon96 := resources.Get "/img/favicon-96.png" }}
+{{ $favicon128 := resources.Get "/img/favicon-128.png" }}
+{{ $favicon152 := resources.Get "/img/favicon-152.png" }}
+{{ $favicon180 := resources.Get "/img/favicon-180.png" }}
+{{ $favicon192 := resources.Get "/img/favicon-192.png" }}
+{{ $favicon196 := resources.Get "/img/favicon-196.png" }}
+{{ $favicon228 := resources.Get "/img/favicon-228.png" }}
+
+
+<link rel="shortcut icon" href="">
+
+<!-- generics -->
+<link rel="icon" href="{{ $favicon32.RelPermalink }}" sizes="32x32">
+<link rel="icon" href="{{ $favicon57.RelPermalink }}" sizes="57x57">
+<link rel="icon" href="{{ $favicon76.RelPermalink }}" sizes="76x76">
+<link rel="icon" href="{{ $favicon96.RelPermalink }}" sizes="96x96">
+<link rel="icon" href="{{ $favicon128.RelPermalink }}" sizes="128x128">
+<link rel="icon" href="{{ $favicon192.RelPermalink }}" sizes="192x192">
+<link rel="icon" href="{{ $favicon228.RelPermalink }}" sizes="228x228">
+
+<!-- Android -->
+<link rel="shortcut icon" sizes="196x196" href="{{ $favicon196.RelPermalink }}">
+
+<!-- iOS -->
+<link rel="apple-touch-icon" href="{{ $favicon128.RelPermalink }}" sizes="120x120">
+<link rel="apple-touch-icon" href="{{ $favicon152.RelPermalink }}" sizes="152x152">
+<link rel="apple-touch-icon" href="{{ $favicon180.RelPermalink }}" sizes="180x180">
+
+<!-- Windows 8 IE 10-->
+<meta name="msapplication-TileColor" content="#FFFFFF">

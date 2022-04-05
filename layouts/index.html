@@ -1,28 +1,126 @@
 {{ define "main" }}
-{{ partial "header.html" . }}
 <!-- {{ partial "timeline.svg" }} -->
-<div class="flex flex-col mx-auto">
-	<section class="bg-white">
-		<div class="container">
-			{{ partial "site-header" (dict "title" "Events")}}
-
-			<div class="mt-5">
-				{{ partial "calendar.html" (dict "dot" . "limit" "3")}}
+<div id="page-landing" class="flex flex-col mx-auto">
+	<section class="md:py-0 md:h-screen bg-white w-full flex flex-col md:flex-row">
+		<header class="py-8 md:w-1/2 bg-white items-center flex container">
+			<div class="mx-auto lg:w-3/4">
+				<h1 class="text-header mb-8 font-bold">Entangling knowledge fields</h1>
+				<div class="prose prose-lg md:w-4/5 text-primary-900">
+					<p>Artificial Biology, Robotics and Art (ABRA) is about creating knowledge across artificial
+						biology, robotics, art and design for enhanced sustainability.</p>
+					<p>The project cultivates transdisciplinary knowledge and capacity building in higher education.
+						Through hands-on workshops and training, educators and learners work on tackling the skills gaps
+						and mismatches within our disciplines while addressing the climate goals. In this entanglement,
+						new questions, new ideas, new solutions are generated.</p>
+					<footer class="text-xs">
+						*Image based on Neri Oxman’s Age of Entanglementsource: https://doi.org/10.21428/7e0583ad
+					</footer>
+				</div>
 			</div>
-			<button>More activities</button>
+		</header>
+		<div class="flex w-full mx-auto md:h-full md:w-1/2 items-center bg-primary-100 py-3">
+			<img class="w-full" src="/img/illustration-intro.png" alt="">
 		</div>
 	</section>
-	<section class="bg-white">
+	<section class="bg-white md:h-screen w-full flex flex-col-reverse md:flex-row">
+		<div class="flex md:w-1/2 items-center bg-primary-100 justify-center py-3 md:py-0">
+			<img class="w-1/3" src="/svg/team.svg" alt="">
+		</div>
+		<header class="py-8 md:w-1/2 bg-white items-center flex container">
+			<div class="mx-auto lg:w-3/4">
+				<h1 class="text-header mb-8 font-bold">Artificial biology, robotics & art</h1>
+				<div class="prose prose-lg md:w-4/5">
+					<p>Through transdisciplinary teaching and training, ABRA facilitates the exchange of sustainable
+						best practices that foster creativity and innovation while developing a shared language that
+						prepares students and teachers to tackle complex problems and solutions relevant in the
+						twenty-first century.</p>
+				</div>
+			</div>
+		</header>
+	</section>
+	<section class="md:h-screen bg-white w-full flex flex-col md:flex-row">
+		<header class="py-8 md:w-1/2 bg-white items-center flex container">
+			<div class="mx-auto lg:w-3/4">
+				<h1 class="text-header mb-8 font-bold">ABRA’s Objectives</h1>
+				<div class="prose prose-lg md:w-4/5">
+					<p> ‣ create new pathways for art + science + engineering-driven creativity and innovation for
+						increased sustainability</p>
+					<p> ‣ tackle skills gaps and mismatches in higher education & research by promoting
+						transdisciplinary knowledge exchange</p>
+					<p> ‣ address environmental issues and climate change by establishing an ongoing, multi-sector
+						dialogue about concrete sustainable actions</p>
+					<p> ‣ empower students & researchers to develop new processes, technologies, and methods of applying
+						existing technology towards sustainable solutions.</p>
+
+				</div>
+			</div>
+		</header>
+		<div class="flex md:w-1/2 items-center bg-primary-100 justify-center">
+			<img class="w-2/3" src="/img/objectives.png" alt="">
+		</div>
+	</section>
+	<section class="md:h-screen bg-white w-full flex flex-col-reverse md:flex-row">
+		<div class="flex md:w-1/2 items-center bg-primary-100 justify-center py-3 md:py-0">
+			<img class="w-2/3" src="/img/team2.png" alt="">
+		</div>
+		<header class="py-8 md:w-1/2 bg-white items-center flex container">
+			<div class="mx-auto lg:w-5/6">
+				<h1 class="text-header mb-8 font-bold">ABRA: Team</h1>
+				<ul class="prose prose-lg md:text-sm lg:text-base xl:w-4/5">
+					<li> ‣ <span class="font-bold">Aalborg University’s (AAU) Research Laboratory for Art and Technology
+							(RELATE)</span> and <span class="font-bold">Human-Robot
+							Interaction Lab</span> focus on human-centered approaches and solutions for robots across
+						industry,
+						health and the arts.</p>
+					<li> ‣ <span class="font-bold">The Department CIBIO at University of Trento (CIBIO)</span>
+						integrates
+						classical cellular and
+						molecular biology approaches with the new powerful tools of systems and synthetic biology.</p>
+					<li> ‣ <span class="font-bold">Aalto University (AALTO) Art Department</span> offers students access
+						to
+						emerging knowledge and
+						practices at the intersection of multiple fields through an arts-driven engagement with
+						societal,
+						political, ecological and philosophical concerns and artistic approaches to
+						art-science-technology practices.</p>
+					<li> ‣ <span class="font-bold">The Institute of Advanced Design Studies (ADES)</span> is a
+						non-profit
+						independent school of design
+						for sustainability hosting a uniquely built transdisciplinary postgraduate study programme. We
+						bridge science and technology with the needs in society and environment through design. ADES
+						works with a wide range of international experts in researching and teaching new methods in
+						design for sustainability.</p>
+
+				</ul>
+			</div>
+		</header>
+	</section>
+	<section class="bg-white pt-10">
+		{{ $pages := where .Site.RegularPages "Section" "calendar" }}
+		{{ range .Site.Home.Translations }}
+		{{ $pages = $pages | lang.Merge (where .Site.RegularPages "Section" "calendar") }}
+		{{ end }}
 		<div class="container">
-			{{ partial "site-header" (dict "title" "News")}}
-			<!-- <header class="flex flex-column justify-between mb-5">
-					<h1>News</h1>
-					<h2><a href="{{ .Site.BaseURL | absLangURL}}/blog">More articles</a></h2>
-				</header> -->
-			<div class="grid md:grid-cols-2 sm:grid-cols-1 lg:grid-cols-3 gap-8 mb-10">
-				{{ range where .Data.Pages "Section" "blog" }}
-				{{ $paginator := .Paginate (where .Pages ".Params.category" "article") 3 }}
-				{{range sort $paginator.Pages ".Date"}}
+			{{ partial "site-header" (dict "title" "Events" "subtitle" `Upcoming activities to create new pathways for
+			art + science + engineering-driven creativity and innovation for
+			increased sustainability`)}}
+			<div class="mt-5">
+				{{ partial "calendar.html" (dict "dot" . "limit" "3" "upcomingOnly" true "pages" $pages)}}
+			</div>
+			<button class="underline"><a href="{{ .Site.BaseURL | absLangURL}}/calendar">See more
+					-></a></button>
+		</div>
+	</section>
+	<section class="bg-white pt-10">
+		<div class="container">
+			{{ partial "site-header" (dict "title" "News" "subtitle" ` Here is the latest news from ABRA:`)}}
+			<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-10">
+				{{ $pages := where .Site.RegularPages "Section" "blog" }}
+				{{ range .Site.Home.Translations }}
+				{{ $pages = $pages | lang.Merge (where .Site.RegularPages "Section" "blog") }}
+				{{ end }}
+
+				{{ range sort (first 3 $pages) ".Date" "desc" }}
 				<div class="post bg-white overflow-hidde">
 					<header>
 						<a class="image" href="{{ .Permalink }}">
@@ -31,22 +129,22 @@
 							</div>
 						</a>
 					</header>
-					<div class="m-2 text-justify text-sm">
+					<div class="m-2 text-sm">
 						<div class="flex flex-row">
-							<p class="text-left mr-2 text-grey">{{ dateFormat "January 2, 2006" .Date }}</p>
+							<div class="text-left mr-2 text-grey">{{ dateFormat "January 2, 2006" .Date }}</div>
 							<button class="text-gray-600">{{upper .Params.Category}}</button>
 						</div>
 						<h2 class="font-bold text-lg h-2 mb-8 hover:underline">
 							<a href="{{ .Permalink }}">
-								{{ .Title }}
+								{{ .Title | truncate 30}}
 							</a>
 						</h2>
 					</div>
 				</div>
 				{{end}}
-				{{end}}
 			</div>
-			<button class="button"><a href="{{ .Site.BaseURL | absLangURL}}/blog">More articles</a></button>
+			<button class="button underline pt-6"><a href="{{ .Site.BaseURL | absLangURL}}/blog">See more
+					-></a></button>
 		</div>
 	</section>
 </div>

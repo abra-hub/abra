@@ -6,20 +6,18 @@
 
 [x-cloak] { display: none; }
 
-html {
-	font-size: 14px;
-	/*  */
+body {
+	font-family: "Hero New Regular";
 }
 
 @layer base {
-
 	body {
 		/* background-color: #d1d9d6; */
-		background-color: #fff;
+		background-color: #ffff;
+		text-rendering: geometricPrecision;
 	   -webkit-font-smoothing: antialiased;
 	   -moz-osx-font-smoothing: grayscale;
 	}
-
 	h1,
 	h2,
 	h3,
@@ -28,7 +26,6 @@ html {
 	h6,
 	a,
 	p {
-		color: theme('colors.text');
 		/* #262626 */
 	}
 	h1 {
@@ -45,23 +42,36 @@ html {
 		font-size: calc(24px + 8 * ((100vw - 320px) / 1280));
 		line-height: calc(30px + 12 * ((100vw - 320px) / 1280));
 	}
-
+	.content {
+		@apply prose-lg;
+	}
 }
 
-/* h1 {
-	font-size: calc(38px + 12 * ((100vw - 320px) / 1280));
+#page-landing section h1 {
+	line-height: 1.7em;
 }
-p {
-	font-size: 24px;
-} */
-
 .post__image {
+	padding-bottom: 61%;
+	background-size: 100% auto;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16);
+	transition: transform 250ms ease, box-shadow 250ms ease;
+}
+
+.team__image {
+	padding-bottom: 100%;
+	background-size: 100% auto;
 	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16);
 	transition: transform 250ms ease, box-shadow 250ms ease;
 }
 .post a:hover .post__image {
     transform: translate(0, -4px);
 	box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.12);
+}
+.font-bold {
+	font-family: "Hero new bold";
+}
+.font-normal {
+	font-family: "Hero new Regular";
 }
 
 .article__top {
@@ -79,10 +89,21 @@ p {
 	position: fixed;
 	top: 0;
 }
+h1,
+h2,
+h3,
+strong {
+	font-family: "Hero new bold";
+}
+.m-0-i {
+	margin-bottom: 0 !important;
+	margin-top: 0 !important;
+}
 
-@screen md {
-    html {
-		font-size: 16px;
-
-    }
+.grayscale {
+	-moz-filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale");
+	-o-filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale");
+	-webkit-filter: grayscale(100%);
+	filter: gray;
+	filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale");
 }

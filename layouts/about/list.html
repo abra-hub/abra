@@ -1,0 +1,10 @@
+{{- define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end -}}
+{{- define "main" -}}
+<div class="container page-contact">
+	{{ partial "site-header" (dict "title" "ABRA" "subtitle" `Erasmus+ consortium for developing transdisciplinary
+	education in arts, robotics, artificial biology and sustainability `)}}
+	<div class="prose prose-lg ">
+		{{.Content}}
+	</div>
+</div>
+{{end}}
