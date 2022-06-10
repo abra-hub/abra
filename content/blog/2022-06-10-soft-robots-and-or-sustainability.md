@@ -35,3 +35,47 @@ However, the paradoxical nature of sustainable design seems to prevail. The glob
 From a design perspective, these outcomes indicate the dominance of human-centred design (HCD) and the oversight of the natural world in design questions. Embracing (HCD) means understanding the people's diverse, context-specific needs and translating these into design solutions. However, approaching the world by centring each problem around  the human perspective indicates that impacts and trade-offs are assessed based on distinct outcomes for ourselves, with less attention to (or ignorance) given to the broader impacts on non-human life. Meanwhile, any change in the 'nested dependence' inherently concerns the already existing ecology by sustaining or altering it.
 
 Even though the design profession has the knowledge and capacity to work with ecological terms, a reductionist, human-centred lens can only show human desires and needs. A human perspective in design is (epistemologically) inescapable, but it must be re-oriented to reconsider what is at the centre of the design intent. Does the design embrace the complexity of socio-ecological systems, or is it limited to the development and short-term prosperity of human society?
+
+An emergent concept, the 'more-than-human,' helps expand and challenge traditional binaries of human and nature and prompts design actions consistent with the social-ecological conditions. Beyond acknowledging that all designs must be ecological, it shifts the centre of attention and challenges design solutions to follow up with inclusion and participation, consequently altering standards and principles. Various scholarly fields started to engage with this concept through cross-disciplinary investigations in science-technology-and-society studies (Franklin 2017), environmental humanities (Kohn 2007, 2013), geography (Philo 1995), or urban planning and design (Houston et al. 2018; Forlano 2016). 
+
+Interestingly, the more-than-human concept applies not only to actions that work within the entanglements between humans and non-humans. The same term also refers to human-machine or human-computer interaction (see, for example, Coulton and Lindley 2019), where design intends to include the needs and requirements of technological entities. Positioned between the next frontiers in robotics and aggravating environmental concerns, the design of soft robots could engage with both sides to address joint considerations of human and the more-than-human biophysical and technological systems on the conceptual and practical levels. This shift could expand and open the 'play space' of design: the scope of issues, how they are addressed, and the identification of desired or required outcomes. Within ABRA, we will continue this exploration by including life forms other than humans to address the larger questions with which design can work. In the end, transdisciplinarity is not (only) about crossing disciplinary boundaries but working towards a common goal holistically.
+
+## REFERENCES
+
+Coulton, Paul, and Joseph Galen Lindley. 2019. “More-Than Human Centred Design: Considering Other Things.” Design Journal 22 (4): 463–81. \
+<https://doi.org/10.1080/14606925.2019.1614320>.
+
+Cowie, Robert H., Philippe Bouchet, and Benoît Fontaine. 2022. “The Sixth Mass Extinction: Fact, Fiction or Speculation?” Biological Reviews. \
+<https://doi.org/10.1111/brv.12816>.
+
+Daly, Herman. 1973. Toward a Steady-State Economy.
+
+Elhacham, Emily, Liad Ben-Uri, Jonathan Grozovski, Yinon M. Bar-On, and Ron Milo. 2020. “Global Human-Made Mass Exceeds All Living Biomass.” Nature 588 (7838): 442–44. \
+<https://doi.org/10.1038/s41586-020-3010-5>.
+
+Franklin, Adrian. 2017. “The More-than-Human City.” Sociological Review 65 (2): 202–17.\
+<https://doi.org/10.1111/1467-954X.12396>.
+
+Forlano, Laura. 2016. “Decentering the Human in the Design of Collaborative Cities.” DesignIssues 32 (3). \
+<https://doi.org/10.1162/DESI_a_00398>.
+
+Houston, Donna, Jean Hillier, Diana MacCallum, Wendy Steele, and Jason Byrne. 2018. “Make Kin, Not Cities! Multispecies Entanglements and ‘Becoming-World’ in Planning Theory.” Planning Theory 17 (2): 190–212. \
+<https://doi.org/10.1177/1473095216688042>.
+
+Kohn, Eduardo. 2007. “How Dogs Dream: Amazonian Natures and the Politics of Transspecies Engagement.” American Ethnologist 34 (1): 3–24. [\
+https://doi.org/10.1525/ae.2007.34.1.3.American](https://doi.org/10.1525/ae.2007.34.1.3.American).
+
+Manzini, Ezio. 1999. “Strategic Design for Sustainability: Towards a New Mix of Products and Service.” In Proceedings First International Symposium on Environmentally Conscious Design and Inverse Manufacturing, IEEE.
+
+Meadows, Donella. 1998. “Indicators and Information Systems for Sustainable Development.” A Report to the Balaton Group, 1–25. \
+<https://www.iisd.org/pdf/s_ind_2.pdf%0Ahttps://www.iisd.org/pdf/s_ind_2.pdf%5Cnhttp://www.biomimicryguild.com/alumni/documents/download/Indicators_and_information_systems_for_sustainable_develoment.pdf>.
+
+Philo, C. 1995. “Animals, Geography, and the City: Notes on Inclusions and Exclusions.” Environment & Planning D: Society & Space 13 (6): 655–81. [\
+https://doi.org/10.1068/d130655](https://doi.org/10.1068/d130655).
+
+Pinter, Laszlo, Dora Almassy, Ella Antonio, Ingeborg Niestroy, Simon Olsen, and Pulawska Grazyna. 2013. Sustainable Development Goals and Indicators for a Small Planet. [\
+https://doi.org/10.1016/j.cej.2010.11.048](https://doi.org/10.1016/j.cej.2010.11.048).
+
+Sanders, Elizabeth B.- N. 2015. “Is Sustainable Innovation an Oxymoron?” In Changing ­ Paradigms: Designing for a Sustainable ­ Future, edited by Ursula Tischner and Peter Stebbing, 296–301. Aalto University School of Arts, Design and Architecture.
+
+Tonkinwise, Cameron. 2015. “Radical Sustainable Innovation.” In Changing Paradigms: Designing for a Sustainable Future, edited by Peter Stebbing and Ursula Tischner, 284–95. Aalto University School of Arts, Design and Architecture.
