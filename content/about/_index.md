@@ -5,8 +5,6 @@ draft: false
 description: "ABRA is a project aimed to address innovation and renewal of education by developing transdisciplinary higher education methods that bridge the arts and sciences for enhanced sustainability, specialising in the fields of artificial biology, robotics, and art."
 ---
 
-[![Alternate Text]({< figure src="/img/videoImg.png" class="m-0-i" >})]({https://youtu.be/8SFHzuaORQ0} "Link Title")
-
 **ABRA (Artificial Biology, Robotics and Art)** is a project aimed to address innovation and renewal of education by developing transdisciplinary higher education methods that bridge the arts and sciences for enhanced sustainability, specialising in the fields of artificial biology, robotics, and art.
 
 **The project explicitly promotes transdisciplinary knowledge** and capacity building in higher education in order to tackle the skills gaps in addressing environmental problems and climate change, and promoting excellence in teaching and skills development for students and educators.
