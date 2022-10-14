@@ -53,10 +53,10 @@ collections:
    - {label: "Draft", name: "draft", widget: "hidden", default: "false"}
    - {label: "Layout", name: "layout", widget: "hidden", default: "team"}
    - {label: "Title", name: "title", widget: "string"}
-   - {label: "Role", name: "role", widget: "string"}
+   - {label: "Role", name: "role", widget: "string", default: ""}
    - {label: "Institution", name: "afi", widget: "select", options: ["aau", "ades", "alto", "trento"]}
    - {label: "Publish Date", name: "date", widget: "datetime"}
    - {label: "Image", name: "thumbnail", widget: "image"}
-   - {label: "Links", name: "links", widget: "list"}
+   - {label: "Links", name: "links", widget: "list", max: 3, default: [""]}
    - {label: "Summary", name: "summary", widget: "string"}
 
