@@ -12,3 +12,5 @@ category: article
 crosspost: true
 ---
 Aberrant Behavior - Participants of the ABRA workshop in Helsinki, August 2022
+
+![](/img/uploads/abra-workshop-ph-laura-beloff.jpeg)
