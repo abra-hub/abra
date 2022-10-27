@@ -17,8 +17,6 @@ Following the ABRA-project workshop in August, the exhibition Radical Speculatio
 
 ![Radical Speculations, exhibition view. Photo: Aurora Del Rio](/img/uploads/2w3a2198.jpg)
 
-
-
 This exhibition represents a milestone in the ABRA project: the artworks have been ideated and realised by collaborative groups of artists, scientists, biologists and experts in robotics who have met each other in the two workshops organised in ABRA project.
 
 The last one, “Transdisciplinarity and Sustainability”, was hosted by the Aalto Fablab, which provided the best environment for new approaches at the cross-section between art, technology, robotics, biology and architecture to be tested and finally realised. 
@@ -38,5 +36,7 @@ From the wall text: 
 We plan to develop and test a protocol for the extraction and purification of estrogen from local water supplies, resulting in the production of a transdermal hydrogel, by which the harvested surplus estrogens can be used. Combining the two realities of the bio-technical and the bio-political, we understand this process as counteracting institutionalized “healthcare”and speculate on possible chances of those protocols for community-based forms of self-determined medical care. We imagine the protocol as a centerpiece, around which a community can gather to offer each other mutual care.”
 
 ![Radical Speculations, exhibition view. Photo: Aurora Del Rio](/img/uploads/2w3a2191.jpg)
+
+**Workshop participants:** Laura Beloff, Edit Blaumann, Cynthia Blanchette, Judit Boros, Lorena Cebolla Sanahuja, Aurora Del Rio, Renáta Dezső, Pia Fricker, Carlos Gomez Cubero, Martin Michael Hanczyc, Sólja Holm Mortensen, Anca Horvath, Elizabeth Jochum, Kaan Ünlü, Johanna Lauritzen, Markus Löchtefeld, Aska Mayer, Timothy Robert Merritt, Katri Naukkarinen, Maros Pekarik, Elisa Pettinà, Christopher Porterfield, Matthias Rehm, Marija Šumarac, Daniel Szalai, Hege Tapio, Karina Vissonova.[](<>)
 
 **Radical Speculations will run until November 18th, 2022 closing with a finissage event at 14:00.**
