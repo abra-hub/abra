@@ -13,7 +13,7 @@ authors:
 category: article
 crosspost: true
 ---
-![](/img/uploads/aurora-del-rio.jpeg)
+![](/img/uploads/aurora-del-rio.jpeg "Radical Speculations, exhibition view. Photo: Aurora Del Rio")
 
 Following the ABRA-project workshop in August, the exhibition *Radical Speculations* was inaugurated on September 13th in Dipoli art gallery, Aalto University, Helsinki.
 
