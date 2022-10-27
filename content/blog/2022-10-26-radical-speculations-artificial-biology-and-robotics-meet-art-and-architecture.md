@@ -35,4 +35,4 @@ We plan to develop and test a protocol for the extraction and purification of es
 
 **Workshop participants:** Laura Beloff, Edit Blaumann, Cynthia Blanchette, Judit Boros, Lorena Cebolla Sanahuja, Aurora Del Rio, Renáta Dezső, Pia Fricker, Carlos Gomez Cubero, Martin Michael Hanczyc, Sólja Holm Mortensen, Anca Horvath, Elizabeth Jochum, Kaan Ünlü, Johanna Lauritzen, Markus Löchtefeld, Aska Mayer, Timothy Robert Merritt, Katri Naukkarinen, Maros Pekarik, Elisa Pettinà, Christopher Porterfield, Matthias Rehm, Marija Šumarac, Daniel Szalai, Hege Tapio, Karina Vissonova.[](<>)
 
-**Radical Speculations will run until November 18th, 2022 closing with a finissage event at 14:00.**
+***Radical Speculations* will run until November 18th, 2022 closing with a finissage event at 14:00.**
