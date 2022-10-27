@@ -41,49 +41,33 @@ The other exhibited projects (in alphabetical order) are:
 
 Aurora Del Rio and Katri Naukkarinen (Aalto University, FI). With the spiritual contribution of Carlos Gomez (Aalborg University, DK)
 
-
-
 **Co-Ability / Aberrant behaviour in system aesthetic**
 
 Renata Dezso, (Moholy-Nagy University of Art and Design, HU)
-
-
 
 **EMPATH: A true Intelligence, artificial or not, comes from embodied knowledge**   
 
 Hege Tapio (Oslo Metropolitan University)  and Yu-Han Tseng (Aalto University, FI) 
 
-
-
 **Harvesting Estrogen from wastewater as an instance of community-based and self-determined act of (health)care**
 
 Johanna Lauritzen (Aalborg University, DK), Aska Mayer (Aalto University, FI)
-
-
 
 **If the Flower Were Not Bee-Like**
 
 Dániel Szalai (Moholy-Nagy University of Art and Design, HU)
 
-
-
 **Mind Meets Machine: Immersive Data-Interaction**
 
 Pia Fricker, Professor of Practice and Vice Head of the Department of Architecture, Aalto University
-
-
 
 **Pissing Point**
 
 Laura Beloff, Assistant Professor, Head of Doctoral Education & Vice-Head of Department of Art & Media, Aalto University
 
-
-
 **Protonotations; choreography-driven exploration of protocells movement**
 
 Maros Pekarik & Elisa Pettina, Trento University (IT)
-
-
 
 **Rabarba**
 
