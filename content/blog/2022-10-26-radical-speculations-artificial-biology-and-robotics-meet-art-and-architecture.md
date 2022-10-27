@@ -37,41 +37,23 @@ We plan to develop and test a protocol for the extraction and purification of es
 
 The other exhibited projects (in alphabetical order) are:
 
-**ARBA**
+**ARBA** - Aurora Del Rio and Katri Naukkarinen (Aalto University, FI). With the spiritual contribution of Carlos Gomez (Aalborg University, DK)
 
-Aurora Del Rio and Katri Naukkarinen (Aalto University, FI). With the spiritual contribution of Carlos Gomez (Aalborg University, DK)
+**Co-Ability / Aberrant behaviour in system aesthetic** - Renata Dezso, (Moholy-Nagy University of Art and Design, HU)
 
-**Co-Ability / Aberrant behaviour in system aesthetic**
+**EMPATH: A true Intelligence, artificial or not, comes from embodied knowledge** - Hege Tapio (Oslo Metropolitan University)  and Yu-Han Tseng (Aalto University, FI) 
 
-Renata Dezso, (Moholy-Nagy University of Art and Design, HU)
+**Harvesting Estrogen from wastewater as an instance of community-based and self-determined act of (health)care** - Johanna Lauritzen (Aalborg University, DK), Aska Mayer (Aalto University, FI)
 
-**EMPATH: A true Intelligence, artificial or not, comes from embodied knowledge**   
+**If the Flower Were Not Bee-Like** - Dániel Szalai (Moholy-Nagy University of Art and Design, HU)
 
-Hege Tapio (Oslo Metropolitan University)  and Yu-Han Tseng (Aalto University, FI) 
+**Mind Meets Machine: Immersive Data-Interaction** - Pia Fricker, Professor of Practice and Vice Head of the Department of Architecture, Aalto University
 
-**Harvesting Estrogen from wastewater as an instance of community-based and self-determined act of (health)care**
+**Pissing Point** - Laura Beloff, Assistant Professor, Head of Doctoral Education & Vice-Head of Department of Art & Media, Aalto University
 
-Johanna Lauritzen (Aalborg University, DK), Aska Mayer (Aalto University, FI)
+**Protonotations; choreography-driven exploration of protocells movement** - Maros Pekarik & Elisa Pettina, Trento University (IT)
 
-**If the Flower Were Not Bee-Like**
-
-Dániel Szalai (Moholy-Nagy University of Art and Design, HU)
-
-**Mind Meets Machine: Immersive Data-Interaction**
-
-Pia Fricker, Professor of Practice and Vice Head of the Department of Architecture, Aalto University
-
-**Pissing Point**
-
-Laura Beloff, Assistant Professor, Head of Doctoral Education & Vice-Head of Department of Art & Media, Aalto University
-
-**Protonotations; choreography-driven exploration of protocells movement**
-
-Maros Pekarik & Elisa Pettina, Trento University (IT)
-
-**Rabarba**
-
-Marija Šumarac (Aalto University, FI), Edit Blaumann (Moholy-Nagy University of Art and Design, HU), Sólja Holm Mortensen (Aalborg University, DK)
+**Rabarba** - Marija Šumarac (Aalto University, FI), Edit Blaumann (Moholy-Nagy University of Art and Design, HU), Sólja Holm Mortensen (Aalborg University, DK)
 
 ![Radical Speculations, exhibition view. Photo: Aurora Del Rio](/img/uploads/2w3a2191.jpg "\"ARBA\" Aurora Del Rio, Katri Naukkarinen, Carlos Gomez")
 
