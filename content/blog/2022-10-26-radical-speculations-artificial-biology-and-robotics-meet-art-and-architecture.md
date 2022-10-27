@@ -19,7 +19,7 @@ Following the ABRA-project workshop in August, the exhibition *Radical Speculati
 
 This exhibition represents a milestone in the ABRA project: the artworks have been ideated and realised by collaborative groups of artists, scientists, biologists, and experts in robotics who have met each other in the two workshops organised by the ABRA project. The last one, “Transdisciplinarity and Sustainability”, was hosted by the Aalto Fablab, which provided the best environment for new approaches at the cross-section between art, technology, robotics, biology and architecture to be tested and finally realised. 
 
-![Radical Speculations, exhibition view. Photo: Aurora Del Rio](/img/uploads/2w3a2198.jpg)
+![Radical Speculations, exhibition view. Photo: Aurora Del Rio](/img/uploads/2w3a2198.jpg " Photo: Aurora Del Rio")
 
 The aim of this exhibition was that of providing a testing ground in which new ideas could be collaboratively developed and visualised, to prepare for the final exhibition of the project which will be hosted by Art Quarter Budapest next May 2023. However, the exhibition became more than a mere showcase of ideas, presenting many interesting approaches that could be considered fully developed artworks. 
 
