@@ -95,4 +95,4 @@ Marija Šumarac (Aalto University, FI), Edit Blaumann (Moholy-Nagy University of
 
 ***Radical Speculations* will run until November 18th, 2022 closing with a finissage event at 14:00.**
 
-![]()
+![](/img/uploads/laura-beloff-1.jpeg)
