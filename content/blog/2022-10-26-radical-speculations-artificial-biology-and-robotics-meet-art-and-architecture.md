@@ -27,13 +27,15 @@ The aim of this exhibition was that of providing a testing ground in which new i
 
 For example, the collaborative work Harvesting Estrogen from wastewater as an instance of community-based and self-determined act of (health)care by Johanna Lauritzen (Aalborg University, DK), Aska Mayer (Aalto University, FI)
 
-![Radical Speculations, exhibition view. Photo: Aurora Del Rio](/img/uploads/2w3a2187-copy.jpg)
-
 From the wall text: 
 
 “Estrogens, both natural and synthetic, are considered some of the most potent and common hormonal compounds. They are used to regulate and disrupt hormonal balance, making them an essential part of trans and female healthcare. Estrogens are commonly detected in wastewater. Currently, conventional wastewater treatment is not able to effectively remove estrogens, so the hormonal compounds make their way into the greater water supply, exposing both humans and wildlife to them. 
 
 We plan to develop and test a protocol for the extraction and purification of estrogen from local water supplies, resulting in the production of a transdermal hydrogel, by which the harvested surplus estrogens can be used. Combining the two realities of the bio-technical and the bio-political, we understand this process as counteracting institutionalized “healthcare”and speculate on possible chances of those protocols for community-based forms of self-determined medical care. We imagine the protocol as a centerpiece, around which a community can gather to offer each other mutual care.”
+
+![Radical Speculations, exhibition view. Photo: Aurora Del Rio](/img/uploads/2w3a2187-copy.jpg)
+
+
 
 ![Radical Speculations, exhibition view. Photo: Aurora Del Rio](/img/uploads/2w3a2191.jpg)
 
