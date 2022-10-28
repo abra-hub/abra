@@ -6,5 +6,6 @@ summary: "Esther is currently a Project Controller at Aalto University in Espoo 
 thumbnail: "/img/uploads/profiles/esther.jpg"
 socialImage: "/img/uploads/profiles/esther.jpg"
 role: "Project Controller"
+active: false
 ---
 

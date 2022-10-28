@@ -7,4 +7,5 @@ thumbnail: "/img/uploads/profiles/anca.jpeg"
 socialImage: "/img/uploads/profiles/anca.jpeg"
 links: ["https://ancah.myportfolio.com/", "https://vbn.aau.dk/en/persons/143403"]
 role: "Project Coordinator"
+active: true
 ---

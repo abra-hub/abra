@@ -7,5 +7,6 @@ thumbnail: "/img/uploads/profiles/karina.jpg"
 socialImage: "/img/uploads/profiles/karina.jpg"
 role: "Project Coodinator"
 links: ["https://ades.design/", "https://www.vissonova.com/"]
+active: true
 ---
 

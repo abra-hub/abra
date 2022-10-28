@@ -7,5 +7,6 @@ summary: "Maros is a creative technologist who passionately investigates means o
 thumbnail: "/img/uploads/profiles/maros.jpg"
 socialImage: "/img/uploads/profiles/maros.jpg"
 links: []
+active: true
 ---
 

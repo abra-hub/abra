@@ -7,6 +7,7 @@ thumbnail: "/img/uploads/profiles/eun.jpg"
 socialImage: "/img/uploads/profiles/eun.jpg"
 role: "Assistant professor"
 links: ["https://www.eunjeongcheon.com"]
+active: true
 ---
 
 

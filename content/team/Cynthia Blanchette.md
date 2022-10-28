@@ -6,5 +6,6 @@ summary: Cynthia Blanchette is currently pursuing her Master of Arts degree at A
 thumbnail: "/img/uploads/profiles/cynthia.jpg"
 socialImage: "/img/uploads/profiles/cynthia.jpg"
 role: "Research assistant"
+active: false
 ---
 

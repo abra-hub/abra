@@ -6,5 +6,6 @@ summary: ""
 thumbnail: ""
 socialImage: ""
 role: "Budget Officer"
+active: true
 ---
 

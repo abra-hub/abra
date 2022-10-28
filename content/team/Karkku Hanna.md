@@ -6,5 +6,6 @@ summary: ""
 thumbnail: ""
 socialImage: ""
 role: "Project Management"
+active: true
 ---
 

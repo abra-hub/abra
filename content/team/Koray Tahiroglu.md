@@ -6,5 +6,6 @@ summary: "Koray Tahiroğlu is a musician, Academy Research Fellow and lecturer i
 thumbnail: "/img/uploads/profiles/koray.png"
 socialImage: "/img/uploads/profiles/koray.png"
 role: "Academy Research Fellow"
+active: false
 ---
 

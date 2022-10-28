@@ -6,5 +6,6 @@ summary: "PhD in Political Philosophy, Dr. Cebolla is Project Manager of two Hor
 thumbnail: "/img/uploads/profiles/lorena.jpeg"
 socialImage: "/img/uploads/profiles/lorena.jpeg"
 role: "Project Coodinator"
+active: true
 ---
 

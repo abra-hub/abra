@@ -7,5 +7,6 @@ thumbnail: "/img/uploads/profiles/tim.png"
 socialImage: ""
 role: "Associate Professor"
 links: ["http://www.ixd.net"]
+active: true
 ---
 

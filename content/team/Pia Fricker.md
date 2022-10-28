@@ -6,5 +6,6 @@ summary: "Pia Fricker serves as Professor of Practice and Vice Head of the Depar
 thumbnail: "/img/uploads/profiles/pia.jpg"
 socialImage: "/img/uploads/profiles/pia.jpg"
 role: "Professor"
+active: true
 ---
 

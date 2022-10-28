@@ -7,5 +7,6 @@ thumbnail: "/img/uploads/profiles/markus.jpg"
 socialImage: "/img/uploads/profiles/markus.jpg"
 role: "Associate Professor"
 links: ["https://scholar.google.dk/citations?user=-oJZckgAAAAJ&hl=en"]
+active: true
 ---
 

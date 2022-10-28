@@ -7,5 +7,6 @@ thumbnail: "/img/uploads/profiles/martin.jpg"
 socialImage: "/img/uploads/profiles/martin.jpg"
 role: "Project Coodinator"
 links: ["http://www.martinhanczyc.com"]
+active: true
 ---
 

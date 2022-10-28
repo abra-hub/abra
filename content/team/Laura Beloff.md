@@ -6,5 +6,6 @@ summary: Laura Beloff (PhD) is Associate Professor, an internationally acclaimed
 thumbnail: "/img/uploads/profiles/laura.jpg"
 socialImage: "/img/uploads/profiles/laura.jpg"
 role: "Project Coodinator"
+active: true
 ---
 

@@ -7,6 +7,7 @@ thumbnail: "/img/uploads/profiles/jochum.jpeg"
 socialImage: "/img/uploads/profiles/jochum.jpeg"
 role: "Project Coordinator"
 links: ["https://www.communication.aau.dk/research/knowledge_groups/relate/"]
+active: true
 ---
 
 
