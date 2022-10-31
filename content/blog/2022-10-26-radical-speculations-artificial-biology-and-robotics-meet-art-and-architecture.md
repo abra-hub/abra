@@ -60,6 +60,8 @@ The other exhibited projects (in alphabetical order) are:
 
 ***Radical Speculations* will run until November 18th, 2022 closing with a finissage event at 14:00.**
 
+
+
 **ABRA - Aalto Exhibition Team:**
 
 Pia Fricker (ARTS - Architecture)
