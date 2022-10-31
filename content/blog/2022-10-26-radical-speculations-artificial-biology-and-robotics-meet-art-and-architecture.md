@@ -14,7 +14,7 @@ crosspost: true
 ---
 ![Radical Speculations, exhibition view. Photo: Aurora Del Rio](/img/uploads/aurora-del-rio.jpeg "Radical Speculations, exhibition view. Photo: Aurora Del Rio")
 
-Following the ABRA-project workshop in August, the exhibition *Radical Speculations* was inaugurated on September 13th in Dipoli art gallery, Aalto University, Helsink, curated by Edel O’Reilly and organized by Pia Fricker and Laura Beloff. 
+Following the ABRA-project workshop in August, the exhibition *Radical Speculations* was inaugurated on September 13th in Dipoli art gallery, Aalto University, Helsinki, curated by Edel O’Reilly and organized by Pia Fricker and Laura Beloff. 
 
 This exhibition represents a milestone in the ABRA project: the artworks have been ideated and realized by collaborative groups of artists, scientists, biologists, and experts in robotics who met each other in the two workshops organized by the ABRA project. The last one, “Transdisciplinarity and Sustainability”, was hosted by the Aalto Fablab, which provided the best environment for new approaches at the cross-section between art, technology, robotics, biology, and architecture to be tested and finally realized. 
 
@@ -60,6 +60,10 @@ The other exhibited projects (in alphabetical order) are:
 
 
 
+***Radical Speculations* will run until November 18th, 2022 closing with a finissage event at 14:00.**
+
+
+
 **ABRA - Aalto Exhibition Team:**
 
 Pia Fricker (ARTS - Architecture)
@@ -75,9 +79,5 @@ Kaan Unlu - Photography, video, logistics
 Aurora Del Rio - Photography, video
 
 Edel O'Reilly - Curator
-
-
-
-***Radical Speculations* will run until November 18th, 2022 closing with a finissage event at 14:00.**
 
 ![Radical Speculations, exhibition view. Photo: Laura Beloff](/img/uploads/laura-beloff-1.jpeg "Radical Speculations, exhibition view. Photo: Laura Beloff")
