@@ -9,7 +9,6 @@ socialImage: /img/uploads/2w3a2192.jpg
 authors:
   - Aurora Del Rio
   - Laura Beloff
-  - Pia Fricker
 category: article
 crosspost: true
 ---
