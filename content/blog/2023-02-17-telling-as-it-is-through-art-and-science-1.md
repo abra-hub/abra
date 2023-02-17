@@ -42,8 +42,6 @@ Here, an intriguing observation arises concerning the audience’s division of a
 
 However, we do not necessarily need to seek a utilitarian angle to connect the audience with art. An open-air exhibition, whether in an urban area or a national park, provides a democratic platform where individuals have the freedom to determine the extent of interaction with the artworks, or to disregard them entirely. The experimental exhibition in Hungary, nevertheless, prompts intriguing considerations about connecting audiences with the kind of art that invites to engage and relate to the underlying stories, as these stories are integral, if not the most critical aspect, of the artwork itself. In addition, these stories help to bridge the art and science worlds, while promoting a better understanding of transdisciplinary works and their significance to a wider audience.
 
-“Monuments of Impermanence” 2022
-
- participating artists:
+“Monuments of Impermanence” 2022 participating artists:
 
 Laura Beloff (FI), Dezsű Renáta (HU), Fabricius Anna (HU), Horváth Gideon (HU), Charlotte Jarvis (UK), Simona Koch (DE/A), Lilla von Puttkamer (DE/HU), Süveges Rita (HU), Szalai Dániel (HU), Zilahi Anna (HU)
