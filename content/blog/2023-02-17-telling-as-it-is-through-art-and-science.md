@@ -10,6 +10,8 @@ authors:
 category: article
 crosspost: true
 ---
+{{< vimeo 799790527 >}}
+
 In the summer of 2022 an open-air contemporary art exhibition opened to the public in rural Hungary. Located in a national park on a volcano Mount Saint George, near the lake Balaton, – a region which does not suffer from a lack of tourism, but perhaps is a tad short of much welcomed contemporary cultural events.
 
 The framework of the exhibition was inspired by an early model of the now well established [Pedvale Art Park](https://www.pedvale.lv/en/), where sculptures, land art, and contemporary art installations were scattered across meadows, forests, valleys and uninhabited manor buildings, waiting to be discovered by the park’s visitors, without informative maps to guide them. An annual art residency would sprout new installations, surprising the visitors along the paths.
