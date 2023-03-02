@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Like a walk in the woods? – 21st Century Computers
+title: "Blogpost: Like a walk in the woods? – 21st Century Computers"
 description: A reflection on Mark Weiser's “The computer for the 21st Century”
 date: 2022-01-10T13:55:59.484Z
 thumbnail: /img/uploads/shoe_outside.jpeg
