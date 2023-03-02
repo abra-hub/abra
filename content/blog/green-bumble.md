@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Green Bumble
+title: "Blogpost: Green Bumble"
 description: To resolve what matters for sustainability, we must appreciate how
   it entangles environmental and social wellbeing, and scientific discoveries
   for new ways of designing  "material wellbeing”.
