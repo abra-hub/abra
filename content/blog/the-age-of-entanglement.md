@@ -1,15 +1,22 @@
 ---
-title: "The Age of Entanglement: (Higher) Education in a New Key"
+title: "Blogpost: The Age of Entanglement: (Higher) Education in a New Key"
 date: 2020-11-13T12:29:12+02:00
-draft: false
-summary: "We are living in an unprecedented time of creativity and discovery. We are also living in a time of troubling unpredictability and uncertainty."
-description: "We are living in an unprecedented time of creativity and discovery. We are also living in a time of troubling unpredictability and uncertainty."
-thumbnail: "/img/uploads/ifthen-cover.jpg"
-socialImage: "/img/uploads/ifthen-cover.jpg"
-tags: ["test", "tag", "social-tag"]
-category: "article"
+thumbnail: /img/uploads/ifthen-cover.jpg
+socialImage: /img/uploads/ifthen-cover.jpg
 crosspost: true
-authors: ["Elizabeth Jochum", "Anca Horvath"]
+draft: false
+summary: We are living in an unprecedented time of creativity and discovery. We
+  are also living in a time of troubling unpredictability and uncertainty.
+authors:
+  - Elizabeth Jochum
+  - Anca Horvath
+tags:
+  - test
+  - tag
+  - social-tag
+description: We are living in an unprecedented time of creativity and discovery.
+  We are also living in a time of troubling unpredictability and uncertainty.
+category: article
 ---
 
 > Knowledge can no longer be ascribed to, or produced within, disciplinary boundaries, but is entirely entangled.
