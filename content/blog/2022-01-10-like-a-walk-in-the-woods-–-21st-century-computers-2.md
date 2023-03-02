@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Like a walk in the woods? – 21st Century Computers
+title: "Blogpost: Like a walk in the woods? – 21st Century Computers"
 description: A reflection on Mark Weiser's “The computer for the 21st Century”
 date: 2022-01-10T13:55:59.484Z
 thumbnail: /img/uploads/shoe_outside.jpeg
@@ -10,13 +10,11 @@ authors:
 category: article
 crosspost: true
 ---
-In 1991 – over 30 years ago – Mark Weiser presented his vision for the future of computing and the concept of Ubiquitous Computing in his seminal article “The computer for the 21st Century”. Ubiquitous Computing is a concept where computing technologies are becoming small enough to be seamlessly integrated into our everyday life and “find their way invisibly into people's lives” \[1]. This idea also comes in a variety of other names such as: pervasive computing, ambient intelligence, or Internet of Things (IoT). Now, 30 years later, we live in the 21st century and a lot of Weiser’s original vision has already become reality. For example, the originally proposed main three device classes that would drive ubiquitous computing: Tabs (“inch-scale machines that approximate active post-It notes”), Pads (“foot-scale ones that behave something like a sheet of paper (or a book or a magazine)”), and Boards (“yard-scale displays that are the equivalent of a blackboard”) \[1], are already here. Tabs or as we call them now Smartphones, are the most common computing devices on the planet and Pads (now Tablet computers) and Boards (now Smartboards) have reached our daily lives as well.
+In 1991 – over 30 years ago – Mark Weiser presented his vision for the future of computing and the concept of Ubiquitous Computing in his seminal article “The computer for the 21st Century”. Ubiquitous Computing is a concept where computing technologies are becoming small enough to be seamlessly integrated into our everyday life and “find their way invisibly into people's lives” \[1]. This idea also comes in a variety of other names such as: pervasive computing, ambient intelligence, or Internet of Things (IoT).  Now, 30 years later, we live in the 21st century and a lot of Weiser’s original vision has already become reality. For example, the originally proposed main three device classes that would drive ubiquitous computing: Tabs (“inch-scale machines that approximate active post-It notes”), Pads (“foot-scale ones that behave something like a sheet of paper (or a book or a magazine)”), and Boards (“yard-scale displays that are the equivalent of a blackboard”) \[1], are already here. Tabs or as we call them now Smartphones, are the most common computing devices on the planet and Pads (now Tablet computers) and Boards (now Smartboards) have reached our daily lives as well.
 
 So why do I refer to this article if most of it already exists or at least we can see the vision becoming a reality? Weiser’s article contains many more ideas and hints at what a 21st century computer might be beyond the obvious “computers everywhere”. The article starts with the sentence “The most profound technologies are those that disappear” \[1] and if we look at our world today, computers have done everything but disappear. We see around us reminders of the technology everywhere we look, whether they are on or off. Especially when they are off! We are greeted by blinking LEDs and black squares, which is not helping to make the vision a reality. One solution from my own research to get closer to Weiser’s original vision are displays based on electrochromic materials, that can be integrated with other materials \[2] and completely blended into the environment \[3] (even into wearables) as they do not emit any light, but rather they change the color of the reflected light that bounces off the surface. Given the negative impact of artificial light on human sleep patterns \[4], this property can be beneficial if we expect to be surrounded by computers at every point. In general, we can observe a bigger push inside the ubiquitous computing community to include more material science into computing to make Weiser’s vision a reality \[5]. However, creating highly integrated materials fused together to fit our daily environments might be problematic from a sustainability perspective, as they are potentially not recyclable. If these novel materials are not already developed with the goal of them being recyclable, or at least re-usable, without losing their quality over time (e.g., following the idea of technical nutrients of McDonough and Braungart cradle-to-cradle idea \[6]), we might see ubiquitous computing becoming reality while creating large amounts of toxic waste. Creating sustainable computational materials is a wicked problem but with the currently ever-increasing amount of e-waste a necessity.
 
 {{< youtube wYArP2D56cA >}}
-
--
 
 {{< youtube GfH4Hfn306s >}}
 
@@ -31,8 +29,6 @@ To create a future in which computing is calm, ubiquitous, and at the same time 
 So even after 30 years Weiser’s vision \[1] for the 21st century computer still holds more ideas that are worthwhile pursuing and efforts such as the ABRA project can play a key role in enabling the development of a sustainable 21st Century Computer.
 
 {{< vimeo 355733805 >}}
-
-
 
 1. Weiser, M. (1991). The computer for the 21st Century. Scientific American, 265(3), 75-84.
 2. Jensen, W., Colley, A., Häkkilä, J., Pinheiro, C., & Löchtefeld, M. (2019). TransPrint: A method for fabricating flexible transparent free-form displays. Advances in Human-Computer Interaction, 2019.
