@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: What is ABRA?
+title: "Blogpost: What is ABRA?"
 description: Despite the hardships brought about by Covid-19, we were finally
   able to put our first workshop in Aalborg into motion, and now we are ready to
   keep moving forward. And so for anyone joining us now and onwards, we have a
