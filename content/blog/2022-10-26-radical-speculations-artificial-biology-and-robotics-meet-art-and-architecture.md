@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Radical Speculations: Artificial Biology and Robotics Meet Art and
-  Architecture"
+title: "Blogpost: Radical Speculations. Artificial Biology and Robotics Meet Art
+  and Architecture"
 description: Exhibition in Dipoli gallery, Helsinki
 date: 2022-10-31T11:26:59.193Z
 thumbnail: /img/uploads/laura-beloff-2.jpeg
