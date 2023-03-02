@@ -1,15 +1,20 @@
 ---
-title: "She said, he said, they say: Constructing the linguistics of interdisciplinarity"
+title: "Blogpost: She said, he said, they say: Constructing the linguistics of
+  interdisciplinarity"
 date: 2021-07-07T12:29:12+02:00
-draft: false
-summary: "We are living in an unprecedented time of creativity and discovery. We are also living in a time of troubling unpredictability and uncertainty."
-description: "We are living in an unprecedented time of creativity and discovery. We are also living in a time of troubling unpredictability and uncertainty."
-thumbnail: "/img/uploads/she-he-they-said_cover.jpg"
-socialImage: "/img/uploads/she-he-they-said_cover.jpg"
-tags: []
-category: "article"
+thumbnail: /img/uploads/she-he-they-said_cover.jpg
+socialImage: /img/uploads/she-he-they-said_cover.jpg
 crosspost: true
-authors: ["Martin Michael Hanczyc", "Lorena Cebolla Sanahuja"]
+draft: false
+summary: We are living in an unprecedented time of creativity and discovery. We
+  are also living in a time of troubling unpredictability and uncertainty.
+authors:
+  - Martin Michael Hanczyc
+  - Lorena Cebolla Sanahuja
+tags: []
+description: We are living in an unprecedented time of creativity and discovery.
+  We are also living in a time of troubling unpredictability and uncertainty.
+category: article
 ---
 
 Thinking about interdisciplinarity is usually accompanied by a feeling of excitement due to the novelty. Interdisciplinarity is in fact commonly interpreted as a magical word that will open the doors to the realm of diverse possibilities. What couldn’t we obtain by joining knowledge, forces and aims? What things could be accomplished and reached if only disciplines would work together? Interdisciplinarity acts thus as verb, synonymous to creation, ideation. It gives us the idea of jumping over our limits and creating beyond boundaries.
