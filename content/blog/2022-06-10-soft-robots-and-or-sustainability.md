@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Blogpost: Soft robots and/or sustainability"
+title: "Workshop: Soft robots and/or sustainability"
 description: "After two years of online Zoom calls, the ABRA team gathered in
   real life-real time. Finally, we held the first educational course designed by
   ABRA with the theme of Robots and Sustainability. The three-day-long workshops
