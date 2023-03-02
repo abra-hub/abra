@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Journal of New Music Research Special issue on the Socio-Cultural Role
-  of Technology in Digital Musical Instruments "
+title: "Blogpost: Journal of New Music Research Special issue on the
+  Socio-Cultural Role of Technology in Digital Musical Instruments "
 description: An introduction to the Journal of New Music's special issue arising
   from the Digital Music Interactions Symposium in Helsinki, Finland.
 date: 2021-06-09T17:05:23.317Z
