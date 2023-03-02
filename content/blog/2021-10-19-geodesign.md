@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: GeoDesign
+title: "Blogpost: GeoDesign"
 description: One of the larger challenges facing urban design today are generic
   and often dysfunctional designs due to over reliance on AI-informed automated
   design generators available to design buildings, cities and landscapes. It is
