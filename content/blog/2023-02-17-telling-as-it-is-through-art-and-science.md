@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Telling as it is through art and science.
+title: "Blogpost: Telling as it is through art and science."
 description: Lessons from an experimental open-air exhibition in rural Hungary.
 date: 2023-02-17T10:00:06.378Z
 thumbnail: /img/uploads/july-23-.jpg
