@@ -21,7 +21,7 @@ In August 2022 Art, Architecture and Complex Systems took place at Korjaamo Cult
 
 Internationally high-level, innovative, and unorthodox researchers like Benjamin Dillenburger (CH/DE), Elizabeth Jochum (DK/USA), and Martin Hanczyc (IT/USA) presented their ongoing research.
 
-![](/img/uploads/multiplier-4.jpg)
+![](/img/uploads/multiplier-5.jpg)
 
 The world is getting increasingly complex as new developments, systems, and even aesthetics are frequently introduced. While design and creative processes are evolving, new tools and methods, which are often adopted from science and technology, are taken into use in art, design, and architecture—although strangely not vice-versa. These diverse developments are also impacting manufacturing, industries, urban habitats, design approaches, and the arts in the expanded field. While early 1980s science fiction movies showed us how incredibly dangerous the world could become if robots would become intelligent, the big overtake has not happened yet, but instead, these technologies are deeply influencing the way we think, see, live and form our values. This leads us to the important questions that the invited speakers aim to address from their own perspectives (architecture, design, biochemistry, robotics): 
 
