@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Our Robots, Our Selves
+title: "Blogpost: Our Robots, Our Selves"
 description: Today, robots continue to shape our ideas and expectations about
   the role of technology in our everyday lives. Just like the automata of
   centuries past, impressive performances of robots in the media by companies
