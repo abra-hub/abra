@@ -49,6 +49,8 @@ What is our future like co-living with complex, robotic, and automated systems? 
 
 **Abstract:** Enthusiasm for robots and AI abounds, but headlines repeatedly warn of the very real harm caused by biased algorithms that discriminate on the basis of race, gender, disability, and other axes of inequality. From intelligent voice assistants to sex robots, we live in a world that has been shaped by what the feminist social theorist bell hooks describes as the “white supremacist capitalist patriarchy.” This system is being swiftly reproduced in digital systems that replicate these harms through digital redlining and other dehumanizing exclusions. This talk considers the historical linkages between race, technology, culture, and the machine as cultural formations that continue to uphold neoliberal forms of power and Western conceptions of the human.  Only by teasing out these social and political dimensions can we begin to work imaginatively and diligently to disrupt and transform the colonial legacies encoded into machines.
 
+![](/img/uploads/multiplier-3.jpg)
+
 **Moderators:**
 
 **Pia Fricker** 
