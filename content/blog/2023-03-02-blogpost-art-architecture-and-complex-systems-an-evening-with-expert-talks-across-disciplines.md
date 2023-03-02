@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: "Blogpost: Art, Architecture and Complex Systems. An Evening With Expert
-  Talks Across Disciplines"
+title: "Blogpost: Aalto Multiplier Event - Art, Architecture and Complex
+  Systems. An Evening With Expert Talks Across Disciplines"
 description: In August 2022 Art, Architecture and Complex Systems took place at
   Korjaamo Culture Factory in Helsinki as part of the ABRA-Project and Laser
   Talk series by Aalto University. Internationally high-level, innovative, and
