@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: A Perspective on Transdisciplinary Praxis
+title: "Blogpost: A Perspective on Transdisciplinary Praxis"
 description: There have been decades of debates, especially in academia, about
   the benefits and successes of disciplinary vs. non-disciplinary or
   transdisciplinary education and research (Darian-Smith & McCarty 2016).
