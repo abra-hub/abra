@@ -7,7 +7,7 @@ description: In August 2022 Art, Architecture and Complex Systems took place at
   Talk series by Aalto University. Internationally high-level, innovative, and
   unorthodox researchers like Benjamin Dillenburger (CH/DE), Elizabeth Jochum
   (DK/USA), and Martin Hanczyc (IT/USA) presented their ongoing research.
-date: 2023-03-02T08:57:27.631Z
+date: 2023-03-13T12:08:02.016Z
 thumbnail: /img/uploads/multiplier-6.jpg
 socialImage: /img/uploads/multiplier-6.jpg
 authors:
