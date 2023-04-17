@@ -11,24 +11,20 @@ authors:
 category: article
 crosspost: true
 ---
-Alchemy of Knowledge - Transdisciplinary entanglements of Artificial Biology, Robotics, and Art
+**Alchemy of Knowledge - Transdisciplinary entanglements of Artificial Biology, Robotics, and Art**
 
-Place: [aqb Project Space](https://facebook.com/aqbprojectspace)
+**Place:** [aqb Project Space](https://facebook.com/aqbprojectspace)
 
-Exhibition opening: May 12. 16:00 CET
+**Exhibition opening:** May 12. 16:00 CET
 
-Facebook link-[ https://fb.me/e/CgaLkhc2](https://fb.me/e/CgaLkhc2)
-
-
+**Facebook link:**[ https://fb.me/e/CgaLkhc2](https://fb.me/e/CgaLkhc2)
 
 An exhibition of multimedial works of art, science and engineering, created by the multidisciplinary students of the ABRA (Artificial Biology, Robotics and Art) project.
-
-
 
 The exhibition features the collaborative works of the students, faculty and experts who had worked jointly across the fields of science, technology, art, design, and cultures. The exhibition also showcases the methods and practices of higher education that were researched and tested during the ABRA project. These works narrate how we may bridge the art and science for enhanced sustainability and renewal of education.
 
 \
-Exhibiting artists / installations:
+**Exhibiting artists / installations:**
 
 Daniel Szalai - Algorithmic Alchemy of Cows
 
@@ -43,6 +39,8 @@ Edit Blaumann, Marija Sumarac, Sólja Holm Mortensen - Rabarba
 Maros Pekarik, Andrea Tesanovic - Molecular Theatre performance
 
 Hege Tapio - EMPATH performance
+
+![](/img/uploads/0009.jpg)
 
 ![](/img/uploads/0010.jpg)
 
