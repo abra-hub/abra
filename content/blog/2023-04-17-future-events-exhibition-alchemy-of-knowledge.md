@@ -32,7 +32,7 @@ Renata Dezso - Co-Ability / Aberrant behaviour in system aesthetic
 
 Aska Mayer, Johanna Møberg Lauritzen - Estroextract - Speculative protocols on care and contamination of (human) bodies of water
 
-Katri Naukkarinen, Aurora Del Rio - Decay Cyphers
+Katri Naukkarinen, Aurora Del Rio, Markus Löchtefeld [](<>)- Decay Cyphers
 
 Edit Blaumann, Marija Sumarac, Sólja Holm Mortensen - Rabarba
 
