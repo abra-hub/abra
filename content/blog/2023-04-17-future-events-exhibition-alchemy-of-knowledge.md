@@ -13,11 +13,11 @@ crosspost: true
 ---
 **Alchemy of Knowledge - Transdisciplinary entanglements of Artificial Biology, Robotics, and Art**
 
-**Place:** [aqb Project Space](https://facebook.com/aqbprojectspace)
+Place: [aqb Project Space](https://facebook.com/aqbprojectspace)
 
-**Exhibition opening:** May 12. 16:00 CET
+Exhibition opening: May 12. 16:00 CET
 
-**Facebook link:**[ https://fb.me/e/CgaLkhc2](https://fb.me/e/CgaLkhc2)
+Facebook link:[ https://fb.me/e/CgaLkhc2](https://fb.me/e/CgaLkhc2)
 
 An exhibition of multimedial works of art, science and engineering, created by the multidisciplinary students of the ABRA (Artificial Biology, Robotics and Art) project.
 
