@@ -42,8 +42,6 @@ Hege Tapio - EMPATH performance
 
 ![](/img/uploads/0009.jpg)
 
-![](/img/uploads/0010.jpg)
-
 **SYMPOSIUM**
 
 ABRA symposium - ***"What transdisciplinary knowledge looks like"***
@@ -77,3 +75,5 @@ ABRA is a pilot project for cultivating transdisciplinary higher education and c
 17.45 [Esteban de la Torre](https://ejtech.studio/ABOUT), New Media and Metamaterial artist, Innovation Center MOME (HU).
 
 18.00 Networking lounge.
+
+![](/img/uploads/0010.jpg)
