@@ -2,7 +2,7 @@
 layout: blog
 title: "Future events: Symposium - What Transdisciplinary Knowledge Looks Like "
 description: Symposium in MOME auditorium, Budapest, on May 10, 15.30-19.00
-date: 2023-04-17T11:12:30.698Z
+date: 2023-04-18T09:33:50.121Z
 thumbnail: /img/uploads/0010.jpg
 socialImage: /img/uploads/0010.jpg
 authors:
