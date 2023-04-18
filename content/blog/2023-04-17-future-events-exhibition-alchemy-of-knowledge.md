@@ -25,8 +25,6 @@ The "What Transdisciplinary Knowledge Looks Like" symposium showcases contempora
 
 ABRA (Artificial Biology, Robotics and Art) project in collaboration with MOME invites educators, students, researchers, designers, artists, and scientists to jointly envision a bridge between possibilities in transdisciplinary education and the professions of tomorrow.
 
-ABRA is a pilot project for cultivating transdisciplinary higher education and capacity building in science and arts. The project is focused on entanglement of artificial biology, robotics, art and design for enhanced social and environmental sustainability.
-
 15.30 registration and coffee
 
 16.00 Welcome and about the ABRA project by [Dr. Karina Vissonova](https://ades.design/), ADES (HU)
