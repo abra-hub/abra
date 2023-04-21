@@ -31,9 +31,11 @@ The exhibition features the collaborative works of the students, faculty and exp
 
 **Daniel Szalai - Algorithmic Alchemy of Cows**
 
-What will the cow of the future look like if its evolution is to be controlled entirely by algorithms and managed according to a selection principle that prioritises the cow's compatibility with the technological infrastructure and its efficiency in serving economic goals? The artwork *Algorithmic Alchemy of Cows* uses machine learning to address this issue and raise questions about humankind's relationship to nature and technology. Following a speculative attitude, it projects various evolutionary trajectories of cattle using GANs trained on images of cows obtained from Holstein Friesian sire directories.
+Competitive market conditions, growing world population, and the harmful ecological impact of cattle farming put breeders and farmers under unprecedented pressure to increase their cows' efficiency and productivity while reducing their ecological footprint. For decades, these efforts have been supported by professional performance evaluation systems that parameterise cows and quantify their value using a formula. Today, geneticists and breeders increasingly rely on data science in pursuing these goals and work with computerised mating programs to define their breeding strategies. Drawing on genomic information derived from genetic evaluations and obtained from advanced farm management solutions employing computer vision and machine learning, these programs handle the genomic matrix of tens of thousands of sires and hundreds of millions of cows to find the best possible match according to a set of priorities.
 
-Cow Alchemy *is a project by artist Dániel Szalai, developed and realised together with Dániel Rácz and Marcell Mesterházi at* SZTAKI*, under the scope of the* Artificial Biology, Robotics and Art “ABRA” *project supported by the* Erasmus+ *programme of the* European Union*. Further support from the* Goethe-Institut Munich*,* Library and Information Department*.*
+How will the cow of the future look like if their evolution is to be controlled entirely by algorithms and managed according to a selection principle that prioritises cows' compatibility with the technological infrastructure and their efficiency in serving economic goals? The work Cow Alchemy uses scientific tools to give an artistic reflection on this issue and raise questions about humankind's relationship to nature and technology. Following a speculative attitude, it projects various evolutionary trajectories of cows using GANs (Generative Adversarial Networks) trained on thousands of images of Holstein Friesian cattle obtained from sire directories and semen catalogues.
+
+The resulting imagery oscillates between realistic representations, uncanny, distorted creatures, and fragmented, occasionally even abstract visuals - between idealistic images, science-fiction visions and mystical imagination. The ever-evolving visuals are presented on a holographic LED fan; a device that not only refers to the disembodiment and virtualisation but also evokes the giant air conditioning fans at the dairy farms and thus associates global temperature rising.
 
 ![](/img/uploads/daniel-szalai-cow-alchemy-cow-001_sm.jpg "Daniel Szalai - Algorithmic Alchemy of Cows")
 
@@ -57,9 +59,7 @@ Working with digital technology has been an exploratory endeavour shaped by the 
 
 Yearly, 113.000 kg of estrogenic hormones are released into the environment by humans and livestock, contaminating entire bodies of water and the surrounding earth. With these rapidly increasing concentrations in soil and water all over the world, we can’t avoid being shaped by those hormones.
 
-While these omnipresent estrogens are concealed in our surroundings, the selected distribution of the same components within institutional “healthcare” is subject to heavy gatekeeping and is used as a mechanism for control and repression. Access to hormone-based medical procedures is a process of passing arbitrary artificial obstacles to receive care, which should be perceived as a necessity. That is, if the care is even available or accessible at all.
-
-Taking this contamination and control of estrogens as a starting point, we imagine an alternative approach to hormone-based healthcare:
+While these omnipresent estrogens are concealed in our surroundings, the selected distribution of the same components within institutional “healthcare” is subject to heavy gatekeeping and is used as a mechanism for control and repression. Access to hormone-based medical procedures is a process of passing arbitrary artificial obstacles to receive care, which should be perceived as a necessity. That is, if the care is even available or accessible at all. Taking this contamination and control of estrogens as a starting point, we imagine an alternative approach to hormone-based healthcare:
 
 We desire to define a chemical protocol that can transform hormone pollution, which is harmful for the natural environment, into necessary treatment of human bodies. We envision this protocol offering new possibilities for those seeking estrogen-based medical care, who are currently unable to access it through institutional healthcare systems. Furthermore, we hope that the protocol can help facilitate and inspire the growth of community-based healthcare, giving people the right to care for their own bodies, on their own terms, surrounded by familiar, mutually caring individuals.
 
@@ -82,6 +82,14 @@ The *Atomic Kinship* is re-appropriating this idea, considering that the first r
 
 
 **Edit Blaumann, Marija Sumarac, Sólja Holm Mortensen - Rabarba**
+
+*Rabarba* is an exploration in the field of speculative design presented through a spatial sound installation. Rabarba, a network of European Maker communities, has created an innovative solution that involves the use of soft robotic sand worms, known as Wÿrms. In this future world, the primary focus of the economy is on recovery and addressing the consequences of the twentieth century. However, there is a lack of large-scale, coordinated efforts to safeguard the global environment, resulting in patchwork solutions to combat the impact of climate change, of which *Rabarba* has developed a unique approach to tackling drought, the Wÿrms.
+
+These tiny robots have been designed to protect underground water reserves by utilising sensors, hosted by the local communities, to monitor the moisture content of soil and other environmental factors. Orchestrated by AI, the Wÿrms use algorithms fine-tuned by local hackers to locate areas with high water retention potential and create small underground reservoirs to store water for later use. By biomimicking the branch structures found in nature, Wÿrms help redistribute water during periods of low rainfall. 
+
+The world of *Rabarba* offers a fascinating glimpse into what the future could hold, where humans and machines can coexist inspired by nature and empowered by technology. This techno-organic world where power is no longer concentrated in centralised institutions, but rather in smaller, more agile actors that operate on a local level. 
+
+
 
 ![](/img/uploads/copy-of-image-1_-3d-rhubarb-leaf-pressed-into-sand.jpg "Edit Blaumann, Marija Sumarac, Sólja Holm Mortensen - Rabarba")
 
