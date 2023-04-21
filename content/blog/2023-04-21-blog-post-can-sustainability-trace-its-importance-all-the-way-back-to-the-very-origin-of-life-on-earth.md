@@ -2,7 +2,11 @@
 layout: blog
 title: "Blog Post: Can sustainability trace its importance all the way back to
   the very origin of life on Earth?"
-description: ...
+description: Rather than primitive systems lacking any agency and
+  being completely passive and at the mercy of the environment,  ante-organisms
+  could have played active roles in how they persist, improve, and eventually
+  evolve into life as we know it today through a sustainable relationship with
+  their environments.
 date: 2023-04-21T10:14:24.775Z
 thumbnail: /img/uploads/abrablog-3croptinypng.jpg
 socialImage: /img/uploads/abrablog-3croptinypng.jpg
@@ -18,6 +22,6 @@ Expanding this idea, we quickly encounter salient properties of the system such 
 
 Certain behaviors such as motion, which we see captured in some of our experiments, can sustain the ante-organism over time if the ante-organism can move to environments that positively affect its viability. In this way even primitive organisms have some agency over their fate with viability-based behavior leading to prolonged survival, an increase in robustness and eventually evolvability.
 
-Overall this conjecture on the behavior of primitive organisms presents an alternative view to the origin of life.  Rather than primitive systems lacking any agency and being  completely passive and at the mercy of the environment,  ante-organisms could have played active roles in how they persist, improve, and eventually evolve into life as we know it today through a sustainable relationship with their environments.  For more information see: [https://doi.org/10.1007/​s11084-023-09635-0](https://doi.org/10.1007/s11084-023-09635-0)
+Overall this conjecture on the behavior of primitive organisms presents an alternative view to the origin of life.  Rather than primitive systems lacking any agency and being completely passive and at the mercy of the environment,  ante-organisms could have played active roles in how they persist, improve, and eventually evolve into life as we know it today through a sustainable relationship with their environments.  For more information see: [https://doi.org/10.1007/​s11084-023-09635-0](https://doi.org/10.1007/s11084-023-09635-0)
 
 Could this concept of visibility-based behavior be applied to our future and current technologies, with the critical point of having them be integrated in a sustainable way with our ecosystem?  What engineering and design principles are viability-based?  And how can we embody such ideas in our art and artfacts?  This opens a discussion on the cross contamination of ideas across the disciplines represented here in the ABRA project.
