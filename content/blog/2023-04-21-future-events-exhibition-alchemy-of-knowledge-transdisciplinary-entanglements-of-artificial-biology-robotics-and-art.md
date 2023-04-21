@@ -67,11 +67,15 @@ Combining imaginative practices with scientific research, Estroextract takes the
 
 ![](/img/uploads/3_-water-samples.jpg "Aska Mayer, Johanna Møberg Lauritzen - Estroextract - Speculative protocols on care and contamination of (human) bodies of water")
 
+
+
 **Katri Naukkarinen, Aurora Del Rio, Markus Löchtefeld - Decay Cyphers**
 
-Decay Cyphers is part of the speculative Atomic Kinship research project, founded with the aim of re-visioning radioactivity as a deity. The artists are re-appropriating the idea of forming a cult of radioactivity as a way of transmitting warning messages into deep future.
+The work *Decay Cyphers* is realized as part of the collaborative speculative Atomic Kinship research project, with the aim of re-visioning radioactivity as a deity. With this intent, the project revisits an idea that has been already proposed by scientists and researchers in relation to the construction of a repository for nuclear waste in Yucca Mountain, USA: that of a cult of radioactivity, but later abandoned. 
 
-Decay Cyphers focuses on research around organic materials affected by the Chernobyl fallout in Finland. The artwork presents a designed algorithm which is caught in the attempt of decoding messages from radioactive ashes. The work plays with the space of potentiality in-between ‘failure’ and ‘miracle’ in relation to the expected result of finding a message.
+The *Atomic Kinship* is re-appropriating this idea, considering that the first repository of this kind is currently being built in Finland where they both reside. The project proposes to reconsider the idea of a cult of radioactivity as a way of transmitting warning messages into the deep future, while challenging the human- and male-centric views often dominating the discourse of radioactive inheritance. With this aim, the *Atomic Kinship* project develops through producing systematic attempts at decoding messages from radioactivity, and interpreting them in various ways. These attempts include performative and ritualistic practices, installations, and other forms of artworks. 
+
+*Decay Cyphers* focuses on research around materials affected by the Chernobyl fallout in Finland. Gathered material, such as different cuts from game, as well as nordic pike and certain fungi, such as Lactarius and Hydnoid, that are known to accumulate fallout materials, are being cremated by the artists, and the resulting ashes measured for their radioactivity. The work presents a designed algorithm caught in the attempt to decode messages from the ashes: an attempt that could, within this exhibition, result as successful. Decay Cyphers plays with the space of potentiality in-between ‘failure’ and ‘miracle’ in considering the expectations about finding or not finding a message, the idea of serendipitous discoveries, and all the wishes and hopes that society directs towards technologies.
 
 ![](/img/uploads/atomickinship_decaycyphers_1.jpg "Katri Naukkarinen, Aurora Del Rio, Markus Löchtefeld - Decay Cyphers")
 
@@ -79,7 +83,7 @@ Decay Cyphers focuses on research around organic materials affected by the Cher
 
 **Edit Blaumann, Marija Sumarac, Sólja Holm Mortensen - Rabarba**
 
-![]()
+![](/img/uploads/copy-of-image-1_-3d-rhubarb-leaf-pressed-into-sand.jpg "Edit Blaumann, Marija Sumarac, Sólja Holm Mortensen - Rabarba")
 
 **Maros Pekarik, Andrea Tesanovic - Molecular Theatre performance**
 
