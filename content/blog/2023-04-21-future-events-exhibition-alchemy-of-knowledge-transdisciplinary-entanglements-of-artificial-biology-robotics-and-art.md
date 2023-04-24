@@ -37,9 +37,7 @@ How will the cow of the future look like if their evolution is to be controlled 
 
 The resulting imagery oscillates between realistic representations, uncanny, distorted creatures, and fragmented, occasionally even abstract visuals - between idealistic images, science-fiction visions and mystical imagination. The ever-evolving visuals are presented on a holographic LED fan; a device that not only refers to the disembodiment and virtualisation but also evokes the giant air conditioning fans at the dairy farms and thus associates global temperature rising.
 
-![](/img/uploads/daniel-szalai-cow-alchemy-cow-001_sm.jpg "Daniel Szalai - Algorithmic Alchemy of Cows")
-
-
+![Daniel Szalai - Algorithmic Alchemy of Cows](/img/uploads/daniel-szalai-cow-alchemy-cow-001_sm.jpg "Daniel Szalai - Algorithmic Alchemy of Cows")
 
 **Renata Dezso - Co-Ability / Aberrant behaviour in system aesthetic**
 
@@ -49,11 +47,7 @@ Rather than focusing solely on creating a final design product for problem-solvi
 
 Working with digital technology has been an exploratory endeavour shaped by the influence of time and progress. The objects I create through material fabrication are intended to reflect and provoke thoughts on relationships within soft networks while emphasising aesthetics that are culturally relevant, technically advanced, and visually captivating. 
 
-
-
-![](/img/uploads/12.jpg "Renata Dezso - Co-Ability / Aberrant behaviour in system aesthetic")
-
-
+![Renata Dezso - Co-Ability / Aberrant behaviour in system aesthetic](/img/uploads/12.jpg "Renata Dezso - Co-Ability / Aberrant behaviour in system aesthetic")
 
 **Aska Mayer, Johanna Møberg Lauritzen - Estroextract - Speculative protocols on care and contamination of (human) bodies of water**
 
@@ -65,9 +59,7 @@ We desire to define a chemical protocol that can transform hormone pollution, wh
 
 Combining imaginative practices with scientific research, Estroextract takes the shape of a speculative experimental setup for a future utilization of estrogenic contamination within small-scale communities. This information is conveyed through  speculative blueprints for a bioreactor and other materials needed for extracting estrogens from wastewater, as well as a sample of the desired estrogen hydrogel product. Accompanying this, is a video explaining the motivation and hopes of the project, water samples collected from multiple locations in Europe, and posters displaying these locations.
 
-![](/img/uploads/3_-water-samples.jpg "Aska Mayer, Johanna Møberg Lauritzen - Estroextract - Speculative protocols on care and contamination of (human) bodies of water")
-
-
+![Aska Mayer, Johanna Møberg Lauritzen - Estroextract - Speculative protocols on care and contamination of (human) bodies of water](/img/uploads/3_-water-samples.jpg "Aska Mayer, Johanna Møberg Lauritzen - Estroextract - Speculative protocols on care and contamination of (human) bodies of water")
 
 **Katri Naukkarinen, Aurora Del Rio, Markus Löchtefeld - Decay Cyphers**
 
@@ -77,9 +69,7 @@ The *Atomic Kinship* is re-appropriating this idea, considering that the first r
 
 *Decay Cyphers* focuses on research around materials affected by the Chernobyl fallout in Finland. Gathered material, such as different cuts from game, as well as nordic pike and certain fungi, such as Lactarius and Hydnoid, that are known to accumulate fallout materials, are being cremated by the artists, and the resulting ashes measured for their radioactivity. The work presents a designed algorithm caught in the attempt to decode messages from the ashes: an attempt that could, within this exhibition, result as successful. Decay Cyphers plays with the space of potentiality in-between ‘failure’ and ‘miracle’ in considering the expectations about finding or not finding a message, the idea of serendipitous discoveries, and all the wishes and hopes that society directs towards technologies.
 
-![](/img/uploads/atomickinship_decaycyphers_1.jpg "Katri Naukkarinen, Aurora Del Rio, Markus Löchtefeld - Decay Cyphers")
-
-
+![Katri Naukkarinen, Aurora Del Rio, Markus Löchtefeld - Decay Cyphers](/img/uploads/atomickinship_decaycyphers_1.jpg "Katri Naukkarinen, Aurora Del Rio, Markus Löchtefeld - Decay Cyphers")
 
 **Edit Blaumann, Marija Sumarac, Sólja Holm Mortensen - Rabarba**
 
@@ -89,12 +79,10 @@ These tiny robots have been designed to protect underground water reserves by ut
 
 The world of *Rabarba* offers a fascinating glimpse into what the future could hold, where humans and machines can coexist inspired by nature and empowered by technology. This techno-organic world where power is no longer concentrated in centralised institutions, but rather in smaller, more agile actors that operate on a local level. 
 
-
-
-![](/img/uploads/copy-of-image-1_-3d-rhubarb-leaf-pressed-into-sand.jpg "Edit Blaumann, Marija Sumarac, Sólja Holm Mortensen - Rabarba")
+![Edit Blaumann, Marija Sumarac, Sólja Holm Mortensen - Rabarba](/img/uploads/copy-of-image-1_-3d-rhubarb-leaf-pressed-into-sand.jpg "Edit Blaumann, Marija Sumarac, Sólja Holm Mortensen - Rabarba")
 
 **Maros Pekarik, Andrea Tesanovic - Molecular Theatre performance**
 
 "Molecular Theatre” is an art-science project that explores the fascinating world of protocells – cell-like entities which allow for life-like behavior to spontaneously emerge from non-living chemicals. Through the fusion of scientific inquiry and artistic expression, the project aims to create a unique sensory experience by giving voice to non-living agents of synthetic biology through generative soundscapes. These soundscapes are derived from the behaviors of protocells as they interact with each other and with their environment and serve as a window into the inner workings of these mysterious structures. The opening of the exhibition at the Art Quarter Budapest will feature a live collaboration between artists and protocells, as they come together to generate a one-of-a-kind sound piece followed by a permanent installation showcasing the experiments and the soundscapes generated by the protocells.
 
-![](/img/uploads/copy-of-molecular_theatre_2_some.png "Maros Pekarik, Andrea Tesanovic - Molecular Theatre performance")
+![Maros Pekarik, Andrea Tesanovic - Molecular Theatre performance](/img/uploads/copy-of-molecular_theatre_2_some.png "Maros Pekarik, Andrea Tesanovic - Molecular Theatre performance")
