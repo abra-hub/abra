@@ -5,7 +5,7 @@ title: "Future events: Exhibition - Alchemy of Knowledge. Transdisciplinary
 description: An exhibition of multimedial works of art, science and engineering,
   created by the multidisciplinary students of the ABRA (Artificial Biology,
   Robotics and Art) project.
-date: 2023-04-21T09:43:27.767Z
+date: 2023-04-24T10:59:38.811Z
 thumbnail: /img/uploads/0009.jpg
 socialImage: /img/uploads/0009.jpg
 authors:
