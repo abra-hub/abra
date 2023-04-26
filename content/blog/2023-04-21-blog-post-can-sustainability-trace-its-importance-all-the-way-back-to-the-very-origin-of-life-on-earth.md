@@ -7,7 +7,7 @@ description: Rather than primitive systems lacking any agency and
   could have played active roles in how they persist, improve, and eventually
   evolve into life as we know it today through a sustainable relationship with
   their environments.
-date: 2023-04-21T10:14:24.775Z
+date: 2023-04-26T11:38:13.623Z
 thumbnail: /img/uploads/20100324-n008-copy.png
 socialImage: /img/uploads/20100324-n008-copy.png
 authors:
