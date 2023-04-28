@@ -43,8 +43,6 @@ Image: Daniel Szalai - Algorithmic Alchemy of Cows
 
 
 
-
-
 **Renata Dezso - Co-Ability / Aberrant behaviour in system aesthetic**
 
 My work with ABRA challenges binary thinking and advocate for concepts that embrace complexity. Through an exploration of the co-Ability phenomenon, I highlight how a complex network is more than the sum of its parts. Through a transdisciplinary design exploration, I use 3D-printed tangible prototypes as a medium to engage with philosophical discussions that challenge Western thinking and therefore the concept of binary oppositions. My work exemplifies a "Trans-Disciplinary" approach that integrates art, design, science, and technology as equal partners in a decentralised creative process.
@@ -56,8 +54,6 @@ Working with digital technology has been an exploratory endeavour shaped by the 
 ![Renata Dezso - Co-Ability / Aberrant behaviour in system aesthetic](/img/uploads/12.jpg "Renata Dezso - Co-Ability / Aberrant behaviour in system aesthetic")
 
 Image: Renata Dezso - Co-Ability / Aberrant behaviour in system aesthetic
-
-
 
 
 
@@ -74,8 +70,6 @@ Combining imaginative practices with scientific research, Estroextract takes the
 ![Aska Mayer, Johanna Møberg Lauritzen - Estroextract - Speculative protocols on care and contamination of (human) bodies of water](/img/uploads/3_-water-samples.jpg "Aska Mayer, Johanna Møberg Lauritzen - Estroextract - Speculative protocols on care and contamination of (human) bodies of water")
 
 Image: Aska Mayer, Johanna Møberg Lauritzen - Estroextract - Speculative protocols on care and contamination of (human) bodies of water
-
-
 
 
 
