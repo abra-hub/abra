@@ -14,7 +14,7 @@ authors:
 category: article
 crosspost: true
 ---
-# **Alchemy of Knowledge - Transdisciplinary Entanglements of Artificial Biology, Robotics, and Art**
+###### **Alchemy of Knowledge - Transdisciplinary Entanglements of Artificial Biology, Robotics, and Art**
 
 Place: [aqb Project Space](https://facebook.com/aqbprojectspace)
 
@@ -26,7 +26,7 @@ An exhibition of multimedial works of art, science and engineering, created by t
 
 The exhibition features the collaborative works of the students, faculty and experts who had worked jointly across the fields of science, technology, art, design, and cultures. The exhibition also showcases the methods and practices of higher education that were researched and tested during the ABRA project. These works narrate how we may bridge the art and science for enhanced sustainability and renewal of education.
 
-## \
+###### \
 **Exhibiting artists / installations:**
 
 ###### **Daniel Szalai - Algorithmic Alchemy of Cows**
