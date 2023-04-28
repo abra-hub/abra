@@ -14,7 +14,7 @@ authors:
 category: article
 crosspost: true
 ---
-**Alchemy of Knowledge - Transdisciplinary Entanglements of Artificial Biology, Robotics, and Art**
+# **Alchemy of Knowledge - Transdisciplinary Entanglements of Artificial Biology, Robotics, and Art**
 
 Place: [aqb Project Space](https://facebook.com/aqbprojectspace)
 
@@ -26,10 +26,10 @@ An exhibition of multimedial works of art, science and engineering, created by t
 
 The exhibition features the collaborative works of the students, faculty and experts who had worked jointly across the fields of science, technology, art, design, and cultures. The exhibition also showcases the methods and practices of higher education that were researched and tested during the ABRA project. These works narrate how we may bridge the art and science for enhanced sustainability and renewal of education.
 
-\
+## \
 **Exhibiting artists / installations:**
 
-**Daniel Szalai - Algorithmic Alchemy of Cows**
+###### **Daniel Szalai - Algorithmic Alchemy of Cows**
 
 Competitive market conditions, growing world population, and the harmful ecological impact of cattle farming put breeders and farmers under unprecedented pressure to increase their cows' efficiency and productivity while reducing their ecological footprint. For decades, these efforts have been supported by professional performance evaluation systems that parameterise cows and quantify their value using a formula. Today, geneticists and breeders increasingly rely on data science in pursuing these goals and work with computerised mating programs to define their breeding strategies. Drawing on genomic information derived from genetic evaluations and obtained from advanced farm management solutions employing computer vision and machine learning, these programs handle the genomic matrix of tens of thousands of sires and hundreds of millions of cows to find the best possible match according to a set of priorities.
 
@@ -43,7 +43,7 @@ Image: Daniel Szalai - Algorithmic Alchemy of Cows
 
 
 
-**Renata Dezso - Co-Ability / Aberrant behaviour in system aesthetic**
+###### **Renata Dezso - Co-Ability / Aberrant behaviour in system aesthetic**
 
 My work with ABRA challenges binary thinking and advocate for concepts that embrace complexity. Through an exploration of the co-Ability phenomenon, I highlight how a complex network is more than the sum of its parts. Through a transdisciplinary design exploration, I use 3D-printed tangible prototypes as a medium to engage with philosophical discussions that challenge Western thinking and therefore the concept of binary oppositions. My work exemplifies a "Trans-Disciplinary" approach that integrates art, design, science, and technology as equal partners in a decentralised creative process.
 
@@ -57,7 +57,7 @@ Image: Renata Dezso - Co-Ability / Aberrant behaviour in system aesthetic
 
 
 
-**Aska Mayer, Johanna Møberg Lauritzen - Estroextract - Speculative protocols on care and contamination of (human) bodies of water**
+###### **Aska Mayer, Johanna Møberg Lauritzen - Estroextract - Speculative protocols on care and contamination of (human) bodies of water**
 
 Yearly, 113.000 kg of estrogenic hormones are released into the environment by humans and livestock, contaminating entire bodies of water and the surrounding earth. With these rapidly increasing concentrations in soil and water all over the world, we can’t avoid being shaped by those hormones.
 
@@ -73,7 +73,7 @@ Image: Aska Mayer, Johanna Møberg Lauritzen - Estroextract - Speculative protoc
 
 
 
-**Katri Naukkarinen, Aurora Del Rio, Markus Löchtefeld - Decay Cyphers**
+###### **Katri Naukkarinen, Aurora Del Rio, Markus Löchtefeld - Decay Cyphers**
 
 The work *Decay Cyphers* is realized as part of the collaborative speculative Atomic Kinship research project, with the aim of re-visioning radioactivity as a deity. With this intent, the project revisits an idea that has been already proposed by scientists and researchers in relation to the construction of a repository for nuclear waste in Yucca Mountain, USA: that of a cult of radioactivity, but later abandoned. 
 
@@ -87,7 +87,7 @@ Image: Katri Naukkarinen, Aurora Del Rio, Markus Löchtefeld - Decay Cyphers
 
 
 
-**Edit Blaumann, Marija Sumarac, Sólja Holm Mortensen - Rabarba**
+###### **Edit Blaumann, Marija Sumarac, Sólja Holm Mortensen - Rabarba**
 
 *Rabarba* is an exploration in the field of speculative design presented through a spatial sound installation. Rabarba, a network of European Maker communities, has created an innovative solution that involves the use of soft robotic sand worms, known as Wÿrms. In this future world, the primary focus of the economy is on recovery and addressing the consequences of the twentieth century. However, there is a lack of large-scale, coordinated efforts to safeguard the global environment, resulting in patchwork solutions to combat the impact of climate change, of which *Rabarba* has developed a unique approach to tackling drought, the Wÿrms.
 
@@ -101,7 +101,7 @@ Image: Edit Blaumann, Marija Sumarac, Sólja Holm Mortensen - Rabarba
 
 
 
-**Maros Pekarik, Andrea Tesanovic - Molecular Theatre performance**
+###### **Maros Pekarik, Andrea Tesanovic - Molecular Theatre performance**
 
 "Molecular Theatre” is an art-science project that explores the fascinating world of protocells – cell-like entities which allow for life-like behavior to spontaneously emerge from non-living chemicals. Through the fusion of scientific inquiry and artistic expression, the project aims to create a unique sensory experience by giving voice to non-living agents of synthetic biology through generative soundscapes. These soundscapes are derived from the behaviors of protocells as they interact with each other and with their environment and serve as a window into the inner workings of these mysterious structures. The opening of the exhibition at the Art Quarter Budapest will feature a live collaboration between artists and protocells, as they come together to generate a one-of-a-kind sound piece followed by a permanent installation showcasing the experiments and the soundscapes generated by the protocells.
 
@@ -111,7 +111,7 @@ Image: Maros Pekarik, Andrea Tesanovic - Molecular Theatre performance
 
 
 
-**Hege Tapio - EMPATH, True Emotional Intelligence, artificial or not, comes from embodied knowledge**
+###### **Hege Tapio - EMPATH, True Emotional Intelligence, artificial or not, comes from embodied knowledge**
 
 The project is connected with my Phd research and exploreshow we might envision possible and speculative convergences of machine technology and human bodies, with focus on the areas involving emotions, sensing and empathy. 
 
