@@ -39,6 +39,12 @@ The resulting imagery oscillates between realistic representations, uncanny, dis
 
 ![Daniel Szalai - Algorithmic Alchemy of Cows](/img/uploads/daniel-szalai-cow-alchemy-cow-001_sm.jpg "Daniel Szalai - Algorithmic Alchemy of Cows")
 
+Image: Daniel Szalai - Algorithmic Alchemy of Cows
+
+
+
+
+
 **Renata Dezso - Co-Ability / Aberrant behaviour in system aesthetic**
 
 My work with ABRA challenges binary thinking and advocate for concepts that embrace complexity. Through an exploration of the co-Ability phenomenon, I highlight how a complex network is more than the sum of its parts. Through a transdisciplinary design exploration, I use 3D-printed tangible prototypes as a medium to engage with philosophical discussions that challenge Western thinking and therefore the concept of binary oppositions. My work exemplifies a "Trans-Disciplinary" approach that integrates art, design, science, and technology as equal partners in a decentralised creative process.
@@ -48,6 +54,12 @@ Rather than focusing solely on creating a final design product for problem-solvi
 Working with digital technology has been an exploratory endeavour shaped by the influence of time and progress. The objects I create through material fabrication are intended to reflect and provoke thoughts on relationships within soft networks while emphasising aesthetics that are culturally relevant, technically advanced, and visually captivating. 
 
 ![Renata Dezso - Co-Ability / Aberrant behaviour in system aesthetic](/img/uploads/12.jpg "Renata Dezso - Co-Ability / Aberrant behaviour in system aesthetic")
+
+Image: Renata Dezso - Co-Ability / Aberrant behaviour in system aesthetic
+
+
+
+
 
 **Aska Mayer, Johanna Møberg Lauritzen - Estroextract - Speculative protocols on care and contamination of (human) bodies of water**
 
@@ -61,6 +73,12 @@ Combining imaginative practices with scientific research, Estroextract takes the
 
 ![Aska Mayer, Johanna Møberg Lauritzen - Estroextract - Speculative protocols on care and contamination of (human) bodies of water](/img/uploads/3_-water-samples.jpg "Aska Mayer, Johanna Møberg Lauritzen - Estroextract - Speculative protocols on care and contamination of (human) bodies of water")
 
+Image: Aska Mayer, Johanna Møberg Lauritzen - Estroextract - Speculative protocols on care and contamination of (human) bodies of water
+
+
+
+
+
 **Katri Naukkarinen, Aurora Del Rio, Markus Löchtefeld - Decay Cyphers**
 
 The work *Decay Cyphers* is realized as part of the collaborative speculative Atomic Kinship research project, with the aim of re-visioning radioactivity as a deity. With this intent, the project revisits an idea that has been already proposed by scientists and researchers in relation to the construction of a repository for nuclear waste in Yucca Mountain, USA: that of a cult of radioactivity, but later abandoned. 
@@ -70,6 +88,10 @@ The *Atomic Kinship* is re-appropriating this idea, considering that the first r
 *Decay Cyphers* focuses on research around materials affected by the Chernobyl fallout in Finland. Gathered material, such as different cuts from game, as well as nordic pike and certain fungi, such as Lactarius and Hydnoid, that are known to accumulate fallout materials, are being cremated by the artists, and the resulting ashes measured for their radioactivity. The work presents a designed algorithm caught in the attempt to decode messages from the ashes: an attempt that could, within this exhibition, result as successful. Decay Cyphers plays with the space of potentiality in-between ‘failure’ and ‘miracle’ in considering the expectations about finding or not finding a message, the idea of serendipitous discoveries, and all the wishes and hopes that society directs towards technologies.
 
 ![Katri Naukkarinen, Aurora Del Rio, Markus Löchtefeld - Decay Cyphers](/img/uploads/atomickinship_decaycyphers_1.jpg "Katri Naukkarinen, Aurora Del Rio, Markus Löchtefeld - Decay Cyphers")
+
+Image: Katri Naukkarinen, Aurora Del Rio, Markus Löchtefeld - Decay Cyphers
+
+
 
 **Edit Blaumann, Marija Sumarac, Sólja Holm Mortensen - Rabarba**
 
@@ -81,8 +103,28 @@ The world of *Rabarba* offers a fascinating glimpse into what the future could h
 
 ![Edit Blaumann, Marija Sumarac, Sólja Holm Mortensen - Rabarba](/img/uploads/copy-of-image-1_-3d-rhubarb-leaf-pressed-into-sand.jpg "Edit Blaumann, Marija Sumarac, Sólja Holm Mortensen - Rabarba")
 
+Image: Edit Blaumann, Marija Sumarac, Sólja Holm Mortensen - Rabarba
+
+
+
 **Maros Pekarik, Andrea Tesanovic - Molecular Theatre performance**
 
 "Molecular Theatre” is an art-science project that explores the fascinating world of protocells – cell-like entities which allow for life-like behavior to spontaneously emerge from non-living chemicals. Through the fusion of scientific inquiry and artistic expression, the project aims to create a unique sensory experience by giving voice to non-living agents of synthetic biology through generative soundscapes. These soundscapes are derived from the behaviors of protocells as they interact with each other and with their environment and serve as a window into the inner workings of these mysterious structures. The opening of the exhibition at the Art Quarter Budapest will feature a live collaboration between artists and protocells, as they come together to generate a one-of-a-kind sound piece followed by a permanent installation showcasing the experiments and the soundscapes generated by the protocells.
 
 ![Maros Pekarik, Andrea Tesanovic - Molecular Theatre performance](/img/uploads/copy-of-molecular_theatre_2_some.png "Maros Pekarik, Andrea Tesanovic - Molecular Theatre performance")
+
+Image: Maros Pekarik, Andrea Tesanovic - Molecular Theatre performance
+
+
+
+**Hege Tapio - EMPATH, True Emotional Intelligence, artificial or not, comes from embodied knowledge**
+
+The project is connected with my Phd research and exploreshow we might envision possible and speculative convergences of machine technology and human bodies, with focus on the areas involving emotions, sensing and empathy. 
+
+The continuous development towards measuring our biometry is delivering an added layer of digital information that might become a useful and needed feature as we assemble AI with robotic and virtual humanlike entities. As our fascination with artificial intelligence wears off we gradually also might become even more aware of our embodied qualities. Of how our bodies are capable of detecting, perceiving, interpreting and communicating information, a kind of information that is hard to classify in words or intellectual formats. The fleeting feelings, sensations, gut-feelings, emotions….the fabric that both makes us come to aliveness and that weaves us together as social beings.
+
+Inspired by the Cyborg concept, the blending of machine and the human, my artistic project sought out to create an Empath. My interest in the concept of Cyborg has however been to find a narrative looking at how we as humans might differ from machines or how we find ways adapting our bodies to machines. Some of the questions that has been following me through my research is : “why do we want machines with emotions”? and “can a machine ever replicate/simulate human emotions?”
+
+This is where the concept of the Empath comes in, the cultural references of Empaths is of highly sensitive persons that are able to perceive, understand or even share the feelings of another person without direct communication by mouth. 
+
+The project has evolved into a performance where a Cyborg figure is approaching the audience. The figure is dressed in a silicone suit with embedded technology making use of EMG signals triggering sound-levels and soft robotics to visualize “sensing organs” or presenting non-human features. Embedded are also hidden sensors that picks up the pulse/heartbeat of the figure, and another sensor that is able to sense the pulse/heartbeat from selected audiences. By inviting in the audience into this slightly uncomfortable environment I am hoping to create some ambivalence between the unsettling atmosphere and the unfamiliar figure that is trying to connect emotionally.
