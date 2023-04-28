@@ -29,7 +29,7 @@ The exhibition features the collaborative works of the students, faculty and exp
 \
 **Exhibiting artists / installations:**
 
-**Daniel Szalai - Algorithmic Alchemy of Cows**
+###### **Daniel Szalai - Algorithmic Alchemy of Cows**
 
 Competitive market conditions, growing world population, and the harmful ecological impact of cattle farming put breeders and farmers under unprecedented pressure to increase their cows' efficiency and productivity while reducing their ecological footprint. For decades, these efforts have been supported by professional performance evaluation systems that parameterise cows and quantify their value using a formula. Today, geneticists and breeders increasingly rely on data science in pursuing these goals and work with computerised mating programs to define their breeding strategies. Drawing on genomic information derived from genetic evaluations and obtained from advanced farm management solutions employing computer vision and machine learning, these programs handle the genomic matrix of tens of thousands of sires and hundreds of millions of cows to find the best possible match according to a set of priorities.
 
