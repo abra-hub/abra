@@ -1,13 +1,20 @@
 ---
-type: calendar
-title: "Project Summary and Presentation and Finalization of Transdiscplinary (MA/MSc) Join Masters Degree & Curriculum (TM4)"
-category: "transnational-meetings"
-tags: ["io4","io5", "io6"]
+title: Project Summary and Presentation and Finalization of Transdiscplinary
+  (MA/MSc) Join Masters Degree & Curriculum (TM4)
+author: Aurora Del Rio
+tags:
+  - io4
+  - io5
+  - io6
 date: 2020-11-09T20:47:01.700Z
-startDate: 2023-06-01
+startDate: 2023-05-07T06:00:00.000Z
+endDate: 2023-05-07T13:00:48.952Z
+canceled: false
 withoutTime: true
 city: Budapest
-thumbnail:
+thumbnail: null
+type: calendar
+category: transnational-meetings
 ---
 The fifth transnational meeting is a summary meeting held in conjunction with Multiplier Event [ME]. Project status, and feedback from participants and stakeholders thus far. The Multiplier event that draws broad appeal and interests and involvement from stakeholders and citizens. Finalization and launch of IO-5 – Exhibition and IO-4 Journal of Problem Based Learning in Higher Ed Special Issue. Summary evaluation curriculum with teachers, staff and senior adminstrators. Finalization and approval of IO-6 (Erasmus Joint Masters Degree application).
 
