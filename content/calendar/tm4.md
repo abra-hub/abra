@@ -9,7 +9,7 @@ tags:
 date: 2020-11-09T20:47:01.700Z
 startDate: 2023-05-07T06:00:00.000Z
 endDate: 2023-05-07T13:00:48.952Z
-canceled: true
+canceled: false
 withoutTime: true
 city: Budapest
 thumbnail: null
