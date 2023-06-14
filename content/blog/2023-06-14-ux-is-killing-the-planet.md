@@ -82,3 +82,5 @@ My aim with this provocation is to highlight that before trying to use ICT and U
 *\[11] Özçelik, A., Löchtefeld, M., & Tollestrup, C. (2022). Long-lasting smart products: Overview of longevity concepts in sustainable ICT and design for sustainability. DRS2022: Bilbao, 25.*
 
 *\[12] Widdicks, K., Hazas, M., Bates, O., & Friday, A. (2019, May). Streaming, multi-screens and YouTube: The new (unsustainable) ways of watching in the home. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (pp. 1-13).*
+
+*H﻿eader Image:* https://commons.wikimedia.org/wiki/File:Electronic_waste_at_Agbogbloshie,_Ghana.jpg (under CC)
