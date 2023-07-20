@@ -8,6 +8,7 @@ socialImage: /img/uploads/workshop14.jpg
 authors:
   - Aurora Del Rio
   - Laura Beloff
+  - Pia Fricker
 category: article
 crosspost: true
 ---
@@ -48,3 +49,5 @@ As a general rule, it is suggested to **start with some basic theory, followed b
 When facing challenges, a teacher may consider that it is not always possible to find the right balance between theory and practise for all learners, as people learn through varying mechanisms. People have different learning styles and sometimes students attach particular identities to themselves. An educator should thus also keep in mind the importance of finding ways to challenge learners’ identities.
 
 And finally, the best preparation for a course (or any educational activity) is to test it first. The focus must be on how learners formulate their understandings through their discoveries, sharing ideas or their research, and discussing it with peers. This can be ensured with dedicated time for reflection in smaller or larger groups.
+
+![](/img/uploads/workshop14.jpg)
