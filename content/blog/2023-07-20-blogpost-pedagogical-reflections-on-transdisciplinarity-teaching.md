@@ -2,7 +2,7 @@
 layout: blog
 title: "Blogpost: Pedagogical reflections on transdisciplinarity teaching"
 description: Pedagogical reflections on transdisciplinarity teaching
-date: 2023-07-20T10:34:38.329Z
+date: 2023-07-25T12:29:06.154Z
 thumbnail: /img/uploads/workshop14.jpg
 socialImage: /img/uploads/workshop14.jpg
 authors:
